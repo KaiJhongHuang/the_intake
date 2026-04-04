@@ -2,7 +2,9 @@
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <title>The Intake — 每日知識摘要</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -55,6 +57,7 @@
       margin: 0;
       padding: 0;
       box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
     }
 
     body {
@@ -63,6 +66,8 @@
       color: var(--text);
       line-height: 1.8;
       min-height: 100vh;
+      padding-left: env(safe-area-inset-left);
+      padding-right: env(safe-area-inset-right);
     }
 
     .container {
@@ -74,6 +79,7 @@
     /* Header */
     header {
       padding: 48px 0 32px;
+      padding-top: calc(48px + env(safe-area-inset-top));
       text-align: center;
       border-bottom: 1px solid var(--divider);
     }
@@ -107,15 +113,18 @@
     }
 
     .filter-tab {
-      padding: 6px 16px;
+      padding: 8px 16px;
+      min-height: 44px;
       border-radius: 20px;
       border: 1px solid var(--input-border);
       background: var(--tab-bg);
       color: var(--tab-text);
-      font-size: 0.875rem;
+      font-size: 0.9rem;
       cursor: pointer;
       transition: all 0.2s;
       font-family: inherit;
+      display: inline-flex;
+      align-items: center;
     }
 
     .filter-tab:hover {
@@ -133,12 +142,13 @@
     }
 
     .search-box input {
-      padding: 8px 16px;
+      padding: 10px 16px;
+      min-height: 44px;
       border-radius: 20px;
       border: 1px solid var(--input-border);
       background: var(--input-bg);
       color: var(--text);
-      font-size: 0.875rem;
+      font-size: 1rem;
       font-family: inherit;
       width: 220px;
       outline: none;
@@ -166,6 +176,7 @@
     #article-list {
       overflow-y: auto;
       max-height: calc(100vh - 240px);
+      -webkit-overflow-scrolling: touch;
       padding-right: 8px;
     }
 
@@ -184,6 +195,7 @@
 
     .article-card {
       padding: 16px 20px;
+      min-height: 44px;
       background: var(--card-bg);
       border: 1px solid var(--card-border);
       border-radius: 10px;
@@ -198,6 +210,10 @@
     .article-card:hover {
       box-shadow: var(--card-hover-shadow);
       border-color: var(--text-secondary);
+    }
+
+    .article-card:active {
+      transform: scale(0.98);
     }
 
     .article-card.active {
@@ -235,9 +251,10 @@
     }
 
     .article-meta a {
-      font-size: 0.75rem;
+      font-size: 0.8rem;
       color: var(--link-color);
       text-decoration: none;
+      padding: 4px 0;
     }
 
     .article-meta a:hover {
@@ -252,6 +269,7 @@
       padding: 32px;
       overflow-y: auto;
       max-height: calc(100vh - 240px);
+      -webkit-overflow-scrolling: touch;
     }
 
     #preview-pane.empty {
@@ -262,18 +280,23 @@
       font-size: 0.95rem;
     }
 
+    /* Back button (mobile only) */
+    .back-btn {
+      display: none;
+    }
+
     /* Markdown content styling */
     .markdown-body h1 { font-size: 1.5rem; margin: 0 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--divider); }
     .markdown-body h2 { font-size: 1.25rem; margin: 24px 0 12px; }
     .markdown-body h3 { font-size: 1.1rem; margin: 20px 0 8px; }
     .markdown-body p { margin: 8px 0; }
-    .markdown-body a { color: var(--link-color); text-decoration: none; }
+    .markdown-body a { color: var(--link-color); text-decoration: none; word-break: break-all; }
     .markdown-body a:hover { text-decoration: underline; }
     .markdown-body strong { font-weight: 700; }
     .markdown-body ul, .markdown-body ol { padding-left: 24px; margin: 8px 0; }
     .markdown-body li { margin: 4px 0; }
     .markdown-body code { background: var(--input-bg); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; }
-    .markdown-body pre { background: var(--input-bg); padding: 16px; border-radius: 8px; overflow-x: auto; margin: 12px 0; }
+    .markdown-body pre { background: var(--input-bg); padding: 16px; border-radius: 8px; overflow-x: auto; margin: 12px 0; -webkit-overflow-scrolling: touch; }
     .markdown-body pre code { background: none; padding: 0; }
     .markdown-body blockquote { border-left: 3px solid var(--divider); padding-left: 16px; color: var(--text-secondary); margin: 12px 0; }
     .markdown-body hr { border: none; border-top: 1px solid var(--divider); margin: 20px 0; }
@@ -289,6 +312,7 @@
     /* Footer */
     footer {
       padding: 24px 0;
+      padding-bottom: calc(24px + env(safe-area-inset-bottom));
       text-align: center;
       border-top: 1px solid var(--divider);
       color: var(--text-secondary);
@@ -311,14 +335,38 @@
       padding: 32px;
     }
 
-    /* Responsive */
+    /* Responsive - Mobile */
     @media (max-width: 768px) {
-      header { padding: 32px 0 20px; }
+      .container {
+        padding: 0 16px;
+      }
+
+      header {
+        padding: 24px 0 16px;
+        padding-top: calc(24px + env(safe-area-inset-top));
+      }
+
       header h1 { font-size: 1.5rem; }
 
       nav {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: var(--bg);
+        padding: 12px 0;
         flex-direction: column;
         align-items: stretch;
+      }
+
+      .filter-tabs {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        flex-wrap: nowrap;
+        padding-bottom: 4px;
+      }
+
+      .filter-tab {
+        flex-shrink: 0;
       }
 
       .search-box {
@@ -331,16 +379,66 @@
 
       main {
         grid-template-columns: 1fr;
+        padding: 16px 0;
+        gap: 16px;
       }
 
       #article-list {
         max-height: none;
         overflow-y: visible;
+        padding-right: 0;
       }
 
+      /* Mobile: preview as full-screen overlay */
       #preview-pane {
+        display: none;
         max-height: none;
         overflow-y: visible;
+      }
+
+      #preview-pane.empty {
+        display: none;
+      }
+
+      #preview-pane.mobile-open {
+        display: block;
+        position: fixed;
+        inset: 0;
+        z-index: 100;
+        border-radius: 0;
+        border: none;
+        padding: 16px;
+        padding-top: calc(16px + env(safe-area-inset-top));
+        padding-bottom: calc(16px + env(safe-area-inset-bottom));
+        padding-left: calc(16px + env(safe-area-inset-left));
+        padding-right: calc(16px + env(safe-area-inset-right));
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        background: var(--bg);
+      }
+
+      /* Back button visible on mobile */
+      .back-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        padding: 10px 0;
+        min-height: 44px;
+        background: none;
+        border: none;
+        color: var(--link-color);
+        font-size: 1rem;
+        font-family: inherit;
+        cursor: pointer;
+        margin-bottom: 12px;
+      }
+
+      .back-btn:active {
+        opacity: 0.6;
+      }
+
+      .article-card {
+        padding: 14px 16px;
       }
     }
   </style>
@@ -364,7 +462,7 @@
         <div class="loading">載入中...</div>
       </section>
       <aside id="preview-pane" class="empty">
-        <span>點擊左側文章以預覽內容</span>
+        <span>點擊文章以預覽內容</span>
       </aside>
     </main>
 
@@ -379,6 +477,7 @@
     let currentCategory = 'all';
     let currentSearch = '';
     let activeFile = null;
+    const isMobile = () => window.innerWidth <= 768;
 
     async function init() {
       try {
@@ -390,12 +489,10 @@
         return;
       }
 
-      // Set repo link
       const repoLink = document.getElementById('repo-link');
       repoLink.href = `https://github.com/${data.site.repo}`;
       repoLink.textContent = data.site.repo;
 
-      // Build category lookup
       data._catMap = {};
       data.categories.forEach(c => { data._catMap[c.id] = c; });
 
@@ -443,10 +540,8 @@
         return;
       }
 
-      // Sort by date descending
       articles.sort((a, b) => b.date.localeCompare(a.date));
 
-      // Group by date
       const groups = {};
       articles.forEach(a => {
         if (!groups[a.date]) groups[a.date] = [];
@@ -478,10 +573,19 @@
       container.innerHTML = html;
     }
 
+    function closePreview() {
+      const pane = document.getElementById('preview-pane');
+      pane.classList.remove('mobile-open');
+      pane.classList.add('empty');
+      pane.innerHTML = '<span>點擊文章以預覽內容</span>';
+      activeFile = null;
+      document.querySelectorAll('.article-card').forEach(c => c.classList.remove('active'));
+      document.body.style.overflow = '';
+    }
+
     async function loadPreview(file, cardEl) {
       activeFile = file;
 
-      // Update active card styling
       document.querySelectorAll('.article-card').forEach(c => c.classList.remove('active'));
       if (cardEl) cardEl.classList.add('active');
 
@@ -489,18 +593,25 @@
       pane.classList.remove('empty');
       pane.innerHTML = '<div class="loading">載入中...</div>';
 
+      if (isMobile()) {
+        pane.classList.add('mobile-open');
+        document.body.style.overflow = 'hidden';
+      }
+
       try {
         const res = await fetch(file + '?v=' + Date.now());
         if (!res.ok) throw new Error('fetch failed');
         const md = await res.text();
-        pane.innerHTML = `<div class="markdown-body">${marked.parse(md)}</div>`;
+        const backBtn = isMobile()
+          ? '<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button>'
+          : '';
+        pane.innerHTML = `${backBtn}<div class="markdown-body">${marked.parse(md)}</div>`;
+        pane.scrollTop = 0;
       } catch {
-        pane.innerHTML = '<div class="no-results">無法載入文章內容</div>';
-      }
-
-      // On mobile, scroll preview into view
-      if (window.innerWidth <= 768) {
-        pane.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        const backBtn = isMobile()
+          ? '<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button>'
+          : '';
+        pane.innerHTML = `${backBtn}<div class="no-results">無法載入文章內容</div>`;
       }
     }
 
