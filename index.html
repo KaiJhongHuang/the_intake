@@ -382,7 +382,7 @@
 
     async function init() {
       try {
-        const res = await fetch('content.json');
+        const res = await fetch('content.json?v=' + Date.now());
         data = await res.json();
       } catch {
         document.getElementById('article-list').innerHTML =
@@ -490,7 +490,7 @@
       pane.innerHTML = '<div class="loading">載入中...</div>';
 
       try {
-        const res = await fetch(file);
+        const res = await fetch(file + '?v=' + Date.now());
         if (!res.ok) throw new Error('fetch failed');
         const md = await res.text();
         pane.innerHTML = `<div class="markdown-body">${marked.parse(md)}</div>`;
