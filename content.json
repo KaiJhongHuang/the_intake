@@ -1,0 +1,25 @@
+{
+  "site": {
+    "title": "The Intake",
+    "subtitle": "每日知識摘要",
+    "repo": "kaijhonghuang/the_intake"
+  },
+  "categories": [
+    { "id": "daily-newspaper", "folder": "Journal/01_Daily_Newspaper", "name": "每日新聞", "icon": "📰", "color": "#3b82f6" },
+    { "id": "daily-newspaper-ai", "folder": "Journal/02_Daily_Newspaper_AI", "name": "AI 工作流日報", "icon": "🤖", "color": "#8b5cf6" }
+  ],
+  "articles": [
+    {
+      "date": "2026-04-04",
+      "title": "中東戰火推升油價連鎖效應",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-04-Iran-War-Oil-Shock.md"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Claude Code 原始碼洩漏重塑 AI 生態",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-04-Claude-Code-Leak-Reshapes-Ecosystem.md"
+    }
+  ]
+}

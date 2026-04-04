@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Intake — 每日知識摘要</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --bg-secondary: #f8f9fa;
+      --text: #1a1a1a;
+      --text-secondary: #6b7280;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-hover-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      --input-bg: #f3f4f6;
+      --input-border: #d1d5db;
+      --preview-bg: #f9fafb;
+      --preview-border: #e5e7eb;
+      --link-color: #2563eb;
+      --divider: #e5e7eb;
+      --tag-text: #ffffff;
+      --active-tab-bg: #1a1a1a;
+      --active-tab-text: #ffffff;
+      --tab-bg: #f3f4f6;
+      --tab-text: #4b5563;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f1117;
+        --bg-secondary: #1a1d27;
+        --text: #e5e7eb;
+        --text-secondary: #9ca3af;
+        --card-bg: #1a1d27;
+        --card-border: #2d3148;
+        --card-hover-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        --input-bg: #1a1d27;
+        --input-border: #2d3148;
+        --preview-bg: #1a1d27;
+        --preview-border: #2d3148;
+        --link-color: #60a5fa;
+        --divider: #2d3148;
+        --active-tab-bg: #e5e7eb;
+        --active-tab-text: #0f1117;
+        --tab-bg: #1a1d27;
+        --tab-text: #9ca3af;
+      }
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.8;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* Header */
+    header {
+      padding: 48px 0 32px;
+      text-align: center;
+      border-bottom: 1px solid var(--divider);
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      margin-bottom: 4px;
+    }
+
+    header p {
+      color: var(--text-secondary);
+      font-size: 1rem;
+    }
+
+    /* Nav / Filters */
+    nav {
+      padding: 24px 0 16px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 12px;
+      border-bottom: 1px solid var(--divider);
+    }
+
+    .filter-tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-tab {
+      padding: 6px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--input-border);
+      background: var(--tab-bg);
+      color: var(--tab-text);
+      font-size: 0.875rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .filter-tab:hover {
+      border-color: var(--text-secondary);
+    }
+
+    .filter-tab.active {
+      background: var(--active-tab-bg);
+      color: var(--active-tab-text);
+      border-color: var(--active-tab-bg);
+    }
+
+    .search-box {
+      margin-left: auto;
+    }
+
+    .search-box input {
+      padding: 8px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--input-border);
+      background: var(--input-bg);
+      color: var(--text);
+      font-size: 0.875rem;
+      font-family: inherit;
+      width: 220px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-box input::placeholder {
+      color: var(--text-secondary);
+    }
+
+    .search-box input:focus {
+      border-color: var(--link-color);
+    }
+
+    /* Main layout */
+    main {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      padding: 24px 0;
+      min-height: calc(100vh - 280px);
+    }
+
+    /* Article list */
+    #article-list {
+      overflow-y: auto;
+      max-height: calc(100vh - 240px);
+      padding-right: 8px;
+    }
+
+    .date-group {
+      margin-bottom: 24px;
+    }
+
+    .date-label {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      margin-bottom: 8px;
+      padding-left: 4px;
+    }
+
+    .article-card {
+      padding: 16px 20px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 10px;
+      margin-bottom: 8px;
+      cursor: pointer;
+      transition: box-shadow 0.2s, border-color 0.2s;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .article-card:hover {
+      box-shadow: var(--card-hover-shadow);
+      border-color: var(--text-secondary);
+    }
+
+    .article-card.active {
+      border-color: var(--link-color);
+      box-shadow: 0 0 0 1px var(--link-color);
+    }
+
+    .category-badge {
+      display: inline-block;
+      padding: 2px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      color: var(--tag-text);
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 4px;
+    }
+
+    .article-info {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .article-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      line-height: 1.5;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 4px;
+    }
+
+    .article-meta a {
+      font-size: 0.75rem;
+      color: var(--link-color);
+      text-decoration: none;
+    }
+
+    .article-meta a:hover {
+      text-decoration: underline;
+    }
+
+    /* Preview pane */
+    #preview-pane {
+      background: var(--preview-bg);
+      border: 1px solid var(--preview-border);
+      border-radius: 10px;
+      padding: 32px;
+      overflow-y: auto;
+      max-height: calc(100vh - 240px);
+    }
+
+    #preview-pane.empty {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+    }
+
+    /* Markdown content styling */
+    .markdown-body h1 { font-size: 1.5rem; margin: 0 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--divider); }
+    .markdown-body h2 { font-size: 1.25rem; margin: 24px 0 12px; }
+    .markdown-body h3 { font-size: 1.1rem; margin: 20px 0 8px; }
+    .markdown-body p { margin: 8px 0; }
+    .markdown-body a { color: var(--link-color); text-decoration: none; }
+    .markdown-body a:hover { text-decoration: underline; }
+    .markdown-body strong { font-weight: 700; }
+    .markdown-body ul, .markdown-body ol { padding-left: 24px; margin: 8px 0; }
+    .markdown-body li { margin: 4px 0; }
+    .markdown-body code { background: var(--input-bg); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; }
+    .markdown-body pre { background: var(--input-bg); padding: 16px; border-radius: 8px; overflow-x: auto; margin: 12px 0; }
+    .markdown-body pre code { background: none; padding: 0; }
+    .markdown-body blockquote { border-left: 3px solid var(--divider); padding-left: 16px; color: var(--text-secondary); margin: 12px 0; }
+    .markdown-body hr { border: none; border-top: 1px solid var(--divider); margin: 20px 0; }
+
+    /* Empty state */
+    .no-results {
+      text-align: center;
+      color: var(--text-secondary);
+      padding: 48px 0;
+      font-size: 0.95rem;
+    }
+
+    /* Footer */
+    footer {
+      padding: 24px 0;
+      text-align: center;
+      border-top: 1px solid var(--divider);
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+    }
+
+    footer a {
+      color: var(--text-secondary);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--text);
+    }
+
+    /* Loading spinner */
+    .loading {
+      text-align: center;
+      color: var(--text-secondary);
+      padding: 32px;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      header { padding: 32px 0 20px; }
+      header h1 { font-size: 1.5rem; }
+
+      nav {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .search-box {
+        margin-left: 0;
+      }
+
+      .search-box input {
+        width: 100%;
+      }
+
+      main {
+        grid-template-columns: 1fr;
+      }
+
+      #article-list {
+        max-height: none;
+        overflow-y: visible;
+      }
+
+      #preview-pane {
+        max-height: none;
+        overflow-y: visible;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>The Intake</h1>
+      <p>每日知識摘要</p>
+    </header>
+
+    <nav>
+      <div class="filter-tabs" id="filter-tabs"></div>
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="搜尋文章標題...">
+      </div>
+    </nav>
+
+    <main>
+      <section id="article-list">
+        <div class="loading">載入中...</div>
+      </section>
+      <aside id="preview-pane" class="empty">
+        <span>點擊左側文章以預覽內容</span>
+      </aside>
+    </main>
+
+    <footer>
+      <a id="repo-link" href="#">GitHub</a>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    let data = null;
+    let currentCategory = 'all';
+    let currentSearch = '';
+    let activeFile = null;
+
+    async function init() {
+      try {
+        const res = await fetch('content.json');
+        data = await res.json();
+      } catch {
+        document.getElementById('article-list').innerHTML =
+          '<div class="no-results">無法載入文章清單</div>';
+        return;
+      }
+
+      // Set repo link
+      const repoLink = document.getElementById('repo-link');
+      repoLink.href = `https://github.com/${data.site.repo}`;
+      repoLink.textContent = data.site.repo;
+
+      // Build category lookup
+      data._catMap = {};
+      data.categories.forEach(c => { data._catMap[c.id] = c; });
+
+      renderTabs();
+      renderArticles();
+
+      document.getElementById('search-input').addEventListener('input', (e) => {
+        currentSearch = e.target.value.trim().toLowerCase();
+        renderArticles();
+      });
+    }
+
+    function renderTabs() {
+      const container = document.getElementById('filter-tabs');
+      let html = `<button class="filter-tab active" data-cat="all">全部</button>`;
+      data.categories.forEach(c => {
+        html += `<button class="filter-tab" data-cat="${c.id}">${c.icon} ${c.name}</button>`;
+      });
+      container.innerHTML = html;
+
+      container.addEventListener('click', (e) => {
+        const btn = e.target.closest('.filter-tab');
+        if (!btn) return;
+        currentCategory = btn.dataset.cat;
+        container.querySelectorAll('.filter-tab').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderArticles();
+      });
+    }
+
+    function getFilteredArticles() {
+      return data.articles.filter(a => {
+        if (currentCategory !== 'all' && a.category !== currentCategory) return false;
+        if (currentSearch && !a.title.toLowerCase().includes(currentSearch)) return false;
+        return true;
+      });
+    }
+
+    function renderArticles() {
+      const container = document.getElementById('article-list');
+      const articles = getFilteredArticles();
+
+      if (articles.length === 0) {
+        container.innerHTML = '<div class="no-results">沒有找到符合條件的文章</div>';
+        return;
+      }
+
+      // Sort by date descending
+      articles.sort((a, b) => b.date.localeCompare(a.date));
+
+      // Group by date
+      const groups = {};
+      articles.forEach(a => {
+        if (!groups[a.date]) groups[a.date] = [];
+        groups[a.date].push(a);
+      });
+
+      let html = '';
+      Object.keys(groups).sort().reverse().forEach(date => {
+        html += `<div class="date-group">`;
+        html += `<div class="date-label">${date}</div>`;
+        groups[date].forEach(a => {
+          const cat = data._catMap[a.category];
+          const ghUrl = `https://github.com/${data.site.repo}/blob/main/${a.file}`;
+          const isActive = activeFile === a.file ? ' active' : '';
+          html += `
+            <div class="article-card${isActive}" data-file="${a.file}" onclick="loadPreview('${a.file}', this)">
+              <span class="category-badge" style="background:${cat ? cat.color : '#6b7280'}">${cat ? cat.icon : ''} ${cat ? cat.name : ''}</span>
+              <div class="article-info">
+                <div class="article-title">${escapeHtml(a.title)}</div>
+                <div class="article-meta">
+                  <a href="${ghUrl}" target="_blank" rel="noopener" onclick="event.stopPropagation()">在 GitHub 查看</a>
+                </div>
+              </div>
+            </div>`;
+        });
+        html += `</div>`;
+      });
+
+      container.innerHTML = html;
+    }
+
+    async function loadPreview(file, cardEl) {
+      activeFile = file;
+
+      // Update active card styling
+      document.querySelectorAll('.article-card').forEach(c => c.classList.remove('active'));
+      if (cardEl) cardEl.classList.add('active');
+
+      const pane = document.getElementById('preview-pane');
+      pane.classList.remove('empty');
+      pane.innerHTML = '<div class="loading">載入中...</div>';
+
+      try {
+        const res = await fetch(file);
+        if (!res.ok) throw new Error('fetch failed');
+        const md = await res.text();
+        pane.innerHTML = `<div class="markdown-body">${marked.parse(md)}</div>`;
+      } catch {
+        pane.innerHTML = '<div class="no-results">無法載入文章內容</div>';
+      }
+
+      // On mobile, scroll preview into view
+      if (window.innerWidth <= 768) {
+        pane.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
+    function escapeHtml(str) {
+      const d = document.createElement('div');
+      d.textContent = str;
+      return d.innerHTML;
+    }
+
+    init();
+  </script>
+</body>
+</html>
