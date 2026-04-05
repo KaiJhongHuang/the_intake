@@ -1,6 +1,8 @@
 # AI工作流日報 — 2026-04-05
 > 涵蓋範圍：2026-04-04 06:00 ~ 2026-04-05 06:00 (TST)
 
+> 📌 Claude 摘要：本週 Anthropic 動作密集——三 Agent Harness 公開、Conway 平台曝光、第三方計費調整、生技收購——顯示公司正從「模型供應商」加速轉型為「AI 平台生態系」。社群端 Claw Code 的爆發式成長則反映開發者對開源 agent 框架的強烈需求，後續 Anthropic 與開源社群的競合關係值得關注。
+
 ## 🧠 Prompt 技巧 & 使用心得
 
 [1] **Simon Willison 談 Agentic Engineering 三大模式**：在 Lenny's Podcast 分享每日使用的 red/green TDD、templates、hoarding 三種 agent 工作流模式。([來源](https://simonwillison.net/2026/Apr/2/lennys-podcast/))
@@ -33,6 +35,3 @@
 
 [12] **「漏洞研究已死」引熱議**：Simon Willison 轉載 Thomas Ptacek 文章，指出最新前沿模型對漏洞研究領域造成巨大衝擊。([來源](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/))
 
----
-
-📌 Claude 推測：本週 Anthropic 動作密集——三 Agent Harness 公開、Conway 平台曝光、第三方計費調整、生技收購——顯示公司正從「模型供應商」加速轉型為「AI 平台生態系」。社群端 Claw Code 的爆發式成長則反映開發者對開源 agent 框架的強烈需求，後續 Anthropic 與開源社群的競合關係值得關注。

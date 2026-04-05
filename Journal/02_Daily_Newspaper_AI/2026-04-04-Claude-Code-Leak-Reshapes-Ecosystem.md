@@ -1,6 +1,8 @@
 # AI工作流日報 — 2026-04-04
 > 涵蓋範圍：2026-04-03 06:00 ~ 2026-04-04 06:00 (TST)
 
+> 📌 Claude 摘要：本週 Claude 生態最大事件無疑是原始碼洩漏——它意外催生了開源替代品的爆發（claw-code、oh-my-claudecode），同時迫使 Anthropic 收緊訂閱政策封鎖第三方 Agent。這標誌著 Claude 從「封閉工具」走向「平台生態博弈」的轉折點。開發者應關注 Plugin SDK 遷移（legacy → claude-agent-sdk）與 1M context beta 退役的時程，及早調整工作流。
+
 ## 🧠 Prompt 技巧 & 使用心得
 
 [1] **Contract-Style Prompt 架構**：2026 年 Claude prompt 設計主流轉向「合約式」——定義成功標準讓模型自行決定方法，而非逐步指令。（[來源](https://promptbuilder.cc/blog/claude-prompt-engineering-best-practices-2026)）
@@ -49,5 +51,3 @@
 
 [20] **1M Context Window Beta 將於 4/30 退役**：Sonnet 4.5/4.0 的百萬 token 窗口 Beta 結束，需遷移至 Sonnet 4.6 或 Opus 4.6（原生支援）。（[來源](https://releasebot.io/updates/anthropic)）
 
----
-📌 Claude 推測：本週 Claude 生態最大事件無疑是原始碼洩漏——它意外催生了開源替代品的爆發（claw-code、oh-my-claudecode），同時迫使 Anthropic 收緊訂閱政策封鎖第三方 Agent。這標誌著 Claude 從「封閉工具」走向「平台生態博弈」的轉折點。開發者應關注 Plugin SDK 遷移（legacy → claude-agent-sdk）與 1M context beta 退役的時程，及早調整工作流。

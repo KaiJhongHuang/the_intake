@@ -1,6 +1,8 @@
 # AI工作流日報 — 2026-04-03
 > 涵蓋範圍：2026-04-02 06:00 ~ 2026-04-03 06:00 (TST)
 
+> 📌 Claude 摘要：4/3 是 Anthropic 的「平台化宣言日」——Windows Computer Use、Dispatch 手機派任、M365 全方案開放三箭齊發，展示 Claude 從終端工具走向全平台 Agent 的野心。但同日宣布封鎖 OpenClaw 訂閱，暗示 Anthropic 正收緊生態控制權，在開放與封閉之間尋找平衡點。
+
 ## 🧠 Prompt 技巧 & 使用心得
 
 [1] **7 個 Prompt 轉變省下每週 10 小時**：停止把 Claude 當聊天機器人，改用任務委派式 prompt——定義角色、交付物、驗收標準。（[來源](https://www.tomsguide.com/ai/i-stopped-using-claude-like-a-chatbot-7-prompt-shifts-that-reclaimed-10-hours-of-my-week)）
@@ -39,5 +41,3 @@
 
 [15] **BetaKit 觀點：洩漏已永久改變 AI 競賽**：評論認為洩漏碼的架構知識擴散無法逆轉，AI Agent 市場將加速開源化。（[來源](https://betakit.com/claudes-source-code-leak-has-permanently-changed-the-ai-race/)）
 
----
-📌 Claude 推測：4/3 是 Anthropic 的「平台化宣言日」——Windows Computer Use、Dispatch 手機派任、M365 全方案開放三箭齊發，展示 Claude 從終端工具走向全平台 Agent 的野心。但同日宣布封鎖 OpenClaw 訂閱，暗示 Anthropic 正收緊生態控制權，在開放與封閉之間尋找平衡點。
