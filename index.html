@@ -30,7 +30,7 @@
     }
 
     @media (prefers-color-scheme: dark) {
-      :root {
+      :root:not([data-theme]) {
         --bg: #0f1117;
         --bg-secondary: #1a1d27;
         --text: #e5e7eb;
@@ -47,6 +47,62 @@
         --tab-bg: #1a1d27;
         --tab-text: #9ca3af;
       }
+    }
+
+    [data-theme="dark"] {
+      --bg: #0f1117;
+      --bg-secondary: #1a1d27;
+      --text: #e5e7eb;
+      --text-secondary: #9ca3af;
+      --card-bg: #1a1d27;
+      --card-border: #2d3148;
+      --card-hover-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      --input-bg: #1a1d27;
+      --input-border: #2d3148;
+      --link-color: #60a5fa;
+      --divider: #2d3148;
+      --active-tab-bg: #e5e7eb;
+      --active-tab-text: #0f1117;
+      --tab-bg: #1a1d27;
+      --tab-text: #9ca3af;
+    }
+
+    [data-theme="sepia"] {
+      --bg: #f4ecd8;
+      --bg-secondary: #ede3cc;
+      --text: #5b4636;
+      --text-secondary: #8b7355;
+      --card-bg: #f9f3e3;
+      --card-border: #d4c5a9;
+      --card-hover-shadow: 0 4px 12px rgba(91,70,54,0.1);
+      --input-bg: #ede3cc;
+      --input-border: #d4c5a9;
+      --link-color: #8b5e3c;
+      --divider: #d4c5a9;
+      --tag-text: #ffffff;
+      --active-tab-bg: #5b4636;
+      --active-tab-text: #f4ecd8;
+      --tab-bg: #ede3cc;
+      --tab-text: #8b7355;
+    }
+
+    [data-theme="moss"] {
+      --bg: #1a2a1a;
+      --bg-secondary: #223322;
+      --text: #c8d8c0;
+      --text-secondary: #8a9a82;
+      --card-bg: #223322;
+      --card-border: #3a4a3a;
+      --card-hover-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      --input-bg: #223322;
+      --input-border: #3a4a3a;
+      --link-color: #7ab87a;
+      --divider: #3a4a3a;
+      --tag-text: #ffffff;
+      --active-tab-bg: #c8d8c0;
+      --active-tab-text: #1a2a1a;
+      --tab-bg: #223322;
+      --tab-text: #8a9a82;
     }
 
     * {
@@ -74,10 +130,33 @@
 
     /* Header */
     header {
+      position: relative;
       padding: 48px 0 32px;
       padding-top: calc(48px + env(safe-area-inset-top));
       text-align: center;
       border-bottom: 1px solid var(--divider);
+    }
+
+    #theme-toggle {
+      position: absolute;
+      top: 16px;
+      right: 0;
+      padding: 6px 14px;
+      min-height: 36px;
+      border-radius: 18px;
+      border: 1px solid var(--input-border);
+      background: var(--input-bg);
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    #theme-toggle:hover {
+      border-color: var(--text-secondary);
+      color: var(--text);
     }
 
     header h1 {
@@ -341,6 +420,14 @@
 
       header h1 { font-size: 1.5rem; }
 
+      #theme-toggle {
+        top: 8px;
+        right: 0;
+        padding: 4px 10px;
+        font-size: 0.75rem;
+        min-height: 32px;
+      }
+
       nav {
         position: sticky;
         top: 0;
@@ -379,6 +466,7 @@
 <body>
   <div class="container">
     <header>
+      <button id="theme-toggle" title="切換閱讀模式"></button>
       <h1>The Intake</h1>
       <p>每日知識摘要</p>
     </header>
@@ -404,6 +492,25 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
+    const themes = ['auto', 'dark', 'sepia', 'moss'];
+    const themeLabels = { auto: 'Auto', dark: 'Dark', sepia: 'Sepia', moss: 'Moss' };
+
+    function applyTheme(theme) {
+      if (theme === 'auto') {
+        document.documentElement.removeAttribute('data-theme');
+      } else {
+        document.documentElement.setAttribute('data-theme', theme);
+      }
+      const btn = document.getElementById('theme-toggle');
+      if (btn) btn.textContent = themeLabels[theme];
+      localStorage.setItem('theme', theme);
+    }
+
+    (function() {
+      const saved = localStorage.getItem('theme') || 'auto';
+      applyTheme(saved);
+    })();
+
     let data = null;
     let currentCategory = 'all';
     let currentSearch = '';
@@ -426,6 +533,12 @@
 
       data._catMap = {};
       data.categories.forEach(c => { data._catMap[c.id] = c; });
+
+      document.getElementById('theme-toggle').addEventListener('click', () => {
+        const current = localStorage.getItem('theme') || 'auto';
+        const next = themes[(themes.indexOf(current) + 1) % themes.length];
+        applyTheme(next);
+      });
 
       renderTabs();
       renderArticles();
