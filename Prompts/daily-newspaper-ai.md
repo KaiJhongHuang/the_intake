@@ -19,13 +19,6 @@
 - github.com/trending — 熱門相關 repo
 - x.com（搜尋 Claude workflow、Claude tips）
 
-## 內容規範
-
-- **每條 50 字以內**，加流水索引號 [1]、[2]...
-- **每條必須附來源 URL**
-- **無法找到確實來源 → 標記「⚠️ 未找到來源，略過」**
-- **補充分析標注「📌 Claude 推測」**
-
 ## 產出格式
 
 ```
@@ -57,6 +50,3 @@
 
 ## 產出位置
 `Journal/02_Daily_Newspaper_AI/YYYY-MM-DD-<Title>.md`
-
-## Commit 設定
-直接推到 main branch
