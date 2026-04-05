@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-05",
+      "title": "三 Agent Harness 架構與 Conway 平台曝光",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-05-Multi-Agent-Harness-Conway-Emerge.md"
+    },
+    {
       "date": "2026-04-04",
       "title": "中東戰火推升油價連鎖效應",
       "category": "daily-newspaper",
