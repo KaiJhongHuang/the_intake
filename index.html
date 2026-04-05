@@ -20,8 +20,6 @@
       --card-hover-shadow: 0 4px 12px rgba(0,0,0,0.08);
       --input-bg: #f3f4f6;
       --input-border: #d1d5db;
-      --preview-bg: #f9fafb;
-      --preview-border: #e5e7eb;
       --link-color: #2563eb;
       --divider: #e5e7eb;
       --tag-text: #ffffff;
@@ -42,8 +40,6 @@
         --card-hover-shadow: 0 4px 12px rgba(0,0,0,0.3);
         --input-bg: #1a1d27;
         --input-border: #2d3148;
-        --preview-bg: #1a1d27;
-        --preview-border: #2d3148;
         --link-color: #60a5fa;
         --divider: #2d3148;
         --active-tab-bg: #e5e7eb;
@@ -163,21 +159,16 @@
       border-color: var(--link-color);
     }
 
-    /* Main layout */
+    /* Main layout - single column */
     main {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 24px;
       padding: 24px 0;
       min-height: calc(100vh - 280px);
     }
 
     /* Article list */
     #article-list {
-      overflow-y: auto;
-      max-height: calc(100vh - 240px);
-      -webkit-overflow-scrolling: touch;
-      padding-right: 8px;
+      max-width: 800px;
+      margin: 0 auto;
     }
 
     .date-group {
@@ -214,11 +205,6 @@
 
     .article-card:active {
       transform: scale(0.98);
-    }
-
-    .article-card.active {
-      border-color: var(--link-color);
-      box-shadow: 0 0 0 1px var(--link-color);
     }
 
     .category-badge {
@@ -261,28 +247,48 @@
       text-decoration: underline;
     }
 
-    /* Preview pane */
+    /* Preview pane - hidden by default */
     #preview-pane {
-      background: var(--preview-bg);
-      border: 1px solid var(--preview-border);
-      border-radius: 10px;
-      padding: 32px;
-      overflow-y: auto;
-      max-height: calc(100vh - 240px);
-      -webkit-overflow-scrolling: touch;
-    }
-
-    #preview-pane.empty {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--text-secondary);
-      font-size: 0.95rem;
-    }
-
-    /* Back button (mobile only) */
-    .back-btn {
       display: none;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    /* Reading mode */
+    .reading-mode nav {
+      display: none;
+    }
+
+    .reading-mode #article-list {
+      display: none;
+    }
+
+    .reading-mode #preview-pane {
+      display: block;
+    }
+
+    /* Back button */
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 10px 0;
+      min-height: 44px;
+      background: none;
+      border: none;
+      color: var(--link-color);
+      font-size: 1rem;
+      font-family: inherit;
+      cursor: pointer;
+      margin-bottom: 16px;
+    }
+
+    .back-btn:hover {
+      text-decoration: underline;
+    }
+
+    .back-btn:active {
+      opacity: 0.6;
     }
 
     /* Markdown content styling */
@@ -377,66 +383,6 @@
         width: 100%;
       }
 
-      main {
-        grid-template-columns: 1fr;
-        padding: 16px 0;
-        gap: 16px;
-      }
-
-      #article-list {
-        max-height: none;
-        overflow-y: visible;
-        padding-right: 0;
-      }
-
-      /* Mobile: preview as full-screen overlay */
-      #preview-pane {
-        display: none;
-        max-height: none;
-        overflow-y: visible;
-      }
-
-      #preview-pane.empty {
-        display: none;
-      }
-
-      #preview-pane.mobile-open {
-        display: block;
-        position: fixed;
-        inset: 0;
-        z-index: 100;
-        border-radius: 0;
-        border: none;
-        padding: 16px;
-        padding-top: calc(16px + env(safe-area-inset-top));
-        padding-bottom: calc(16px + env(safe-area-inset-bottom));
-        padding-left: calc(16px + env(safe-area-inset-left));
-        padding-right: calc(16px + env(safe-area-inset-right));
-        overflow-y: auto;
-        -webkit-overflow-scrolling: touch;
-        background: var(--bg);
-      }
-
-      /* Back button visible on mobile */
-      .back-btn {
-        display: inline-flex;
-        align-items: center;
-        gap: 4px;
-        padding: 10px 0;
-        min-height: 44px;
-        background: none;
-        border: none;
-        color: var(--link-color);
-        font-size: 1rem;
-        font-family: inherit;
-        cursor: pointer;
-        margin-bottom: 12px;
-      }
-
-      .back-btn:active {
-        opacity: 0.6;
-      }
-
       .article-card {
         padding: 14px 16px;
       }
@@ -461,9 +407,7 @@
       <section id="article-list">
         <div class="loading">載入中...</div>
       </section>
-      <aside id="preview-pane" class="empty">
-        <span>點擊文章以預覽內容</span>
-      </aside>
+      <aside id="preview-pane"></aside>
     </main>
 
     <footer>
@@ -477,7 +421,7 @@
     let currentCategory = 'all';
     let currentSearch = '';
     let activeFile = null;
-    const isMobile = () => window.innerWidth <= 768;
+    let listScrollY = 0;
 
     async function init() {
       try {
@@ -555,9 +499,8 @@
         groups[date].forEach(a => {
           const cat = data._catMap[a.category];
           const ghUrl = `https://github.com/${data.site.repo}/blob/main/${a.file}`;
-          const isActive = activeFile === a.file ? ' active' : '';
           html += `
-            <div class="article-card${isActive}" data-file="${a.file}" onclick="loadPreview('${a.file}', this)">
+            <div class="article-card" data-file="${a.file}" onclick="loadPreview('${a.file}')">
               <span class="category-badge" style="background:${cat ? cat.color : '#6b7280'}">${cat ? cat.icon : ''} ${cat ? cat.name : ''}</span>
               <div class="article-info">
                 <div class="article-title">${escapeHtml(a.title)}</div>
@@ -574,44 +517,30 @@
     }
 
     function closePreview() {
-      const pane = document.getElementById('preview-pane');
-      pane.classList.remove('mobile-open');
-      pane.classList.add('empty');
-      pane.innerHTML = '<span>點擊文章以預覽內容</span>';
+      document.querySelector('main').classList.remove('reading-mode');
+      document.getElementById('preview-pane').innerHTML = '';
       activeFile = null;
-      document.querySelectorAll('.article-card').forEach(c => c.classList.remove('active'));
-      document.body.style.overflow = '';
+      window.scrollTo(0, listScrollY);
     }
 
-    async function loadPreview(file, cardEl) {
+    async function loadPreview(file) {
       activeFile = file;
+      listScrollY = window.scrollY;
 
-      document.querySelectorAll('.article-card').forEach(c => c.classList.remove('active'));
-      if (cardEl) cardEl.classList.add('active');
-
+      const mainEl = document.querySelector('main');
       const pane = document.getElementById('preview-pane');
-      pane.classList.remove('empty');
-      pane.innerHTML = '<div class="loading">載入中...</div>';
 
-      if (isMobile()) {
-        pane.classList.add('mobile-open');
-        document.body.style.overflow = 'hidden';
-      }
+      mainEl.classList.add('reading-mode');
+      pane.innerHTML = '<div class="loading">載入中...</div>';
+      window.scrollTo(0, 0);
 
       try {
         const res = await fetch(file + '?v=' + Date.now());
         if (!res.ok) throw new Error('fetch failed');
         const md = await res.text();
-        const backBtn = isMobile()
-          ? '<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button>'
-          : '';
-        pane.innerHTML = `${backBtn}<div class="markdown-body">${marked.parse(md)}</div>`;
-        pane.scrollTop = 0;
+        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="markdown-body">${marked.parse(md)}</div>`;
       } catch {
-        const backBtn = isMobile()
-          ? '<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button>'
-          : '';
-        pane.innerHTML = `${backBtn}<div class="no-results">無法載入文章內容</div>`;
+        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="no-results">無法載入文章內容</div>`;
       }
     }
 
