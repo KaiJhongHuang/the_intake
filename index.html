@@ -229,23 +229,6 @@
       line-height: 1.5;
     }
 
-    .article-meta {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      margin-top: 4px;
-    }
-
-    .article-meta a {
-      font-size: 0.8rem;
-      color: var(--link-color);
-      text-decoration: none;
-      padding: 4px 0;
-    }
-
-    .article-meta a:hover {
-      text-decoration: underline;
-    }
 
     /* Preview pane - hidden by default */
     #preview-pane {
@@ -296,6 +279,10 @@
     .markdown-body h2 { font-size: 1.25rem; margin: 24px 0 12px; }
     .markdown-body h3 { font-size: 1.1rem; margin: 20px 0 8px; }
     .markdown-body p { margin: 8px 0; }
+    .markdown-body .news-item { margin: 12px 0; line-height: 1.6; }
+    .markdown-body .news-item .news-headline { display: block; font-size: 1rem; font-weight: 700; }
+    .markdown-body .news-item .news-idx { color: var(--text-secondary); font-size: 0.85rem; margin-right: 2px; }
+    .markdown-body .news-item .news-desc { display: block; font-size: 0.8rem; color: var(--text-secondary); line-height: 1.6; margin-top: 2px; }
     .markdown-body a { color: var(--link-color); text-decoration: none; word-break: break-all; }
     .markdown-body a:hover { text-decoration: underline; }
     .markdown-body strong { font-weight: 700; }
@@ -498,15 +485,11 @@
         html += `<div class="date-label">${date}</div>`;
         groups[date].forEach(a => {
           const cat = data._catMap[a.category];
-          const ghUrl = `https://github.com/${data.site.repo}/blob/main/${a.file}`;
           html += `
             <div class="article-card" data-file="${a.file}" onclick="loadPreview('${a.file}')">
               <span class="category-badge" style="background:${cat ? cat.color : '#6b7280'}">${cat ? cat.icon : ''} ${cat ? cat.name : ''}</span>
               <div class="article-info">
                 <div class="article-title">${escapeHtml(a.title)}</div>
-                <div class="article-meta">
-                  <a href="${ghUrl}" target="_blank" rel="noopener" onclick="event.stopPropagation()">在 GitHub 查看</a>
-                </div>
               </div>
             </div>`;
         });
@@ -538,7 +521,13 @@
         const res = await fetch(file + '?v=' + Date.now());
         if (!res.ok) throw new Error('fetch failed');
         const md = await res.text();
-        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="markdown-body">${marked.parse(md)}</div>`;
+        let parsed = marked.parse(md);
+        parsed = parsed.replace(
+          /<p>(\[(\d+)\])\s*<strong>([^<]+)<\/strong>[：:]\s*([\s\S]*?)<\/p>/g,
+          (_, _full, idx, title, desc) =>
+            `<div class="news-item"><span class="news-headline"><span class="news-idx">[${idx}]</span> ${title}</span><span class="news-desc">${desc}</span></div>`
+        );
+        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="markdown-body">${parsed}</div>`;
       } catch {
         pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="no-results">無法載入文章內容</div>`;
       }
