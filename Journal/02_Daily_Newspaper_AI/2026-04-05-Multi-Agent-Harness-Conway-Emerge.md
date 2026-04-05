@@ -1,7 +1,7 @@
 # AI工作流日報 — 2026-04-05
 > 涵蓋範圍：2026-04-04 06:00 ~ 2026-04-05 06:00 (TST)
 
-> 📌 Claude 摘要：本週 Anthropic 動作密集——三 Agent Harness 公開、Conway 平台曝光、第三方計費調整、生技收購——顯示公司正從「模型供應商」加速轉型為「AI 平台生態系」。社群端 Claw Code 的爆發式成長則反映開發者對開源 agent 框架的強烈需求，後續 Anthropic 與開源社群的競合關係值得關注。
+> 📌 Claude 摘要：本週 Anthropic 動作密集——三 Agent Harness 公開、Conway 平台曝光、第三方計費調整、生技收購——顯示公司正從「模型供應商」加速轉型為「AI 平台生態系」。社群端則圍繞多 agent 可觀測性與開源框架快速發展，Simon Willison 連發兩款新工具，反映 AI 工作流生態正步入「工具鏈成熟期」。
 
 ## 🧠 Prompt 技巧 & 使用心得
 
@@ -25,13 +25,17 @@
 
 [8] **Anthropic 第三方工具獨立計費**：4/4 起使用 OpenClaw 等第三方工具需額外付費，訂閱方案不再涵蓋。([來源](https://www.newsbytesapp.com/news/science/anthropic-begins-billing-3rd-party-claude-tools-separately-april-4-2026/tldr))
 
-[9] **datasette-llm 0.1a6 發布**：Simon Willison 釋出 Datasette LLM 整合插件新版，供其他插件依賴使用。([來源](https://simonwillison.net/2026/Apr/1/datasette-llm-2/))
+[9] **Simon Willison 發布 research-llm-apis**：用 Claude Code 讀取各大 LLM 供應商 HTTP API，為 LLM 抽象層重構蒐集設計資料。([來源](https://simonwillison.net/2026/Apr/5/research-llm-apis/))
+
+[10] **scan-for-secrets 0.2 釋出**：Simon Willison 新作，Python CLI 掃描資料夾中的 API key 等機密字串，支援串流輸出。([來源](https://simonwillison.net/2026/Apr/5/scan-for-secrets/))
 
 ## 💬 社群熱門討論
 
-[10] **Anthropic 以 4 億美元收購 Coefficient Bio**：進軍生技 AI，用 AI 加速藥物發現與生物研究。([來源](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/))
+[11] **agents-observe 登上 Show HN**：開源 Claude Code 多 agent 即時監控儀表板，透過 hooks 串流所有工具呼叫與子 agent 狀態至 React UI。([來源](https://github.com/simple10/agents-observe))
 
-[11] **AnthroPAC 政治行動委員會成立**：Anthropic 成立 PAC 影響政策，員工自願捐款上限 $5,000，計畫兩黨捐助。([來源](https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/))
+[12] **GitHub 每週 2.75 億次 commit**：Kyle Daigle 揭示 2025 年全年 10 億次 commit，目前飆升至每週 2.75 億次，AI 編碼推波助瀾。([來源](https://simonwillison.net/2026/Apr/4/kyle-daigle/))
 
-[12] **「漏洞研究已死」引熱議**：Simon Willison 轉載 Thomas Ptacek 文章，指出最新前沿模型對漏洞研究領域造成巨大衝擊。([來源](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/))
+[13] **Anthropic 以 4 億美元收購 Coefficient Bio**：進軍生技 AI，用 AI 加速藥物發現與生物研究。([來源](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/))
+
+[14] **「漏洞研究已死」引熱議**：Simon Willison 轉載 Thomas Ptacek 文章，指出最新前沿模型對漏洞研究領域造成巨大衝擊。([來源](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/))
 
