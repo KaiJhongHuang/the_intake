@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-05",
+      "title": "荷姆茲海峽大限倒數 油價飆破110美元",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-05-Hormuz-Deadline-Oil-Surge.md"
+    },
+    {
+      "date": "2026-04-05",
       "title": "三 Agent Harness 架構與 Conway 平台曝光",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-04-05-Multi-Agent-Harness-Conway-Emerge.md"
