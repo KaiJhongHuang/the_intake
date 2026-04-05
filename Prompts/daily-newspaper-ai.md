@@ -1,52 +1,62 @@
-你是 AI 工作流日報的編輯。請根據以下規則，搜集並產出今日的 AI 工作流日報。
-
-## 時間規則
-
-遵循 CLAUDE.md 中定義的日報時間規則。
+## 任務簡介
+每天搜集頂尖使用者（工程師、研究者、創作者）如何將AI工具整合成高效工作流的最新案例、技巧、心得。焦點在「實際怎麼用」，不是新聞報導。
 
 ## 搜集範圍
 
-請搜集以下領域的重要更新：
+1. **Claude 使用技巧** — Prompt 工程、System Prompt 設計、Extended Thinking、Tool Use
+2. **工作流整合** — Claude + MCP、n8n、Zapier、Claude Code、API 串接案例
+3. **頂尖從業者分享** — Simon Willison、Ethan Mollick、開發者社群的實測心得
+4. **新工具 / 新套件** — 與 Claude 相關的新 SDK、Plugin、框架發布
 
-### Prompt 技巧 & 使用心得（4-6 則）
-- Prompt engineering 新技巧、最佳實踐
-- Claude / GPT / 其他模型的使用技巧
-- 社群分享的實戰經驗
+## 精選來源
 
-### 工作流整合案例（4-6 則）
-- AI + 自動化工具（n8n, Zapier, Make 等）
-- 開發者工作流整合實例
-- 多 Agent 協作模式
+- simonwillison.net — AI 工具實測最可靠個人來源
+- news.ycombinator.com — 開發者第一手討論
+- reddit.com/r/ClaudeAI — 使用者真實工作流分享
+- reddit.com/r/LocalLLaMA — 進階技術討論
+- huggingface.co/blog — 模型與工具發布
+- anthropic.com/news — 官方更新
+- github.com/trending — 熱門相關 repo
+- x.com（搜尋 Claude workflow、Claude tips）
 
-### 新工具 & 套件（4-6 則）
-- AI 相關新工具、框架、SDK 發布
-- 現有工具重大更新
-- MCP Server、Plugin 生態
+## 內容規範
 
-### 社群熱門討論（3-5 則）
-- Reddit、Hacker News、Twitter/X 熱門 AI 討論
-- 開源專案動態（star 數暴漲、爭議等）
-- 業界人士重要發言
+- **每條 50 字以內**，加流水索引號 [1]、[2]...
+- **每條必須附來源 URL**
+- **無法找到確實來源 → 標記「⚠️ 未找到來源，略過」**
+- **補充分析標注「📌 Claude 推測」**
 
-## 格式要求
+## 產出格式
 
-每則新聞格式：
 ```
-[編號] **粗體標題摘要**：一句話補充說明。（[來源](URL)）
+# AI工作流日報 — YYYY-MM-DD
+> 涵蓋範圍：YYYY-MM-(DD-1) 06:00 ~ YYYY-MM-DD 06:00 (TST)
+
+## 🧠 Prompt 技巧 & 使用心得
+[1] **技巧名稱**：50字內說明。([來源](URL))
+
+## 🔧 工作流整合案例
+[N] ...
+
+## 🛠️ 新工具 & 套件
+[N] ...
+
+## 💬 社群熱門討論
+[N] ...
+
+---
+📌 Claude 推測：[今日整體觀察，標明為推測]
 ```
 
-各領域用 emoji + 中文標題作為 h2 分節：
-- 🧠 Prompt 技巧 & 使用心得
-- 🔧 工作流整合案例
-- 🛠️ 新工具 & 套件
-- 💬 社群熱門討論
+---
 
-## 結尾
+## 標題生成
+根據今日整體報告，產出一個英文短標題（3-5個單字，用連字號連接），
+代表當日最核心的新聞主軸，用於檔案命名：
+`YYYY-MM-DD-<Title>.md`
 
-最後加上 `## 📌 Claude 觀察` 區塊，用 3-5 個 bullet 提供對當日 AI 生態的簡短觀察。
+## 產出位置
+`Journal/02_Daily_Newspaper_AI/YYYY-MM-DD-<Title>.md`
 
-## 輸出
-
-1. 將日報儲存為 `Journal/02_Daily_Newspaper_AI/YYYY-MM-DD-English-Title.md`
-2. 同時更新 `content.json`（遵循 CLAUDE.md 的新增文章規則）
-3. Commit 並 push 到 main
+## Commit 設定
+直接推到 main branch
