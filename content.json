@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-06",
+      "title": "Claude 全球當機、syntaqlite 展示 AI 開發落地、Agent 生態爆發",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-06-Claude-Outage-Syntaqlite-Agent-Boom.md"
+    },
+    {
+      "date": "2026-04-06",
       "title": "伊朗最後通牒到期、黃金破4675美元歷史新高",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-04-06-Iran-Ultimatum-Gold-Record.md"
