@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-07",
+      "title": "台股崩跌逾2000點、伊朗最後通牒破局、美中關稅戰再升級",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-07-Taiwan-Stock-Crash-Iran-Deadline-US-China-Tariff-Escalation.md"
+    },
+    {
+      "date": "2026-04-07",
       "title": "Claude 全球當機、Ultraplan 上線、OpenClaw 計費風暴延燒",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-04-07-Claude-Outage-Ultraplan-OpenClaw-Fallout.md"
