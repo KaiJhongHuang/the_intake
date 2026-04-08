@@ -137,24 +137,29 @@
       border-bottom: 1px solid var(--divider);
     }
 
-    #theme-toggle {
+    .header-controls {
       position: absolute;
       top: 16px;
       right: 0;
+      display: flex;
+      gap: 8px;
+    }
+
+    .header-btn {
       padding: 6px 14px;
       min-height: 36px;
       border-radius: 18px;
       border: 1px solid var(--input-border);
       background: var(--input-bg);
       color: var(--text-secondary);
-      font-size: 0.8rem;
+      font-size: 13px;
       font-family: inherit;
       cursor: pointer;
       transition: all 0.2s;
       white-space: nowrap;
     }
 
-    #theme-toggle:hover {
+    .header-btn:hover {
       border-color: var(--text-secondary);
       color: var(--text);
     }
@@ -420,11 +425,13 @@
 
       header h1 { font-size: 1.5rem; }
 
-      #theme-toggle {
+      .header-controls {
         top: 8px;
-        right: 0;
+      }
+
+      .header-btn {
         padding: 4px 10px;
-        font-size: 0.75rem;
+        font-size: 12px;
         min-height: 32px;
       }
 
@@ -466,7 +473,10 @@
 <body>
   <div class="container">
     <header>
-      <button id="theme-toggle" title="切換閱讀模式"></button>
+      <div class="header-controls">
+        <button id="font-toggle" class="header-btn" title="調整字體大小"></button>
+        <button id="theme-toggle" class="header-btn" title="切換閱讀模式"></button>
+      </div>
       <h1>The Intake</h1>
       <p>每日知識摘要</p>
     </header>
@@ -506,9 +516,25 @@
       localStorage.setItem('theme', theme);
     }
 
+    const fontSizes = [
+      { value: '16px', label: 'A' },
+      { value: '18px', label: 'A+' },
+      { value: '20px', label: 'A++' }
+    ];
+
+    function applyFontSize(idx) {
+      const size = fontSizes[idx];
+      document.documentElement.style.fontSize = size.value;
+      const btn = document.getElementById('font-toggle');
+      if (btn) btn.textContent = size.label;
+      localStorage.setItem('fontSize', idx);
+    }
+
     (function() {
       const saved = localStorage.getItem('theme') || 'auto';
       applyTheme(saved);
+      const savedFont = parseInt(localStorage.getItem('fontSize')) || 0;
+      applyFontSize(savedFont);
     })();
 
     let data = null;
@@ -538,6 +564,12 @@
         const current = localStorage.getItem('theme') || 'auto';
         const next = themes[(themes.indexOf(current) + 1) % themes.length];
         applyTheme(next);
+      });
+
+      document.getElementById('font-toggle').addEventListener('click', () => {
+        const current = parseInt(localStorage.getItem('fontSize')) || 0;
+        const next = (current + 1) % fontSizes.length;
+        applyFontSize(next);
       });
 
       renderTabs();
