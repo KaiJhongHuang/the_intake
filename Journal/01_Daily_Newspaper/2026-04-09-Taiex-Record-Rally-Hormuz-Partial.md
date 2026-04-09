@@ -1,70 +1,72 @@
 # 每日新聞 — 2026-04-09
 > 涵蓋範圍：2026-04-08 06:00 ~ 2026-04-09 06:00 (TST)
 
-> 📌 Claude 摘要：今日最大亮點——台股因美伊停火利多單日大漲 1,531 點創史上第二大漲點，收復 34,761 點；全球市場接續前日狂歡，亞股歐股延續漲勢。鄭麗文 4/8 南京拜謁中山陵提及「中華民國」致哽咽，隨後返上海參訪美團與陳吉寧會談，4/10 鄭習會登場。荷姆茲海峽部分恢復通行但仍僅為平日 8% 流量。Meta 發布 Muse Spark 模型重返 AI 競賽，Anthropic 則正式推出 Managed Agents 公測。
+> 📌 Claude 摘要：美伊兩週停火效應續燒——台股單日暴漲 1,531.56 點改寫史上第二大漲點，加權指數收 34,761 點；亞歐股同步狂歡，KOSPI 漲 6.87%、日經 5.39%、DAX 5.06% 均創多年單日最大漲幅，WTI 原油再跌 16.4% 收每桶 94.41 美元。荷姆茲海峽部分復航但流量僅平日 8%，以色列持續打擊黎巴嫩，停火現初期裂痕。國民黨主席鄭麗文率團赴南京拜謁中山陵，致詞哽咽提及「中華民國是亞洲首個民主共和國」，引發陸委會批評「遮遮掩掩」。AI 產業雙彈齊發：Anthropic 推出 Claude Managed Agents 企業託管公測、Meta 超智實驗室發布首款模型 Muse Spark。
 
 ## 🇹🇼 台灣要聞
 
-[1] **台股狂飆 1,531 點創史上第二大漲點**：加權指數收 34,761.38 點漲 4.61%，僅次於 2025/4/10 的 1,608 點紀錄。([來源](https://www.moneydj.com/z/DJA/News/DJANewsDetail_68FDDCA7-40B1-4AAD-8C7F-46073DE73897.djhtm))
+[1] **台股狂飆 1,531 點改寫史上第二大漲點**：加權指數收 34,761.38 點漲 4.61%，成交量放大至 8,562 億元，僅次於 2025/4/10 紀錄。([來源](https://finance.ettoday.net/news/3145523))
 
-[2] **台積電漲逾 4% 領軍反攻**：聯發科漲 7.48% 收 1,580 元、南亞科漲 8.25%、台達電亮燈漲停，外資大舉回補。([來源](https://focustaiwan.tw/business/202604080012))
+[2] **台積電收 1,950 元漲 4.84%**：停火行情引爆買盤，台積電上漲 90 元收 1,950 元，盤中一度衝上 34,708 點寫歷史第三大漲點。([來源](https://finance.ettoday.net/news/3145523))
 
-[3] **鄭麗文南京拜謁中山陵哽咽**：提及國父創建「中華民國」是亞洲首個民主共和國，盼種下和平種子。([來源](https://udn.com/news/story/124802/9430261))
+[3] **鄭麗文率團拜謁南京中山陵 致詞哽咽**：國民黨主席時隔 10 年再率團訪陸，追憶先輩遺志數度哽咽，盼為兩岸種下和平種子。([來源](https://tw.news.yahoo.com/%E5%85%A8%E6%96%87-%E9%84%AD%E9%BA%97%E6%96%87%E8%AC%81%E4%B8%AD%E5%B1%B1%E9%99%B5-%E8%87%B4%E8%A9%9E%E6%8F%90-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B-035432072.html))
 
-[4] **陸委會批鄭麗文「遮遮掩掩」**：質疑其在大陸僅選擇性提「中華民國」，回台後對兩岸論述仍模糊。([來源](https://news.pts.org.tw/article/802839))
+[4] **鄭麗文致詞提「中華民國是亞洲首個民主共和國」**：追述國父創建民國理想，國台辦稱此行「順應島內主流民意」。([來源](http://tw.people.com.cn/BIG5/n1/2026/0408/c14657-40697359.html))
 
-[5] **鄭麗文晤陳吉寧提舊緣**：與上海市委書記陳吉寧會談時稱對方曾來台參加婚禮，盼兩代不成年輕人阻礙。([來源](https://udn.com/news/story/124802/9429516))
-
-[6] **鴻海重返 200 元大關**：停火消息帶動電子代工龍頭大漲，重新站回百元整數關卡。([來源](https://www.moneydj.com/z/DJA/News/DJANewsDetail_68FDDCA7-40B1-4AAD-8C7F-46073DE73897.djhtm))
+[5] **陸委會批鄭麗文「遮遮掩掩」呼應中共敘事**：指責其用模糊方式提中華民國、刻意配合中共歷史觀，令人遺憾。([來源](https://www.secretchina.com/news/b5/2026/04/09/1097535.html))
 
 ## 📰 中美要聞
 
-[7] **川普要求荷姆茲海峽「無限制、不收費」開放**：白宮發言人強調停火協議以此為基礎，反對伊朗收取通行費。([來源](https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html))
+[6] **美伊達成兩週停火 巴基斯坦斡旋促成**：結束 40 天美以攻擊行動，伊朗同意「完整、立即、安全」重開荷姆茲海峽。([來源](https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next))
 
-[8] **川普威脅對供武伊朗國家課 50% 關稅**：提議與伊朗共管荷姆茲海峽，美防長稱美軍隨時準備重啟打擊。([來源](https://www.capitalfutures.com.tw/zh-tw/financial/breakingnewsarticle?contentid=c26040801529))
+[7] **川普要求荷姆茲「無限制、不收通行費」開放**：白宮強調停火協議以此為基礎，反對伊朗向船隻收費或加諸技術限制。([來源](https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html))
 
-[9] **伊朗要求加密貨幣支付過路費**：計畫對通行船隻收取加密通行費並逐船檢查武器，挑戰川普條件。([來源](https://www.ibtimes.com/strait-hormuz-open-now-strait-hormuz-partially-reopens-under-fragile-us-iran-ceasefire-3800997))
+[8] **川普接受伊朗 10 點提案 稱「可行談判基礎」**：表示雙方幾乎所有爭議點已達成共識，巴基斯坦邀雙方 4/10 赴伊斯蘭堡續談。([來源](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039))
 
-[10] **Meta 發布 Muse Spark 模型**：Meta 超智慧實驗室首款模型，支援語音/文字/圖像輸入，API 限定合作夥伴預覽。([來源](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/))
+[9] **Anthropic 推出 Claude Managed Agents 公測**：企業級 Agent 託管 API 定價 $0.08/session-hour，Notion、Rakuten、Asana 首批採用。([來源](https://siliconangle.com/2026/04/08/anthropic-launches-claude-managed-agents-speed-ai-agent-development/))
 
-[11] **Anthropic 推 Claude Managed Agents 公測**：企業級 Agent 託管 API，Notion、Rakuten、Asana 為首批採用者。([來源](https://startupfortune.com/anthropic-unveils-managed-agents-for-claude-eyeing-enterprise-ai-workflows/))
+[10] **Meta 發布 Muse Spark 首款超智模型**：Alexandr Wang 領軍的超智實驗室首款成果，主打多模態感知與高效小型模型路線。([來源](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/))
 
 ## 🌏 世界要聞
 
-[12] **荷姆茲海峽部分復航但僅 8% 流量**：24 小時內僅 11 艘船通過，遠低於平常 60-135 艘，吞吐量約 12.1%。([來源](https://www.ibtimes.com/strait-hormuz-open-now-strait-hormuz-partially-reopens-under-fragile-us-iran-ceasefire-3800997))
+[11] **荷姆茲海峽部分復航 流量僅為平日 8%**：聯合國呼籲各方把握停火窗口推動永久和平，船東仍謹慎評估風險。([來源](https://news.un.org/en/story/2026/04/1167270))
 
-[13] **800+ 油輪被困等待安全通行**：船東盯緊兩週停火窗口，盼利用短暫空檔重新調度資產。([來源](https://www.bloomberg.com/news/articles/2026-04-08/shipowners-eye-hormuz-ceasefire-window-for-800-trapped-vessels))
+[12] **停火現裂痕 以色列持續打擊黎巴嫩**：協議排除黎巴嫩戰線，伊朗一度因此宣布暫停荷姆茲海峽通行。([來源](https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates))
 
-[14] **停火出現裂痕 以色列繼續打擊黎巴嫩**：協議排除黎巴嫩戰線，伊朗部分油輪通行一度中止。([來源](https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates))
+[13] **伊朗、阿聯、科威特停火數小時內傳攻擊**：三國都通報零星襲擊事件，考驗脆弱停火的初期穩定性。([來源](https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next))
 
-[15] **聯合國：停火燃起荷姆茲重開希望**：聯合國發言人呼籲各方把握窗口期推動永久和平。([來源](https://news.un.org/en/story/2026/04/1167270))
+[14] **伊朗設技術條件 通過須與軍方協調**：德黑蘭對荷姆茲重開加諸「技術限制」說法，引發航運業困惑。([來源](https://www.ms.now/liveblog/iran-war-news-today-trump-us-april-8-2026))
+
+[15] **聯合國：停火燃起重開荷姆茲希望**：秘書處發言人呼籲雙方善用兩週窗口期、轉化為永久協議。([來源](https://news.un.org/en/story/2026/04/1167270))
 
 ## 💹 財經 & 市場
 
-[16] **亞股全面狂歡 南韓 KOSPI 漲 6.87%**：日經漲 5.39% 創 2025 年 4 月以來最大單日漲幅，恆生漲 3.09%。([來源](https://www.cnbc.com/2026/04/08/us-iran-ceasefire-gold-oil-stocks-treasuries.html))
+[16] **亞股狂歡 KOSPI +6.87% 日經 +5.39%**：南韓領漲亞洲，日經寫 2025 年 4 月以來最大單日漲幅，恆生 +3.09%。([來源](https://www.cnbc.com/2026/04/08/us-iran-ceasefire-gold-oil-stocks-treasuries.html))
 
-[17] **歐股德 DAX 漲 5.06% 法 CAC 漲 4.49%**：均創 2022 年 3 月以來最大單日漲幅。([來源](https://www.washingtontimes.com/news/2026/apr/8/steep-drop-oil-prices-us-iran-ceasefire-sends-wall-street-soaring/))
+[17] **歐股 DAX +5.06% CAC +4.49% 2022 年來最佳**：德法主要股指雙雙創 2022 年 3 月以來最大單日漲幅。([來源](https://www.cnbc.com/2026/04/08/us-iran-ceasefire-gold-oil-stocks-treasuries.html))
 
-[18] **WTI 油價跌破 95 美元**：停火推動連續第二日重挫，帶動聯準會降息預期升溫。([來源](https://www.cnbc.com/2026/04/08/us-iran-ceasefire-gold-oil-stocks-treasuries.html))
+[18] **WTI 原油大跌 16.41% 收 94.41 美元**：布蘭特同跌 13.29% 至 94.75 美元，推升美股降息預期、S&P 500 收紅。([來源](https://www.cnbc.com/2026/04/08/us-iran-ceasefire-gold-oil-stocks-treasuries.html))
 
 ## 💻 科技業 & 半導體
 
-[19] **Nvidia 搶占 60%+ TSMC CoWoS 產能**：為 Blackwell 與 Rubin GPU 預定 2025-26 封裝資源，TSMC 美國廠加速。([來源](https://www.cnbc.com/video/2026/04/08/nvidia-snaps-up-capacity-as-tsmc-and-intel-ramp-u-s-chip-packaging.html))
+[19] **Nvidia 搶佔 TSMC CoWoS 先進封裝產能**：為 Blackwell/Rubin GPU 鎖定多數產能，封裝被視為 AI 硬體下個瓶頸。([來源](https://www.cnbc.com/2026/04/08/tsmc-nvidia-advanced-packaging-intel.html))
 
-[20] **Muse Spark 將部署至 Meta 全家族產品**：WhatsApp、Instagram、Facebook、Messenger 與 AI 眼鏡接連導入。([來源](https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs-first-model-built-to-prioritize-people/))
+[20] **TSMC 外包部分封裝工序予 ASE、Amkor**：CoWoS 需求爆量下，台積電將較簡化步驟外包給封測專業廠。([來源](https://www.cnbc.com/2026/04/08/tsmc-nvidia-advanced-packaging-intel.html))
 
-[21] **Claude Managed Agents 早期成效**：Rakuten 一週內橫跨產品、銷售、行銷、財務、HR 部署企業 Agent。([來源](https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/))
+[21] **TSMC 亞利桑那再加碼兩座封裝廠**：美國廠加速擴建，同時台灣兩座封裝新廠也進入量產準備階段。([來源](https://www.cnbc.com/2026/04/08/tsmc-nvidia-advanced-packaging-intel.html))
 
 ## 🤖 AI 產業趨勢
 
-[22] **NousResearch 釋出 Hermes Agent v0.8.0**：新增背景任務通知、MCP OAuth 2.1、即時模型切換，合併 209 個 PR。([來源](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.8))
+[22] **Claude Managed Agents 主打開發效率提升 10 倍**：接管 sandbox、狀態管理、工具執行，Console、Claude Code 及 CLI 三通路部署。([來源](https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/))
 
-[23] **Block Goose 移交 Linux Foundation AAIF**：開源 AI Agent 支援 15+ 供應商，Block 內部已節省 50-75% 開發時間。([來源](https://aitoolly.com/ai-news/article/2026-04-07-block-launches-goose-an-open-source-extensible-ai-agent-for-automated-engineering-tasks))
+[23] **Muse Spark 將部署至 Meta 全家族產品**：即將導入 Facebook、Instagram、WhatsApp、Messenger 與 Ray-Ban Meta AI 眼鏡。([來源](https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/))
 
-[24] **Claude 4/8 再度當機**：距 4/7 重大故障不到 24 小時，數百用戶回報登入失敗與效能下降。([來源](https://www.ibtimes.com.au/claude-ai-down-again-april-8-2026-anthropic-outage-hits-users-after-yesterdays-major-incident-1865761))
+[24] **NousResearch 釋出 Hermes Agent v0.8.0**：合併 216 個 PR、整合 MCP OAuth 2.1、即時模型切換、多平台訊息閘道器。([來源](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.8))
 
 ## 🔬 科學 & 能源
 
-[25] **IEA 分析：能源創新進入安全導向階段**：批評研發支出下降，但電池技術持續主導全球專利版圖。([來源](https://www.iea.org/news/energy-innovation-enters-security-focused-phase-as-batteries-dominate-patent-landscape))
+[25] **IEA 預測：再生能源 2026 超越煤炭成全球電力龍頭**：風+太陽能占比將從 2025 年 17% 升至 2026 年近 20%。([來源](https://www.carbonbrief.org/iea-renewables-will-be-worlds-top-power-source-by-2026/))
 
-[26] **停火推動能源市場信心回升**：交易員重新評估美國降息路徑，部分避險資金回流股市。([來源](https://fortune.com/2026/04/08/asian-markets-rally-us-iran-ceasefire-strait-of-hormuz-oil-uncertainty/))
+[26] **IEA：電池價格十年下跌 75%**：大幅推動電動車普及與再生能源併網，大型電池支撐電網穩定性。([來源](https://www.iea.org/reports/batteries-and-secure-energy-transitions/outlook-for-battery-demand-and-supply))
+
+[27] **美國 EIA：2026 夏季太陽能發電較去年增 17%**：能源資訊局預期 5-9 月美國太陽光電發電量創新高。([來源](https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf))
