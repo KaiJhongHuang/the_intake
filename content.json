@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-13",
+      "title": "GPT-5.3-Codex-Spark、Claude Code v2.1.101、MCP 生態爭議",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-13-Codex-Spark-Claude-Onboarding-Race.md"
+    },
+    {
+      "date": "2026-04-13",
       "title": "川普封鎖荷姆茲、匈牙利歐爾班敗選、中共公布十項惠台措施",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-04-13-Hormuz-Blockade-Orban-Defeated.md"
