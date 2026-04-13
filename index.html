@@ -358,6 +358,11 @@
       opacity: 0.6;
     }
 
+    .back-btn-bottom {
+      margin-top: 24px;
+      margin-bottom: 0;
+    }
+
     /* Markdown content styling */
     .markdown-body h1 { font-size: 1.5rem; margin: 0 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--divider); }
     .markdown-body h2 { font-size: 1.25rem; margin: 24px 0 12px; }
@@ -672,9 +677,9 @@
           (_, _full, idx, title, desc) =>
             `<div class="news-item"><span class="news-headline"><span class="news-idx">[${idx}]</span> ${title}</span><span class="news-desc">${desc}</span></div>`
         );
-        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="markdown-body">${parsed}</div>`;
+        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="markdown-body">${parsed}</div><button class="back-btn back-btn-bottom" onclick="closePreview()">&#8592; 返回列表</button>`;
       } catch {
-        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="no-results">無法載入文章內容</div>`;
+        pane.innerHTML = `<button class="back-btn" onclick="closePreview()">&#8592; 返回列表</button><div class="no-results">無法載入文章內容</div><button class="back-btn back-btn-bottom" onclick="closePreview()">&#8592; 返回列表</button>`;
       }
     }
 
