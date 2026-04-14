@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-14",
+      "title": "Mythos 上架 Bedrock、AWS Agent Registry、Claude for Word 公開 Beta",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-14-Mythos-Bedrock-Claude-Word-Launch.md"
+    },
+    {
       "date": "2026-04-13",
       "title": "GPT-5.3-Codex-Spark、Claude Code v2.1.101、MCP 生態爭議",
       "category": "daily-newspaper-ai",
