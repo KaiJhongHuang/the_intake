@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-14",
+      "title": "荷姆茲封鎖生效、賴清德 AI 新十大建設、台股 35457 新高",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-14-Hormuz-Blockade-Begins-Lai-AI-Plan.md"
+    },
+    {
+      "date": "2026-04-14",
       "title": "Mythos 上架 Bedrock、AWS Agent Registry、Claude for Word 公開 Beta",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-04-14-Mythos-Bedrock-Claude-Word-Launch.md"
