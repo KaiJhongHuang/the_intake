@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-17",
+      "title": "以黎停火生效、荷姆茲重開油價崩跌、台積電法說後台股回落",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-17-Lebanon-Ceasefire-Hormuz-Reopens.md"
+    },
+    {
+      "date": "2026-04-17",
       "title": "Claude Code v2.1.110 TUI 模式、Karpathy CLAUDE.md 15K 星、Mythos 銀行業警報升級",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-04-17-Claude-Code-TUI-Mythos-Banking-Alarm.md"
