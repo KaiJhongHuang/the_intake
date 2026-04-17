@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-17",
+      "title": "Claude Code v2.1.110 TUI 模式、Karpathy CLAUDE.md 15K 星、Mythos 銀行業警報升級",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-17-Claude-Code-TUI-Mythos-Banking-Alarm.md"
+    },
+    {
       "date": "2026-04-16",
       "title": "Opus 4.7 正式發布、AI 設計工具亮相、Mythos 監管風暴升溫",
       "category": "daily-newspaper-ai",
