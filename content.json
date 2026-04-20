@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-20",
+      "title": "美軍扣押伊朗貨輪Touska、停火週三到期、遼寧號通過台海",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-20-Touska-Seized-Ceasefire-Deadline.md"
+    },
+    {
       "date": "2026-04-19",
       "title": "API 再度中斷、Opus 系統提示剖析、Voicebox 開源語音合成登場",
       "category": "daily-newspaper-ai",
