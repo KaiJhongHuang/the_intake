@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-22",
+      "title": "Claude Code 從 Pro 方案移除風波、GitHub Copilot 暫停新註冊、Nemotron 3 Nano 發布",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-22-Claude-Code-Pricing-Copilot-Paused.md"
+    },
+    {
+      "date": "2026-04-22",
       "title": "川普無限期延長美伊停火、伊朗扣船荷姆茲海峽仍封閉、台股破38000點",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-04-22-Ceasefire-Extended-Hormuz-Tensions.md"
