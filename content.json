@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-24",
+      "title": "GPT-5.5發布、DeepSeek V4開源、Claude Code品質事後報告",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-24-GPT55-DeepSeek-V4-Claude-Postmortem.md"
+    },
+    {
+      "date": "2026-04-24",
       "title": "川普令射殺佈雷船、DeepSeek V4發布、台股強彈創新高",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-04-24-Hormuz-Shoot-Order-DeepSeek-V4.md"
