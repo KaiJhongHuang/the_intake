@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-25",
+      "title": "Project Deal Agent交易實驗、GPT-5.5上線、DeepSeek V4開源",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-25-Project-Deal-GPT55-DeepSeek-V4.md"
+    },
+    {
+      "date": "2026-04-25",
       "title": "Google $400億投Anthropic、英特爾暴漲24%、俄軍大規模空襲烏克蘭",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-04-25-Google-40B-Anthropic-Intel-Surges.md"
