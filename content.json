@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-27",
+      "title": "台股破四萬點、魯比歐拒伊朗荷姆茲方案、倫敦馬拉松破兩小時",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-27-Taiex-40K-Rubio-Rejects-Iran-Deal.md"
+    },
+    {
       "date": "2026-04-26",
       "title": "GPT-5.5 vs Opus 4.7基準對決、JetBrains調查90%開發者用AI、Grok Build即將上線",
       "category": "daily-newspaper-ai",
