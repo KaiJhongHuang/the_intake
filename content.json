@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-04-27",
+      "title": "OpenAI-Microsoft合約重寫、Claude Cowork登陸Bedrock、AgentCore CLI上線",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-04-27-OpenAI-Rewrite-Cowork-Bedrock-Launch.md"
+    },
+    {
+      "date": "2026-04-27",
       "title": "台股破四萬點、魯比歐拒伊朗荷姆茲方案、倫敦馬拉松破兩小時",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-04-27-Taiex-40K-Rubio-Rejects-Iran-Deal.md"
