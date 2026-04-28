@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-28",
+      "title": "阿聯酋退出OPEC、伊朗和談僵局、OpenAI營收未達標",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-28-UAE-Quits-OPEC-Iran-Talks-Stall.md"
+    },
+    {
       "date": "2026-04-27",
       "title": "OpenAI-Microsoft合約重寫、Claude Cowork登陸Bedrock、AgentCore CLI上線",
       "category": "daily-newspaper-ai",
