@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-29",
+      "title": "川普拒伊朗提案維持封鎖、阿聯酋退出OPEC、尹錫悅判七年",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-29-Trump-Rejects-Iran-UAE-Exits-OPEC.md"
+    },
+    {
       "date": "2026-04-28",
       "title": "哈佛引入Claude、Musk v. OpenAI開審、LeRobot爆RCE漏洞",
       "category": "daily-newspaper-ai",
