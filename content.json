@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-04-30",
+      "title": "S&P500創新高、伊朗戰費250億Hegseth聽證、普丁提5/9停火",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-04-30-SP500-Record-Iran-War-Hearing.md"
+    },
+    {
       "date": "2026-04-29",
       "title": "OpenAI登陸AWS Bedrock、Musk審判第二日、Claude Code雙版更新",
       "category": "daily-newspaper-ai",
