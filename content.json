@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-02",
+      "title": "川普拒伊朗和平提案、五角大廈撤德5000兵、S&P500歷史新高",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-05-02-Trump-Rejects-Iran-Deal-Germany-Pullout.md"
+    },
+    {
       "date": "2026-05-01",
       "title": "五角大廈AI協議排除Anthropic、Agent 365正式GA、1M Context Beta退場",
       "category": "daily-newspaper-ai",
