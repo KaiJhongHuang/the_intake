@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-05-02",
+      "title": "Claude Code v2.1.126更新、Agent 365正式GA、五角大廈持續排除Anthropic",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-02-Claude-Code-126-Agent365-GA-Pentagon-Freeze.md"
+    },
+    {
+      "date": "2026-05-02",
       "title": "川普拒伊朗和平提案、五角大廈撤德5000兵、S&P500歷史新高",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-05-02-Trump-Rejects-Iran-Deal-Germany-Pullout.md"
