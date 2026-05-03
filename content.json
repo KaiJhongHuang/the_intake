@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-03",
+      "title": "川普宣布自由計畫護航荷姆茲、拒伊朗14點方案、賴清德訪史瓦帝尼",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-05-03-Trump-Project-Freedom-Hormuz-Escort.md"
+    },
+    {
       "date": "2026-05-02",
       "title": "Claude Code v2.1.126更新、Agent 365正式GA、五角大廈持續排除Anthropic",
       "category": "daily-newspaper-ai",
