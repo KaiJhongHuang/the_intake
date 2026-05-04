@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-05-04",
+      "title": "mattpocock/skills 55K星爆紅、VILA-Lab拆解Claude Code架構、jcode新toolkit登場",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-04-Pocock-Skills-55K-Claude-Infra-Paper.md"
+    },
+    {
+      "date": "2026-05-04",
       "title": "伊朗攻擊阿聯酋停火瀕崩、美軍護航荷姆茲、台股首破四萬點",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-05-04-Iran-Hits-UAE-Taiex-40K.md"
