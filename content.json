@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-05-05",
+      "title": "Anthropic $1.5B合資企業服務、Verisk MCP連接器上線、Claude Code v2.1.127",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-05-Anthropic-15B-JV-Verisk-MCP-Launch.md"
+    },
+    {
+      "date": "2026-05-05",
       "title": "魯比歐宣布攻勢結束、伊朗再攻阿聯酋停火瀕崩、賴清德突破封鎖返台",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-05-05-Epic-Fury-Ends-Lai-Returns.md"
