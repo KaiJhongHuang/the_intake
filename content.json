@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-05",
+      "title": "魯比歐宣布攻勢結束、伊朗再攻阿聯酋停火瀕崩、賴清德突破封鎖返台",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-05-05-Epic-Fury-Ends-Lai-Returns.md"
+    },
+    {
       "date": "2026-05-04",
       "title": "mattpocock/skills 55K星爆紅、VILA-Lab拆解Claude Code架構、jcode新toolkit登場",
       "category": "daily-newspaper-ai",
