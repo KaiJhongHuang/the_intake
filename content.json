@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-12",
+      "title": "Claude for Legal正式上線、Agent View研究預覽登場、Claude Platform on AWS全面GA",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-12-Claude-Legal-Debut-Agent-View-AWS-GA.md"
+    },
+    {
       "date": "2026-05-10",
       "title": "川普痛批伊朗回應不可接受、俄烏三日停火換俘千人、韓國瑜率團訪歐",
       "category": "daily-newspaper",
