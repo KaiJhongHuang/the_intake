@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-05-13",
+      "title": "Claude for Legal 20+連接器上線、Anthropic傳融$30B估值$900B、Agent View預覽",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-13-Claude-Legal-Launch-30B-Funding-Talks.md"
+    },
+    {
+      "date": "2026-05-13",
       "title": "川普攜CEO天團抵京、美伊停火瀕崩考慮鐵鎚行動、Samsung罷工倒數",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-05-13-Trump-Lands-Beijing-Iran-On-Life-Support.md"
