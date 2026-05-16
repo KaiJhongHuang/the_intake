@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-16",
+      "title": "彭博點名台灣淪川習會輸家、俄油豁免到期油價週漲8%、俄軍294無人機夜襲烏克蘭",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-05-16-Taiwan-Loser-Tag-Oil-Waiver-Expires.md"
+    },
+    {
       "date": "2026-05-15",
       "title": "PwC三萬人培訓Claude、蓋茲基金會$2億合作、微軟砍Claude Code轉Copilot CLI",
       "category": "daily-newspaper-ai",
