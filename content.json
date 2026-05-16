@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-16",
+      "title": "Agent SDK獨立計費6/15生效、OpenHuman登頂GitHub、MDASH找出16個Windows漏洞",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-16-Agent-Billing-Split-OpenHuman-MDASH.md"
+    },
+    {
       "date": "2026-05-15",
       "title": "PwC三萬人培訓Claude、蓋茲基金會$2億合作、微軟砍Claude Code轉Copilot CLI",
       "category": "daily-newspaper-ai",
