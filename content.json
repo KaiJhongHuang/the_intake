@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-18",
+      "title": "arXiv一年禁令、Musk敗訴OpenAI、Google I/O前夕Gemini 4.0預期",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-18-ArXiv-Ban-Musk-Verdict-IO-Eve.md"
+    },
+    {
       "date": "2026-05-15",
       "title": "PwC三萬人培訓Claude、蓋茲基金會$2億合作、微軟砍Claude Code轉Copilot CLI",
       "category": "daily-newspaper-ai",
