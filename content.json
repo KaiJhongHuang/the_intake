@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-19",
+      "title": "彈劾案首投未過、川普暫緩伊朗攻擊、Google I/O發布Gemini 3.5 Flash",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-05-19-Impeachment-Fails-Iran-Strike-Paused.md"
+    },
+    {
       "date": "2026-05-18",
       "title": "arXiv一年禁令、Musk敗訴OpenAI、Google I/O前夕Gemini 4.0預期",
       "category": "daily-newspaper-ai",
