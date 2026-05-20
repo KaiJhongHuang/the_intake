@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-20",
+      "title": "Karpathy加入Anthropic、收購Stainless掌控SDK生態、CNBC Disruptor 50登頂",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-20-Karpathy-Joins-Stainless-Acquired-CNBC-No1.md"
+    },
+    {
       "date": "2026-05-19",
       "title": "Google I/O Gemini Spark登場、MCP tunnels研究預覽、Mythos保密令解除",
       "category": "daily-newspaper-ai",
