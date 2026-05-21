@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-21",
+      "title": "川普表態與賴清德通話、普丁習近平北京簽40項協議、台股暴漲1347點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-05-21-Trump-Lai-Call-Putin-Xi-Summit.md"
+    },
+    {
       "date": "2026-05-20",
       "title": "Karpathy加入Anthropic、收購Stainless掌控SDK生態、CNBC Disruptor 50登頂",
       "category": "daily-newspaper-ai",
