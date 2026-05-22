@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-05-22",
+      "title": "Compliance API六廠串接、$30B融資逼近$900B估值、Datasette Agent首發",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-22-Compliance-API-Flood-30B-Round-Datasette-Agent.md"
+    },
+    {
+      "date": "2026-05-22",
       "title": "AMD百億美元投資台灣、川普願與賴清德通話、伊朗禁止鈾出口",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-05-22-AMD-10B-Taiwan-Trump-Lai-Call.md"
