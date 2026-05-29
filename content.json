@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-05-29",
+      "title": "Opus 4.8發布Dynamic Workflows上線、企業$5億帳單事故、微軟砍Claude Code授權",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-29-Opus48-Dynamic-Workflows-500M-Bill.md"
+    },
+    {
+      "date": "2026-05-29",
       "title": "MSCI調權台股漲1096點收44732新高、美伊暫定協議川普未簽、香格里拉對話開幕",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-05-29-Taiex-Record-Iran-Deal-Pending.md"
