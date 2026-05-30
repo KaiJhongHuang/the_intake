@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-05-30",
+      "title": "$9650億估值登頂、Security Plugin三層審查上線、惡意npm瞄準Claude目錄",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-30-965B-Valuation-Security-Plugin-Npm-Attack.md"
+    },
+    {
       "date": "2026-05-29",
       "title": "Opus 4.8發布Dynamic Workflows上線、企業$5億帳單事故、微軟砍Claude Code授權",
       "category": "daily-newspaper-ai",
