@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-06-06",
+      "title": "全線中斷三小時、GitHub Action供應鏈漏洞、6/15計費分拆倒數",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-06-06-Outage-Action-Flaw-Credit-Split.md"
+    },
+    {
+      "date": "2026-06-06",
       "title": "晶片股拋售續燒Nasdaq跌4%、以黎停火數小時即瓦解、AI四巨頭促管合成DNA",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-06-06-Chip-Rout-Deepens-Lebanon-Truce-Frays.md"
