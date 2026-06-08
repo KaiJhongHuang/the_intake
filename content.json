@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-06-08",
+      "title": "WWDC開放Claude進Siri、GitHub Action漏洞修補、6/15計費改制社群焦慮",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-06-08-WWDC-Claude-On-Siri-Billing-Shift.md"
+    },
+    {
+      "date": "2026-06-08",
       "title": "以伊互射飛彈停火瀕崩、費半暴跌10%台股創史上第三大跌點、Apple WWDC Gemini重建Siri",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-06-08-Iran-Israel-Clash-Tech-Crash-WWDC.md"
