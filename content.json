@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-06-09",
+      "title": "Fable 5與Mythos 5同步發布、Apple WWDC開放Claude進Siri、遞迴自我改進論文呼籲暫停",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-06-09-Fable-5-Mythos-Launch-Apple-Swift.md"
+    },
+    {
+      "date": "2026-06-09",
       "title": "伊朗擊落美軍阿帕契、以伊互射後暫停、台股反攻漲1201點、WWDC Siri AI登場",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-06-09-Apache-Downed-Siri-AI-Debut.md"
