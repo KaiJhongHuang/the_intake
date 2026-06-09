@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-06-09",
+      "title": "伊朗擊落美軍阿帕契、以伊互射後暫停、台股反攻漲1201點、WWDC Siri AI登場",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-06-09-Apache-Downed-Siri-AI-Debut.md"
+    },
+    {
       "date": "2026-06-08",
       "title": "WWDC開放Claude進Siri、GitHub Action漏洞修補、6/15計費改制社群焦慮",
       "category": "daily-newspaper-ai",
