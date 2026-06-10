@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-06-10",
+      "title": "Fable 5首日生態全響應、Managed Agents公測cron排程、MCP OAuth劫持漏洞發酵",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-06-10-Fable-5-Reactions-Managed-Agents-Beta.md"
+    },
+    {
       "date": "2026-06-09",
       "title": "Fable 5與Mythos 5同步發布、Apple WWDC開放Claude進Siri、遞迴自我改進論文呼籲暫停",
       "category": "daily-newspaper-ai",
