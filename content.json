@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-06-12",
+      "title": "DXC全球聯盟推Claude進關鍵系統、Fable 5靜默回退改為可見、假教學散佈AsyncRAT",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-06-12-DXC-Alliance-Fable5-Fallback-Fix.md"
+    },
+    {
+      "date": "2026-06-12",
       "title": "川普取消伊朗攻擊稱和談在即、SpaceX $750億IPO創史上最大、世足墨西哥城開幕",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-06-12-SpaceX-Record-IPO-Iran-Peace-Signal.md"
