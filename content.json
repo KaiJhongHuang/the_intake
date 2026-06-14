@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-06-14",
+      "title": "美伊達成和平協議荷姆茲重開、扶輪年會台北登場、OpenAI退役GPT-5.2",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-06-14-Iran-Peace-Deal-Hormuz-Reopens.md"
+    },
+    {
       "date": "2026-06-12",
       "title": "DXC全球聯盟推Claude進關鍵系統、Fable 5靜默回退改為可見、假教學散佈AsyncRAT",
       "category": "daily-newspaper-ai",
