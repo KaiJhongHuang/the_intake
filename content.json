@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-06-22",
+      "title": "葛林斯潘辭世享年百歲、美伊60天路線圖達成、台股首站47K",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-06-22-Greenspan-Dies-Iran-Roadmap-Taiex-47K.md"
+    },
+    {
       "date": "2026-06-21",
       "title": "Code v2.1.185修復IDE體驗、Design雙向同步、Gemini CLI轉型Antigravity",
       "category": "daily-newspaper-ai",
