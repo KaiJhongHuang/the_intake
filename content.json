@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-06-22",
+      "title": "全球90分鐘大當機、Fable5免費今日截止、川普態度反轉不再視Anthropic為國安威脅",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-06-22-Outage-Fable5-Deadline-Trump-Reversal.md"
+    },
+    {
+      "date": "2026-06-22",
       "title": "葛林斯潘辭世享年百歲、美伊60天路線圖達成、台股首站47K",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-06-22-Greenspan-Dies-Iran-Roadmap-Taiex-47K.md"
