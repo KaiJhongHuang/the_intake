@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-06-26",
+      "title": "Apple漲價台股暴跌1683點、北京中國尊遭小飛機撞擊、GPT-5.6限量預覽",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-06-26-Apple-Hike-Sparks-Tech-Rout.md"
+    },
+    {
       "date": "2026-06-25",
       "title": "阿里巴巴蒸餾攻擊曝光、Claude Tag上線Slack、Code v2.1.191新增/rewind",
       "category": "daily-newspaper-ai",
