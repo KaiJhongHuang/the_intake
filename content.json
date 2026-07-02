@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-02",
+      "title": "Claude Code隱寫術追蹤曝光修復、Gemini Spark登Mac支援MCP、三項Agent攻擊向量連環爆",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-07-02-Stego-Fix-Spark-Mac-Agent-Attacks.md"
+    },
+    {
+      "date": "2026-07-02",
       "title": "美伊和談因哈梅內伊葬禮暫停、六月非農僅增5.7萬遠遜預期、費半重挫5.4%、中聯油脂致癌物超標21品項下架",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-07-02-Iran-Funeral-Pause-Jobs-Miss.md"
