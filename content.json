@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-06",
+      "title": "中國試射巨浪-3潛射飛彈多國譴責、俄軍再襲基輔23死北約峰會在即、道瓊首破53K SpaceX明入Nasdaq-100",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-06-China-SLBM-Test-Kyiv-Struck-Dow-53K.md"
+    },
+    {
       "date": "2026-07-05",
       "title": "Willison用Fable花$149寫完sqlite-utils 4.0rc2、阿里巴巴全面禁用Claude Code推Qoder、Codex-plugin-cc登GitHub第一",
       "category": "daily-newspaper-ai",
