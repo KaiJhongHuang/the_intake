@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-07",
+      "title": "NATO安卡拉峰會開幕美軍再襲伊朗撤石油許可、三星獲利19倍晶片股反遭拋售費半跌6%、強颱巴威逼近台灣分科測驗延期",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-07-NATO-Ankara-US-Strikes-Iran-Chip-Rout.md"
+    },
+    {
       "date": "2026-07-06",
       "title": "華郵獨家蒸餾戰始末、Fable 5明轉usage credits計費、Ronacher揭tool calling退化20%失敗率",
       "category": "daily-newspaper-ai",
