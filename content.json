@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-10",
+      "title": "巴威癱瘓全台休市停課、美伊停火瓦解互轟90目標約旦攔截飛彈、SK海力士265億美元創外企在美IPO紀錄",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-10-Bavi-Halts-Taiwan-Ceasefire-Over-SK-Hynix-IPO.md"
+    },
+    {
       "date": "2026-07-09",
       "title": "GPT-5.6三模型GA、Friendly Fire攻擊跨四模型中招、VS Code 1.128多聊天Claude Agent上線",
       "category": "daily-newspaper-ai",
