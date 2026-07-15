@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-15",
+      "title": "美封鎖伊朗首日擊毀油輪、IBM暴跌25%創紀錄、藍白推廢核安樂死公投、剛果伊波拉破700死",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-15-Iran-Blockade-Enforced-IBM-Record-Crash.md"
+    },
+    {
       "date": "2026-07-14",
       "title": "印度盧比定價上線Pro月費₹2000、v2.1.208螢幕閱讀器模式首發、Haiku短暫中斷25分鐘",
       "category": "daily-newspaper-ai",
