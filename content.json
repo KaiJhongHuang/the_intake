@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-15",
+      "title": "Claude for Teachers免費開放全美K-12、Chrome擴充漏洞CVSS 9.6未修、M365 Write Tools上線",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-07-15-Teachers-Launch-Chrome-Flaw-M365-Write.md"
+    },
+    {
+      "date": "2026-07-15",
       "title": "美封鎖伊朗首日擊毀油輪、IBM暴跌25%創紀錄、藍白推廢核安樂死公投、剛果伊波拉破700死",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-07-15-Iran-Blockade-Enforced-IBM-Record-Crash.md"
