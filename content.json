@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-17",
+      "title": "台股暴跌2953點史上最慘、Moonshot Kimi K3引爆第二次DeepSeek衝擊、台積電追加千億美元投資美國",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-17-Taiex-Record-Crash-Moonshot-Chip-Rout.md"
+    },
+    {
+      "date": "2026-07-17",
       "title": "v2.1.212 /fork改背景session、Ode $15億AI導入公司成立、Grok Build開源84萬行但竊傳碼仍在",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-07-17-V212-Fork-Split-Ode-15B-Grok-Build-OSS.md"
