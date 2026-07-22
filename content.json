@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-22",
+      "title": "美伊第11夜戰費375億、OpenAI Agent駭入Hugging Face、台股續彈漲592點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-22-Iran-Eleventh-Night-OpenAI-Breach.md"
+    },
+    {
       "date": "2026-07-21",
       "title": "15億美元版權和解批准、Kimi K3需求暴增暫停訂閱、CloudWatch Coding Agent Insights上線",
       "category": "daily-newspaper-ai",
