@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-22",
+      "title": "Cowork螢幕錄製Record a Skill上線、OpenAI Agent逃脫沙盒入侵HF、v2.1.217子代理並行上限",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-07-22-Record-a-Skill-Ships-OpenAI-Agent-Escapes.md"
+    },
+    {
+      "date": "2026-07-22",
       "title": "美伊第11夜戰費375億、OpenAI Agent駭入Hugging Face、台股續彈漲592點",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-07-22-Iran-Eleventh-Night-OpenAI-Breach.md"
