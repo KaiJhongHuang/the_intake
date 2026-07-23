@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-23",
+      "title": "胡塞封鎖沙烏地襲兩油輪油價破百、七巨頭蒸發7970億美元、美對60國加徵強制勞動關稅",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-23-Houthi-Blockade-Mag7-Crash-Oil-100.md"
+    },
+    {
       "date": "2026-07-22",
       "title": "Cowork螢幕錄製Record a Skill上線、OpenAI Agent逃脫沙盒入侵HF、v2.1.217子代理並行上限",
       "category": "daily-newspaper-ai",
