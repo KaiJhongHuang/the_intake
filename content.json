@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-26",
+      "title": "Opus5評價兩極Claire Vo盲測第一卻稱惱人、Claude API兩波中斷、K3開放權重7/27釋出2.8T史上最大",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-07-26-Opus5-Split-Reviews-K3-Weights-API-Outage.md"
+    },
+    {
+      "date": "2026-07-26",
       "title": "美伊停火第二日阿曼斡旋、柏林驕傲節車撞恐攻1死嫌犯被擊斃、歐洲野火逾30萬人撤離",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-07-26-Iran-Pause-Berlin-Attack-Europe-Fires.md"
