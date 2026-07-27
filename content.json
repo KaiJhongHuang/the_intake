@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-27",
+      "title": "共享對話遭Google索引暴露敏感資料、K3開放權重2.8T史上最大釋出、MCP無狀態RC明日發布",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-07-27-Shared-Chats-Indexed-K3-Weights-MCP-RC.md"
+    },
+    {
+      "date": "2026-07-27",
       "title": "美伊停火連三夜川普稱深度談判、CXMT科創板首日飆466%超工商銀行、共軍打造總統府等比模型",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-07-27-Iran-Pause-CXMT-Record-IPO-PLA-Models.md"
