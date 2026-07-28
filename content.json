@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-28",
+      "title": "MCP無狀態規範正式發布、Mythos破解HAWK與AES密碼學弱點、Amodei表態不禁開放權重",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-07-28-MCP-Stateless-Ships-Mythos-Cracks-Crypto.md"
+    },
+    {
+      "date": "2026-07-28",
       "title": "中國DUV量產引爆全球晶片股崩跌、川普同日接見澤倫斯基與納坦雅胡、台股重挫2030點",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-07-28-China-DUV-Sparks-Global-Chip-Rout.md"
