@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-29",
+      "title": "日本熊本M7.1強震18死、Fed鷹派三票維持利率、KOSPI連兩日熔斷台股續崩1564點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-29-Kumamoto-Quake-Fed-Holds-Chip-Rout.md"
+    },
+    {
       "date": "2026-07-28",
       "title": "MCP無狀態規範正式發布、Mythos破解HAWK與AES密碼學弱點、Amodei表態不禁開放權重",
       "category": "daily-newspaper-ai",
