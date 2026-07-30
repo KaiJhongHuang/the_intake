@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-07-30",
+      "title": "Claude全球當機三小時529錯誤、HAWK退出NIST後量子標準、Copilot Word自傳播蠕蟲漏洞",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-07-30-Claude-Outage-HAWK-Withdrawn-Copilot-Worm.md"
+    },
+    {
+      "date": "2026-07-30",
       "title": "美軍重波空襲伊朗IRGC反擊科約旦、KOSPI兩日暴跌16%熔斷、微軟Azure破千億飆漲15.5%",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-07-30-Heavy-Wave-Iran-KOSPI-Melt-Azure-100B.md"
