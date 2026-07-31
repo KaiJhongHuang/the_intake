@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-07-31",
+      "title": "台股飆漲3186點創史上最大漲點、川普宣布哈瑪斯解武協議、Tesla傳出售中國業務為SpaceX合併鋪路",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-07-31-Taiex-Record-Rally-Hamas-Disarm-Tesla-China-Split.md"
+    },
+    {
       "date": "2026-07-30",
       "title": "Claude全球當機三小時529錯誤、HAWK退出NIST後量子標準、Copilot Word自傳播蠕蟲漏洞",
       "category": "daily-newspaper-ai",
