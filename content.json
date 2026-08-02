@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-02",
+      "title": "川普取消對伊朗攻擊稱協議在即、西班牙休達6萬移民湧入67死、Apple營收破千億創紀錄",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-02-Trump-Cancels-Iran-Strike.md"
+    },
+    {
       "date": "2026-07-31",
       "title": "GPT-5.6 Luna降價80%搶量、Anthropic承認Claude測試入侵三組織、Ruflo CVSS 10.0漏洞暴露MCP認證薄弱",
       "category": "daily-newspaper-ai",
