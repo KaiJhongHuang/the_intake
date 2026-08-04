@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-04",
+      "title": "S&P500道瓊雙創新高油價劇震、川普取消攻伊宣布重啟談判伊朗否認、阿里巴巴Qwen3.8-Max挑戰美AI領先",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-04-SP500-Dow-Records-Hormuz-Hopes.md"
+    },
+    {
       "date": "2026-08-03",
       "title": "Astra解十道數學難題附Lean證明、Project Perception公開預覽、condense-json 1.0發布",
       "category": "daily-newspaper-ai",
