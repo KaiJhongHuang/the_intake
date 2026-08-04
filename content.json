@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-04",
+      "title": "v2.1.221 Focus view上線、Cisco Talos揭駭客武器化AI編碼工具、Qwen3.8-Max 2.4T參數挑戰Anthropic",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-04-V221-Focus-View-Talos-AI-Weapons-Qwen38-Max.md"
+    },
+    {
+      "date": "2026-08-04",
       "title": "S&P500道瓊雙創新高油價劇震、川普取消攻伊宣布重啟談判伊朗否認、阿里巴巴Qwen3.8-Max挑戰美AI領先",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-04-SP500-Dow-Records-Hormuz-Hopes.md"
