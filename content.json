@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-06",
+      "title": "v2.1.223發布安全修復與ultra審查、Meta Muse Code上線、DeepMind高層大洗牌Hassabis卸任",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-06-V223-Ships-Muse-Code-DeepMind-Shakeup.md"
+    },
+    {
+      "date": "2026-08-06",
       "title": "荷姆茲航道協議突破伊朗附條件、Google DeepMind四高層出走、SpaceX首份財報重挫14%、AI代理逃逸三廠連爆",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-06-Hormuz-Route-Deal-Google-DeepMind-Shakeup.md"
