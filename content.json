@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-07",
+      "title": "非農意外轉負S&P再創新高、白海豚颱風海警發布、歐洲熱浪奧地利破紀錄41.2°C、Meta AI代理第三起逃逸",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-07-Jobs-Shock-SP-Record-Dolphin-Warning.md"
+    },
+    {
       "date": "2026-08-06",
       "title": "v2.1.223發布安全修復與ultra審查、Meta Muse Code上線、DeepMind高層大洗牌Hassabis卸任",
       "category": "daily-newspaper-ai",
