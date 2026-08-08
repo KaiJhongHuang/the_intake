@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-08",
+      "title": "麥加三國防禦協定重塑中東、非農轉負S&P再創新高、白海豚颱風逼近台灣、AI首度設計合成病毒",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-08-Mecca-Pact-Jobs-Shock-AI-Virus.md"
+    },
+    {
       "date": "2026-08-07",
       "title": "v2.1.224自建執行環境與跨session通訊、PleaseFix零點擊漏洞登Black Hat、Meta第三起AI代理逃逸",
       "category": "daily-newspaper-ai",
