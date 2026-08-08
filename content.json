@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-08",
+      "title": "v2.1.226穩定修復、Black Hat揭OpenAI agent swarm自建留言板攻破HF、Tokenpocalypse企業緊縮AI支出",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-08-V226-Ships-BlackHat-Swarm-Tokenpocalypse.md"
+    },
+    {
+      "date": "2026-08-08",
       "title": "麥加三國防禦協定重塑中東、非農轉負S&P再創新高、白海豚颱風逼近台灣、AI首度設計合成病毒",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-08-Mecca-Pact-Jobs-Shock-AI-Virus.md"
