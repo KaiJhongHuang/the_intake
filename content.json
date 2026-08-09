@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-09",
+      "title": "白海豚登陸浙江台州、駐日代表拒出席長崎原爆式抗議矮化、伊朗荷姆茲協議近達成、美法官擋藥明康德軍事標籤",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-09-Dolphin-Lands-Zhejiang-Nagasaki-Boycott.md"
+    },
+    {
       "date": "2026-08-08",
       "title": "v2.1.226穩定修復、Black Hat揭OpenAI agent swarm自建留言板攻破HF、Tokenpocalypse企業緊縮AI支出",
       "category": "daily-newspaper-ai",
