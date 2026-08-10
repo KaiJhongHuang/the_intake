@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-10",
+      "title": "Claude研究版黎曼ζ下界41.6%→67.2%、auto mode 8/14成為預設89%攔截率、Meta Muse Glimmer 30B開源、Daybreak雙層GPT-5.6-Cyber",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-10-Riemann-67-Auto-Default-Muse-Glimmer.md"
+    },
+    {
+      "date": "2026-08-10",
       "title": "台積電7月營收4675億創新高、納坦雅胡拒川普加薩方案、伊朗重組軍事指揮、荷姆茲僵局油價飆5%",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-10-TSMC-Record-Gaza-Plan-Rejected.md"
