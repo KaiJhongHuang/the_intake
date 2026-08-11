@@ -743,6 +743,12 @@
     },
     {
       "date": "2026-05-28",
+      "title": "Opus 4.8正式發布SWE-Bench Pro 69.2%、Dynamic Workflows研究預覽調度千個子代理、惡意npm套件鎖定Claude目錄",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-05-28-Opus-48-Dynamic-Workflows-Ship.md"
+    },
+    {
+      "date": "2026-05-28",
       "title": "美伊戰事第90天互轟、台股觸44954新高後急殺跌620點、Anthropic $965B估值首超OpenAI",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-05-28-US-Iran-Trade-Strikes-Taiex-Whipsaw.md"
