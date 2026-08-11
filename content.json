@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-11",
+      "title": "隱形浮水印全球上線回應EU AI Act、Theseus資料中心合資成立、OpenClaw健身房入侵引爆代理責任辯論、v2.1.227修復訂閱旗標Bug",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-11-Watermarks-Ship-Theseus-JV-Gym-Hack.md"
+    },
+    {
+      "date": "2026-08-11",
       "title": "敘利亞缺席判阿薩德死刑、NVIDIA五千億AI融資、台積電7月營收創新高、漢光42演習模擬通訊空襲",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-11-Assad-Death-Sentence-Nvidia-500B-Plan.md"
