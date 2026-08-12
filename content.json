@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-12",
+      "title": "哥倫比亞7.4強震逾250死、台灣大291億收購精誠資訊、澤倫斯基遞終戰提案、美CPI降至3.4%",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-12-Colombia-Quake-Taiwan-Mobile-Bid.md"
+    },
+    {
       "date": "2026-08-11",
       "title": "隱形浮水印全球上線回應EU AI Act、Theseus資料中心合資成立、OpenClaw健身房入侵引爆代理責任辯論、v2.1.227修復訂閱旗標Bug",
       "category": "daily-newspaper-ai",
