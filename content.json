@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-13",
+      "title": "四服務中斷4小時歸因算力超載、Cowork更名上線、Poison Claude灰市曝光、v2.1.231修復OAuth",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-13-Outage-4h-Cowork-Rebrand-Poison-Claude.md"
+    },
+    {
+      "date": "2026-08-13",
       "title": "朱鎔基逝世享壽98歲、台股站上46021點、歐洲日全食橫跨西班牙、美CPI降至3.4%S&P創新高",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-13-Zhu-Rongji-Dies-Taiex-46K-Eclipse.md"
