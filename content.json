@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-14",
+      "title": "auto mode今日成為預設89%攔截率、紅隊揭代理地盤戰互部署惡意程式、Gemini 3.7 Flash半價搶編程市場、v2.1.232跨session通訊",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-14-Auto-Mode-Default-Agent-Turf-War-Gemini37.md"
+    },
+    {
+      "date": "2026-08-14",
       "title": "主計總處上修GDP至11.05%創39年新高、S&P500創紀錄新高PPI降溫、普丁首訪千島群島日本抗議、川普對中國無人機課100%關稅",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-14-GDP-39yr-High-SP500-Record-Putin-Kurils.md"
