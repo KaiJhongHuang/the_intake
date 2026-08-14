@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-14",
+      "title": "主計總處上修GDP至11.05%創39年新高、S&P500創紀錄新高PPI降溫、普丁首訪千島群島日本抗議、川普對中國無人機課100%關稅",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-14-GDP-39yr-High-SP500-Record-Putin-Kurils.md"
+    },
+    {
       "date": "2026-08-13",
       "title": "四服務中斷4小時歸因算力超載、Cowork更名上線、Poison Claude灰市曝光、v2.1.231修復OAuth",
       "category": "daily-newspaper-ai",
