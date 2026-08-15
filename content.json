@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-15",
+      "title": "總預算三讀通刪480億創最晚紀錄、印尼7.7級強震至少47死、川普對中國無人機課100%關稅、S&P500維持紀錄高點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-15-Budget-Passed-Indonesia-Quake-Drone-Tariffs.md"
+    },
+    {
       "date": "2026-08-14",
       "title": "auto mode今日成為預設89%攔截率、紅隊揭代理地盤戰互部署惡意程式、Gemini 3.7 Flash半價搶編程市場、v2.1.232跨session通訊",
       "category": "daily-newspaper-ai",
