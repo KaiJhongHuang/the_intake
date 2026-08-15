@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-15",
+      "title": "浮水印FAQ公開引退訂潮偵測API預告、auto mode正式預設v2.1.233修復、Grok 4.6登陸Copilot八介面",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-15-Watermark-FAQ-Auto-Default-V233-Grok46.md"
+    },
+    {
+      "date": "2026-08-15",
       "title": "總預算三讀通刪480億創最晚紀錄、印尼7.7級強震至少47死、川普對中國無人機課100%關稅、S&P500維持紀錄高點",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-15-Budget-Passed-Indonesia-Quake-Drone-Tariffs.md"
