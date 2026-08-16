@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-16",
+      "title": "風險報告揭Model 2封存CoBench飽和、GLM-5.3發現Cursor漏洞延後開源、Workbench明日退場",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-16-Risk-Report-Model2-GLM53-Cursor-Vuln.md"
+    },
+    {
+      "date": "2026-08-16",
       "title": "烏克蘭600架無人機創戰爭最大攻擊、印尼強震53死、比利時史上最大野火燒向德國、以軍空襲黎南11死停火以來最血腥",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-16-Ukraine-Record-Drones-Belgium-Wildfire.md"
