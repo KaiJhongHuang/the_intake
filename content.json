@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-17",
+      "title": "美伊60天期限到期核談無進展、川普大幅削減美韓軍演、比利時史上最大野火逼近德國、ECB警告AI泡沫修正",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-17-Iran-Deadline-Expires-Korea-Drills-Cut.md"
+    },
+    {
       "date": "2026-08-16",
       "title": "風險報告揭Model 2封存CoBench飽和、GLM-5.3發現Cursor漏洞延後開源、Workbench明日退場",
       "category": "daily-newspaper-ai",
