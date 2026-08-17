@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-17",
+      "title": "Workbench今日退場prompt永久消失、Claude中斷36分鐘、Willison實測Qwen3.8推理過度21分鐘、OmniRoute單月爆增3萬星",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-17-Workbench-Sunset-Outage-Qwen38.md"
+    },
+    {
+      "date": "2026-08-17",
       "title": "美伊60天期限到期核談無進展、川普大幅削減美韓軍演、比利時史上最大野火逼近德國、ECB警告AI泡沫修正",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-17-Iran-Deadline-Expires-Korea-Drills-Cut.md"
