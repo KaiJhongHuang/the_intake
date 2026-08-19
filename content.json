@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-19",
+      "title": "v2.1.235拼字檢查上線、週額度延至8/31首度暗示永久化、Compliance API擴大覆蓋Cowork與Claude Code",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-19-V235-Spellcheck-Limits-Aug31-Compliance.md"
+    },
+    {
+      "date": "2026-08-19",
       "title": "川普暫停加拿大50%關稅三天、美財政部加倍長債回購殖利率驟降、以色列空襲敘利亞阻土耳其部署、台股跌589點失守季線",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-19-Trump-Pauses-Canada-Tariffs-Treasury-Buyback.md"
