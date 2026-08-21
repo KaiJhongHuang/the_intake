@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-21",
+      "title": "川普宣布對伊朗經濟D日史上最嚴厲制裁、布倫特原油逼近94美元、立院三讀婚育減稅、台股逆轉收紅漲290點、Slack推出Code整合四大AI代理",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-21-Iran-Economic-DDay-Oil-Surge.md"
+    },
+    {
       "date": "2026-08-20",
       "title": "v2.1.237內建Concise輸出風格、Files API正式GA、Claude Academy上線、Willison警告AI代理威脅軟體設計一致性",
       "category": "daily-newspaper-ai",
