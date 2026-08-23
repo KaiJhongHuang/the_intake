@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-23",
+      "title": "llm 0.33模板組合功能上線、CellCog排名Claude Code編碼深度第一、Anthropic IPO申報將列AI反感為風險因子",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-23-LLM-033-Ships-CellCog-No1-IPO-Backlash.md"
+    },
+    {
+      "date": "2026-08-23",
       "title": "南台灣豪雨三縣市停班停課、美加談判破裂50%關稅即刻生效、川普對伊朗史上最嚴厲經濟行動、NVIDIA AI伺服器漲逾15%",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-23-Southern-Floods-Tariff-Collapse.md"
