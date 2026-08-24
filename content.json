@@ -16,6 +16,36 @@
       "file": "Journal/01_Daily_Newspaper/2026-08-24-Closures-Expand-Economic-DDay-Chip-Rout.md"
     },
     {
+      "date": "2026-08-23",
+      "title": "llm 0.33模板組合功能上線、CellCog排名Claude Code編碼深度第一、Anthropic IPO申報將列AI反感為風險因子",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-23-LLM-033-Ships-CellCog-No1-IPO-Backlash.md"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "南台灣豪雨三縣市停班停課、美加談判破裂50%關稅即刻生效、川普對伊朗史上最嚴厲經濟行動、NVIDIA AI伺服器漲逾15%",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-23-Southern-Floods-Tariff-Collapse.md"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "v2.1.239成本溢價透明化、Mythos 5進駐Claude Security企業掃描、Grok Bot全平台擴展、Willison重新定義code review",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-22-V239-Mythos-Security-Grok-Bot-Expands.md"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "台南廢棄物連環爆13傷68戶損、比特幣週飆22%創三年最大漲幅、伊朗警告對美毀滅性回應、全球晶片Q2破$403B季增35%",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-22-Tainan-Blast-Bitcoin-Weekly-Record.md"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "v2.1.238釋出39項修正Opus5預設、Anthropic IPO目標$2T加入Citigroup、Willison揭ChatGPT Search啟用site:運算子46倍暴增",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-21-V238-Opus5-Default-IPO-2T-Filing.md"
+    },
+    {
       "date": "2026-08-21",
       "title": "川普宣布對伊朗經濟D日史上最嚴厲制裁、布倫特原油逼近94美元、立院三讀婚育減稅、台股逆轉收紅漲290點、Slack推出Code整合四大AI代理",
       "category": "daily-newspaper",
