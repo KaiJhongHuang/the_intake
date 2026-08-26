@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-08-26",
+      "title": "CIA局長秘訪莫斯科首位訪俄、巴基斯坦醫院火災14嬰兒罹難、荷姆茲航道談判推進油價連跌、台股勁揚663點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-26-CIA-Moscow-Hormuz-Framework.md"
+    },
+    {
       "date": "2026-08-25",
       "title": "v2.1.243無密鑰登入與loop token明細、v2.1.245修復glibc崩潰、Free-Claude-Code九代理1.3B免費token、Google Cloud指代理安全為首要門檻",
       "category": "daily-newspaper-ai",
