@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-28",
+      "title": "MHS實體AI規範研究預覽、五角大廈黑名單遭法官推翻、v2.1.248 restricted mode上線、GLM-5.3-Flash揭曉320B多模態MIT開源",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-28-MHS-Physical-AI-Pentagon-Ruling-GLM53.md"
+    },
+    {
+      "date": "2026-08-28",
       "title": "尼泊爾冰川崩塌逾390死1400失蹤、Warsh首次Jackson Hole演說稱通膨未改善、NVIDIA Q2營收$962億創紀錄、國發會推估50年後人口腰斬",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-28-Nepal-Glacier-Flood-Warsh-Jackson-Hole.md"
