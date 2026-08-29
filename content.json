@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-08-29",
+      "title": "v2.1.251修補第三次symlink逃逸、Cowork內建瀏覽器上線、130家企業AI網攻聯合警告、承重詞彙語料分析登HN第一",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-29-V251-Symlink-Fix-Cowork-Browser-Cyber-Letter.md"
+    },
+    {
+      "date": "2026-08-29",
       "title": "川普宣布美委「史上最大石油協議」取得650億桶控制權、尼泊爾冰川洪災逾670死2500失蹤、FBI查獲中國駭客平台八年滲透NASA聯準會、NVIDIA Q2營收$962億創紀錄",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-08-29-Venezuela-Oil-Deal-Nepal-Toll-Rises.md"
