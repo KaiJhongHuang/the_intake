@@ -10,6 +10,54 @@
   ],
   "articles": [
     {
+      "date": "2026-09-01",
+      "title": "Memory跨Chat/Cowork統一上線、v2.1.252穩定修復、MV2擴充全面刪除登HN第一、加州26項AI法案通過",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-01-Memory-Unified-V252-Ships-MV2-Purge.md"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "美軍再襲IRGC油價飆94美元美股跌、NVIDIA投聯發科35億台股漲820點逼近47K、GenAI.mil上線Claude被排除",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-01-US-Strikes-IRGC-Taiex-Surges.md"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Infostealer劫持Claude session大規模退款、Sonnet5促銷價永久鎖定、額度實質-17%爭議續燒、Hy4 770B自訓練迴圈",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-31-Infostealer-Hijack-Sonnet5-Price-Locked.md"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "美伊再交火空襲拉拉克島油價飆升S&P下跌、冰島公投否決入歐盟、尼泊爾洪災903死、俄襲烏彈藥庫38死、Roman望遠鏡升空",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-31-Iran-Strikes-Resume-Markets-Slide.md"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "額度永久+25%實質-17%刪文重發、Sony Warner控告Anthropic侵權、Hy4 770B MoE開放權重、Willison揭AI代理漏洞利用速度",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-30-Limits-17pct-Cut-Sony-Suit-Hy4-770B.md"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "北賽渡輪翻覆至少8死23失蹤、冰島EU公投贊成微幅領先、俄軍攻基輔彈藥庫37死、尼泊爾死亡升至781人、北捷信義線東延段通車",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-30-Cyprus-Ferry-Sinks-Iceland-EU-Vote.md"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "v2.1.251修補第三次symlink逃逸、Cowork內建瀏覽器上線、130家企業AI網攻聯合警告、承重詞彙語料分析登HN第一",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-08-29-V251-Symlink-Fix-Cowork-Browser-Cyber-Letter.md"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "川普宣布美委「史上最大石油協議」取得650億桶控制權、尼泊爾冰川洪災逾670死2500失蹤、FBI查獲中國駭客平台八年滲透NASA聯準會、NVIDIA Q2營收$962億創紀錄",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-08-29-Venezuela-Oil-Deal-Nepal-Toll-Rises.md"
+    },
+    {
       "date": "2026-08-28",
       "title": "MHS實體AI規範研究預覽、五角大廈黑名單遭法官推翻、v2.1.248 restricted mode上線、GLM-5.3-Flash揭曉320B多模態MIT開源",
       "category": "daily-newspaper-ai",
