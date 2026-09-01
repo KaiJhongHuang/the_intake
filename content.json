@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-01",
+      "title": "美軍再襲IRGC油價飆94美元美股跌、NVIDIA投聯發科35億台股漲820點逼近47K、GenAI.mil上線Claude被排除",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-01-US-Strikes-IRGC-Taiex-Surges.md"
+    },
+    {
       "date": "2026-08-31",
       "title": "Infostealer劫持Claude session大規模退款、Sonnet5促銷價永久鎖定、額度實質-17%爭議續燒、Hy4 770B自訓練迴圈",
       "category": "daily-newspaper-ai",
