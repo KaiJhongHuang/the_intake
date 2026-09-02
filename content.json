@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-02",
+      "title": "美炸彈誤中伊朗婚禮4死68傷伊朗還擊約旦、台股跌784點外資賣超913億、SEMICON開展台積電設備需求翻倍、Gemini 3.8 Flash發布",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-02-Iran-Wedding-Toll-Taiex-Falls.md"
+    },
+    {
       "date": "2026-09-01",
       "title": "Memory跨Chat/Cowork統一上線、v2.1.252穩定修復、MV2擴充全面刪除登HN第一、加州26項AI法案通過",
       "category": "daily-newspaper-ai",
