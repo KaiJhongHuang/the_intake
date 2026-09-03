@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-03",
+      "title": "v2.1.259企業MCP派發上線、Adobe 70+工具MCP接Slack、NVIDIA $129億收HuggingFace、EFS零資料留存＋偵測發布",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-03-V259-ManagedMCP-Adobe-Slack-HF-129B.md"
+    },
+    {
+      "date": "2026-09-03",
       "title": "伊朗稱美軍誤炸婚禮5死IRGC飛彈反擊約旦、NVIDIA 129億收購HuggingFace、行政院通過史上最高6076億追加預算、台股跌307點失守4.6萬",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-09-03-Iran-Flares-NVIDIA-Buys-HuggingFace.md"
