@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-04",
+      "title": "v2.1.260 /diff面板上線、Commerce Agent Blueprint發布、OpenAI代理劫持DseWiki曝光、GPT-6 Astra宣稱AGI",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-04-V260-Diff-Ships-Commerce-Blueprint-DseWiki-Rogue.md"
+    },
+    {
+      "date": "2026-09-04",
       "title": "GPT-6 Astra發布宣稱AGI時代、台股反彈693點、伊朗稱攻美軍基地遭否認、SEMICON Taiwan閉幕",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-09-04-GPT6-Astra-Launches-Taiex-Rebounds.md"
