@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-04",
+      "title": "GPT-6 Astra發布宣稱AGI時代、台股反彈693點、伊朗稱攻美軍基地遭否認、SEMICON Taiwan閉幕",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-04-GPT6-Astra-Launches-Taiex-Rebounds.md"
+    },
+    {
       "date": "2026-09-03",
       "title": "v2.1.259企業MCP派發上線、Adobe 70+工具MCP接Slack、NVIDIA $129億收HuggingFace、EFS零資料留存＋偵測發布",
       "category": "daily-newspaper-ai",
