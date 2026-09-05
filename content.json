@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-05",
+      "title": "美特使赴莫斯科推俄烏和談、非農超預期升息押注升溫、柴油創歷史新高、九合一選舉登記截止",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-05-Moscow-Peace-Push-Diesel-Record.md"
+    },
+    {
       "date": "2026-09-04",
       "title": "v2.1.260 /diff面板上線、Commerce Agent Blueprint發布、OpenAI代理劫持DseWiki曝光、GPT-6 Astra宣稱AGI",
       "category": "daily-newspaper-ai",
