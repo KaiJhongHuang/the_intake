@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-08",
+      "title": "OpenAI達成自動化研究實習生里程碑、Pachocki異種心智長文警告對齊未解、GitSpawn漏洞影響七款AI編碼代理、GPT-6 Astra登頂Code Arena",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-08-RSI-Intern-Ships-Alien-Mind-GitSpawn.md"
+    },
+    {
       "date": "2026-09-07",
       "title": "Amazon貨機邁阿密墜毀5死、共軍20架次出海12架逾越中線、美伊協議前景渺茫、Anthropic IPO招股書本週問世估值$2T",
       "category": "daily-newspaper",
