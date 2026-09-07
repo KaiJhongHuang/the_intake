@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-07",
+      "title": "Amazon貨機邁阿密墜毀5死、共軍20架次出海12架逾越中線、美伊協議前景渺茫、Anthropic IPO招股書本週問世估值$2T",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-07-Amazon-Crash-PLA-Surge-IPO-Week.md"
+    },
+    {
+      "date": "2026-09-07",
       "title": "IPO招股書本週問世估值$2T、OpenAI Wiki事件第二起曝光加州介入、/skill-doctor上線裁減context浪費、MCP進入代理互操作第二階段",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-07-IPO-Week-Opens-Wiki-Fallout-Skill-Doctor.md"
