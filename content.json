@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-09",
+      "title": "OpenAI萬代理聲稱解Navier-Stokes引信用爭議、Buckmaster用Claude寫Euler爆炸Lean證明、Mistral €3B歐洲最大輪、OpenHands 1.0正式版",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-09-Navier-Stokes-Claim-Mistral-3B-OpenHands-1.md"
+    },
+    {
       "date": "2026-09-08",
       "title": "台股大漲775點創兩個半月新高、台積電攜手ASML推12吋EUV光罩、AfD薩安邦選舉奪44%、NATO啟動格陵蘭軍演",
       "category": "daily-newspaper",
