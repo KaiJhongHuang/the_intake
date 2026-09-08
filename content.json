@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-08",
+      "title": "台股大漲775點創兩個半月新高、台積電攜手ASML推12吋EUV光罩、AfD薩安邦選舉奪44%、NATO啟動格陵蘭軍演",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-08-Taiex-Rallies-TSMC-ASML-Pact.md"
+    },
+    {
+      "date": "2026-09-08",
       "title": "OpenAI達成自動化研究實習生里程碑、Pachocki異種心智長文警告對齊未解、GitSpawn漏洞影響七款AI編碼代理、GPT-6 Astra登頂Code Arena",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-08-RSI-Intern-Ships-Alien-Mind-GitSpawn.md"
