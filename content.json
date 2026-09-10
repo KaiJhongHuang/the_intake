@@ -16,6 +16,30 @@
       "file": "Journal/01_Daily_Newspaper/2026-09-10-iPhone-Duo-Debuts-IAEA-Refers-Iran.md"
     },
     {
+      "date": "2026-09-10",
+      "title": "v2.1.267釋出53項變更maxEffortLevel封頂、陶哲軒警告數學問題被AI不可再生採掘、Bottleneck Labs七模型銀行帳戶實驗$0營收$12K假發票、Bloomberg報AI IPO浪潮伴Anthropic上市",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-10-V267-Ships-Tao-Nonrenewable-Bottleneck-Zero.md"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "布蘭特原油破$100七月來首次、英法加12國制裁以色列屯墾區、川普禁加拿大機車酒類、Mistral €30億歐洲最大AI融資、緯創營收4600億創新高",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-09-Brent-Tops-100-Settlement-Bans.md"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "OpenAI萬代理聲稱解Navier-Stokes引信用爭議、Buckmaster用Claude寫Euler爆炸Lean證明、Mistral €3B歐洲最大輪、OpenHands 1.0正式版",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-09-Navier-Stokes-Claim-Mistral-3B-OpenHands-1.md"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "台股大漲775點創兩個半月新高、台積電攜手ASML推12吋EUV光罩、AfD薩安邦選舉奪44%、NATO啟動格陵蘭軍演",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-08-Taiex-Rallies-TSMC-ASML-Pact.md"
+    },
+    {
       "date": "2026-09-08",
       "title": "OpenAI達成自動化研究實習生里程碑、Pachocki異種心智長文警告對齊未解、GitSpawn漏洞影響七款AI編碼代理、GPT-6 Astra登頂Code Arena",
       "category": "daily-newspaper-ai",
