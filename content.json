@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-10",
+      "title": "iPhone Duo摺疊機首發搭台積電2奈米、IAEA 20年首度提報伊朗至安理會、美擊沉五IRGC油輪布蘭特破$100、8月出口824億創新高連34紅",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-10-iPhone-Duo-Debuts-IAEA-Refers-Iran.md"
+    },
+    {
       "date": "2026-09-08",
       "title": "OpenAI達成自動化研究實習生里程碑、Pachocki異種心智長文警告對齊未解、GitSpawn漏洞影響七款AI編碼代理、GPT-6 Astra登頂Code Arena",
       "category": "daily-newspaper-ai",
