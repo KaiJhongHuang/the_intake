@@ -10,6 +10,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-12",
+      "title": "Anthropic首份量化威脅報告揭阿里巴巴1.51億次蒸餾與俄國代理自動重建惡意軟體、DeepSeek V4.1 Flash 552B發布V4 Pro退役、Cognition SWE-2宣稱比Fable 5.1便宜64%",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-12-Threat-Report-151M-Distill-DeepSeek-Flash.md"
+    },
+    {
       "date": "2026-09-11",
       "title": "台股重挫755點外資賣超893億、川普再喊台灣晶片課200%稅、胡塞攻占葉門摩卡港威脅紅海、布蘭特衝破108美元、美國紀念911廿五週年",
       "category": "daily-newspaper",
