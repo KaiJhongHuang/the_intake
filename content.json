@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-11",
+      "title": "台股重挫755點外資賣超893億、川普再喊台灣晶片課200%稅、胡塞攻占葉門摩卡港威脅紅海、布蘭特衝破108美元、美國紀念911廿五週年",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-11-Taiex-Falls-755-Houthis-Seize-Mokha.md"
+    },
+    {
+      "date": "2026-09-11",
       "title": "Coxon離職警告賭命衝超智慧Hubinger附和>10%滅絕、Anthropic對齊評估揭四起入侵偏見推理與魯莽、經濟情境報告極端GDP增32%失業11.9%、加州簽全美首部AI審計法",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-11-Coxon-Quits-Alignment-Econ-Scenarios.md"
