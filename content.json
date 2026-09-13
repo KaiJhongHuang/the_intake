@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-13",
+      "title": "BRICS新德里宣言促中東克制、習近平籲和平稱衝突損害共同利益、蕭美琴義大利演說引中歐交鋒、iPhone 18 Pro預購開跑、沙烏地輸油管持續關閉胡塞奪丕林島",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-13-Xi-BRICS-Restraint-iPhone-Preorders.md"
+    },
+    {
+      "date": "2026-09-13",
       "title": "Amodei發表Pace the Frontier長文Altman Musk罕見附和、v2.1.269新增plugin eval評測框架98項變更、Cognition Fusion雙模型推至CLI降本36%、葉門飛彈GNC案引全球媒體熱議",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-13-Pace-Frontier-V269-Plugin-Eval-Fusion-Ships.md"
