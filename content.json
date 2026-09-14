@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-14",
+      "title": "台股跌322點AI四巨頭聯合籲放緩費半重挫5.9%、布蘭特飆$108沙烏地管線關閉、習近平9/24訪華府、俄無人機擊中烏波邊境火車、印尼渡輪傾覆129人失蹤",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-14-AI-Slowdown-Sparks-Global-Chip-Rout.md"
+    },
+    {
+      "date": "2026-09-14",
       "title": "Anthropic選定Nasdaq上市目標$2T估值NVIDIA洽$100億錨定、FT揭連續第二季獲利毛利率逾80%、Hassabis公開支持Pace the Frontier方向、Amodei稱中國為最難困境、v2.1.270修復git權限回歸",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-14-IPO-Picks-Nasdaq-Pacing-Consensus.md"
