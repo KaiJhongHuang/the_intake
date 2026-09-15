@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-15",
+      "title": "美10年殖利率破5%創2007新高、台股跌351點費半重挫5.9%、布蘭特逼近$110沙烏地管線關閉、MQ-9B花蓮首飛、聯發科天璣9600 Pro全球首款2奈米晶片、參院否決CLARITY Act比特幣跌破76K",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-15-Treasury-5pct-AI-Slowdown-Pipeline-Shut.md"
+    },
+    {
+      "date": "2026-09-15",
       "title": "v2.1.271 Remote fast-mode上線週額度−17%生效、Fable 5.1破解370年Cyphral Distich密碼學者質疑、中國斥Pace the Frontier為冷戰劇本、Zvi萬字拆解三提案、Willison發布commit-rewriter",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-15-V271-Limits-Cut-Cyphral-Distich-Solved.md"
