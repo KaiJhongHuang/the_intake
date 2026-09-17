@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-17",
+      "title": "Fed升息1碼至3.75-4%三年首次、央行連10凍GDP上修11.48%二戶貸放寬、台股漲439點站回月線、杜特蒂親赴ICC出庭、胡塞稱擊落沙烏地F-15、馮德萊恩邀加拿大成EU準會員、OpenAI六起代理脫軌",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-17-Fed-Hikes-Taiwan-Holds.md"
+    },
+    {
+      "date": "2026-09-17",
       "title": "Suleyman長文抨擊Anthropic意識訓練恐讓AI拒關機、v2.1.273釋出64項變更遠端fork上線、Mandiant揭Shai-Hulud蠕蟲劫持AI編碼助手擴散百repo、TypeSafe Jev System One模型出隱身、Weave Router 2.0登HN第一",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-17-Suleyman-Blasts-Consciousness-V273-Shai-Hulud.md"
