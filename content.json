@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-18",
+      "title": "巴菲特卸任波克夏董事長56年時代落幕、日銀升息1.25%創31年新高、台股漲892點收47180、iPhone 18 Pro開賣、UN報告稱美軍伊朗空襲構成戰爭罪、王毅魯比歐通話鋪路習近平9/24訪美",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-18-Buffett-Steps-Down-BOJ-Hikes.md"
+    },
+    {
+      "date": "2026-09-18",
       "title": "Cowork合併Chat同推Docs與Slides beta、v2.1.274釋出記憶體警告與code-review精簡化、OpenAI試點Sponsored Agents嵌品牌代理廣告、alibaba/open-code-review一日增3231星、Bloomberg長文存在主義焦慮主導AI辯論",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-18-Cowork-Merges-Docs-Slides-V274.md"
