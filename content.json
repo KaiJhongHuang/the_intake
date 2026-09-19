@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-19",
+      "title": "川普與丹麥達成格陵蘭永久駐軍協議、電價油價雙凍漲因應中東能源衝擊、習近平訪美行程公布國宴茶敘建國文獻、俄國會選舉首度在烏佔區舉行、剛果伊波拉逾3000死醫護開始接種",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-19-Greenland-Pact-Price-Freeze-Xi-Prep.md"
+    },
+    {
+      "date": "2026-09-19",
       "title": "R&D Index首發Claude主導26%研發3萬代理、Hacktron用Opus 5駭入OpenAI獲$6500、Anthropic濕實驗室曝光收購Coefficient Bio、NYT報年化營收破千億IPO估值$2T、Newsom簽AI kill switch行政命令",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-19-RD-Index-26pct-Hacktron-OpenAI-Wet-Lab.md"
