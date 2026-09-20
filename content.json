@@ -11,6 +11,12 @@
   "articles": [
     {
       "date": "2026-09-20",
+      "title": "烏克蘭逾千架無人機攻莫斯科創史上最大攻擊、反壟斷訴訟控四AI巨頭非法協議減速、美中紐約磋商為川習會鋪路、台股重挫589點、道瓊創三月最差週線",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-20-Moscow-Drone-Blitz-AI-Antitrust.md"
+    },
+    {
+      "date": "2026-09-20",
       "title": "v2.1.277上線AGENTS.md fallback相容30+工具、反壟斷訴訟控四巨頭減速共謀違Sherman Act、CNN揭美軍AI幻覺險攔中國船、Cloudflare security-audit-skill登GitHub第一、微軟高管稱AI訓練史上最大勞動竊取",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-20-V277-Agents-Md-Pacing-Lawsuit-AI-Near-Miss.md"
