@@ -5,10 +5,28 @@
     "repo": "kaijhonghuang/the_intake"
   },
   "categories": [
-    { "id": "daily-newspaper", "folder": "Journal/01_Daily_Newspaper", "name": "每日新聞", "icon": "📰", "color": "#3b82f6" },
-    { "id": "daily-newspaper-ai", "folder": "Journal/02_Daily_Newspaper_AI", "name": "AI 工作流日報", "icon": "🤖", "color": "#8b5cf6" }
+    {
+      "id": "daily-newspaper",
+      "folder": "Journal/01_Daily_Newspaper",
+      "name": "每日新聞",
+      "icon": "📰",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "daily-newspaper-ai",
+      "folder": "Journal/02_Daily_Newspaper_AI",
+      "name": "AI 工作流日報",
+      "icon": "🤖",
+      "color": "#8b5cf6"
+    }
   ],
   "articles": [
+    {
+      "date": "2026-09-21",
+      "title": "v2.1.278 auto mode server classifier預設免分類器開銷、Willison發布llm-keys-ui遠端代理安全設金鑰、反壟斷訴訟擴散CBS等十餘媒體、AI幻覺險引美中衝突Gizmodo標差點開戰、GitHub趨勢代理工具鏈主導edge AI興起",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-21-V278-Server-Classifier-LLM-Keys-UI-Pacing-Viral.md"
+    },
     {
       "date": "2026-09-20",
       "title": "烏克蘭逾千架無人機攻莫斯科創史上最大攻擊、反壟斷訴訟控四AI巨頭非法協議減速、美中紐約磋商為川習會鋪路、台股重挫589點、道瓊創三月最差週線",
