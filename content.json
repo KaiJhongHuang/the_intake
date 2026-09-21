@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-09-21",
+      "title": "習近平本週國事訪美確認、美中達成AI對話機制、台股大漲538點連四紅、AMD市值首破1兆美元、川普簽俄伊制裁法並宣布成立AI Force、烏克蘭千架無人機攻莫斯科",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-21-Xi-Visit-Confirmed-AMD-1T-AI-Force.md"
+    },
+    {
+      "date": "2026-09-21",
       "title": "v2.1.278 auto mode server classifier預設免分類器開銷、Willison發布llm-keys-ui遠端代理安全設金鑰、反壟斷訴訟擴散CBS等十餘媒體、AI幻覺險引美中衝突Gizmodo標差點開戰、GitHub趨勢代理工具鏈主導edge AI興起",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-21-V278-Server-Classifier-LLM-Keys-UI-Pacing-Viral.md"
