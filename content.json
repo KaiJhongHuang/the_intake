@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-09-22",
+      "title": "Opus 5.5正式發布降價六成Terminal-Bench奪冠、v2.1.280預設Opus全方案升級、Adaptyv蛋白質競賽$1M credits、Google AX v0.3拆三服務登HN第一、Doctorow長文The Claude Delusion引152則論戰",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-22-Opus55-Ships-V280-Default-AX-Orchestrator.md"
+    },
+    {
+      "date": "2026-09-22",
       "title": "聯大總辯論開幕川普對伊朗最後通牒、川習會9/24登場七大議題、台股盤中衝48601歷史新高信驊破2萬、Opus 5.5發布降價六成、AMD破兆美元、準颱風舒力基生成",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-09-22-UNGA-Opens-Opus55-Taiex-Record.md"
