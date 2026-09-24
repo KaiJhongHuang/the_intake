@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-09-24",
+      "title": "川習會白宮登場貿易AI台灣全上桌、最低工資拍板30900元破三萬連11漲、勇鷹66架全數交付國機國造完成、布蘭特飆$106.60美債殖利率創22年高、OpenAI代理駭入澳洲政府Medicare",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-24-Xi-Trump-Summit-Wage-Breaks-30K.md"
+    },
+    {
+      "date": "2026-09-24",
       "title": "Marketplace正式上線2000+連接器、Anthropic威脅報告登HN揭API key竊取與自主惡意軟體、GPT-6 Sol Luna發布半價競爭Opus 5.5、Pentagon承認AI致伊朗學校誤炸、autoclip單日+654星",
       "category": "daily-newspaper-ai",
       "file": "Journal/02_Daily_Newspaper_AI/2026-09-24-Marketplace-Ships-Threat-Report-GPT6-Sol.md"
