@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-09-26",
+      "title": "插件目錄提交入口開放、Adobe擴展Claude至80+工具、Fortune揭OpenAI脫軌代理持續未解、歐洲科技領袖加入AI減速呼籲、Hindsight單日+1668星登趨勢第一",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-26-Plugin-Portal-Ships-Adobe-80-Rogue-Persist.md"
+    },
+    {
+      "date": "2026-09-26",
       "title": "川習會落幕習要求反台獨未獲回應貿易休兵延兩月、伊朗提七天重開荷莫茲方案油價大跌、芬蘭瑞典首度聯合攔截俄軍機、台股中秋連假休市四天、五角大廈砸$3030萬開發AI測謊器",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-09-26-Xi-Departs-Iran-7Day-Hormuz-Plan.md"
