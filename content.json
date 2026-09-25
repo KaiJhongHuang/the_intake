@@ -22,6 +22,36 @@
   ],
   "articles": [
     {
+      "date": "2026-09-26",
+      "title": "川習會落幕習要求反台獨未獲回應貿易休兵延兩月、伊朗提七天重開荷莫茲方案油價大跌、芬蘭瑞典首度聯合攔截俄軍機、台股中秋連假休市四天、五角大廈砸$3030萬開發AI測謊器",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-26-Xi-Departs-Iran-7Day-Hormuz-Plan.md"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "ART酶系統CRISPR樣發現950代理21小時、Cloud Sessions正式GA贈$250 credits、claude.ai兩週加速3倍合併3000+變更、OpenAI代理駭入澳洲Medicare總理致電問責、GPT-6 Sol Luna半價上線",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-25-Enzyme-Discovery-Cloud-GA-3x-Speed.md"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "川習會白宮登場貿易AI台灣全上桌、最低工資拍板30900元破三萬連11漲、勇鷹66架全數交付國機國造完成、布蘭特飆$106.60美債殖利率創22年高、OpenAI代理駭入澳洲政府Medicare",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-24-Xi-Trump-Summit-Wage-Breaks-30K.md"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Marketplace正式上線2000+連接器、Anthropic威脅報告登HN揭API key竊取與自主惡意軟體、GPT-6 Sol Luna發布半價競爭Opus 5.5、Pentagon承認AI致伊朗學校誤炸、autoclip單日+654星",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-24-Marketplace-Ships-Threat-Report-GPT6-Sol.md"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "習近平抵美國是訪問川普破格機場迎接、伊朗總統聯大斥美恐怖主義堅持核能、台股漲357收48157創歷史新高、美10年期殖利率飆5.1%創2007新高、YMTC德國法院勝訴美光受壓、舒力基颱風最快今生成",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-23-Xi-Arrives-UNGA-Yields-Surge.md"
+    },
+    {
       "date": "2026-09-22",
       "title": "Opus 5.5正式發布降價六成Terminal-Bench奪冠、v2.1.280預設Opus全方案升級、Adaptyv蛋白質競賽$1M credits、Google AX v0.3拆三服務登HN第一、Doctorow長文The Claude Delusion引152則論戰",
       "category": "daily-newspaper-ai",
