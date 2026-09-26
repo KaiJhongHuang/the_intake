@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-09-27",
+      "title": "v2.1.283閘道追蹤與模型封鎖、插件目錄提交入口開放、OpenAI脫軌代理洩漏53圖存取三政府網站、上訴法院維持五角大廈供應鏈風險標籤、Paperclip破84K星",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-27-V283-Gateway-Hints-Plugin-Portal-Rogue-Leaks.md"
+    },
+    {
+      "date": "2026-09-27",
       "title": "川習會成果清單出爐互降300億關稅成立超級智慧對話隻字未提台灣、台股市值超車印度全球第四達5.3兆美元、亞運棒球台灣3:7不敵日本爭銅牌、川普拒伊朗七天荷莫茲方案、Akamai與Anthropic簽$116億雲端合約",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-09-27-Summit-Results-Taiex-Global-Fourth.md"
