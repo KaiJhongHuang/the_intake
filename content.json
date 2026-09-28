@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-09-29",
+      "title": "v2.1.284預設Sonnet 5.5（1M上下文）、OpenAI DevDay發表「o」永續代理、Willison年度LLM回顧演講、Hindsight單日+4520星登趨勢第一、OpenAI退役四舊模型強制遷移",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-29-V284-Sonnet55-DevDay-O-Hindsight.md"
+    },
+    {
+      "date": "2026-09-29",
       "title": "SpaceX星艦首度入軌部署26顆Starlink、美中公布300億對300億降稅清單休戰延至2027/1、亞運楊俊瀚接力38秒32破全國紀錄摘銀傅兆玄跳高60年首金、AMD $82億收購World Labs、颶風波洛登陸墨西哥",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-09-29-Starship-Orbits-Tariff-Lists-Relay-Silver.md"
