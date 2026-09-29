@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-09-30",
+      "title": "DevDay發布Dots常駐代理與GPT-6.1 Sol、Sonnet 5.5 Terminal-Bench 70.6%超越Opus 5.5、OpenAI撤回GPT-6.1 Astra因對齊倒退、Claude全服務中斷38分鐘、Willison DevDay即時部落格",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-09-30-DevDay-Dots-Sonnet55-Tops-Astra-Pulled.md"
+    },
+    {
+      "date": "2026-09-30",
       "title": "立院開議普發現金攻防、美30年期殖利率飆5.61%創2002新高、OpenAI DevDay發布Dots代理撤回GPT-6.1 Astra、俄170架無人機擊中基輔科學院2死80傷、北韓地雷DMZ爆炸韓軍3傷",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-09-30-Legislature-Opens-Yields-Soar-DevDay.md"
