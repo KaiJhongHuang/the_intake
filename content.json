@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-09-30",
+      "title": "立院開議普發現金攻防、美30年期殖利率飆5.61%創2002新高、OpenAI DevDay發布Dots代理撤回GPT-6.1 Astra、俄170架無人機擊中基輔科學院2死80傷、北韓地雷DMZ爆炸韓軍3傷",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-09-30-Legislature-Opens-Yields-Soar-DevDay.md"
+    },
+    {
       "date": "2026-09-29",
       "title": "v2.1.284預設Sonnet 5.5（1M上下文）、OpenAI DevDay發表「o」永續代理、Willison年度LLM回顧演講、Hindsight單日+4520星登趨勢第一、OpenAI退役四舊模型強制遷移",
       "category": "daily-newspaper-ai",
