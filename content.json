@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-01",
+      "title": "川普簽SI行政命令全面棄用AI術語、健保CAR-T給付與健康幣上路、Micron FY26營收$1332億年增256%、俄Tu-95轟炸機墜毀6死、中國對巴西牛肉加徵55%關稅",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-01-SI-Order-CAR-T-Micron-Record.md"
+    },
+    {
       "date": "2026-09-30",
       "title": "DevDay發布Dots常駐代理與GPT-6.1 Sol、Sonnet 5.5 Terminal-Bench 70.6%超越Opus 5.5、OpenAI撤回GPT-6.1 Astra因對齊倒退、Claude全服務中斷38分鐘、Willison DevDay即時部落格",
       "category": "daily-newspaper-ai",
