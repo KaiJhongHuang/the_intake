@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-01",
+      "title": "政府版正式GA部署FedRAMP High、v2.1.286權限堆疊計數與秘密遮罩、PixelLeak揭AI代理洩漏300+組織13K截圖、Holo4電腦操作代理27B發布、ProvenanceGuard MCP來源驗證",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-01-Gov-GA-PixelLeak-13K-V286-Holo4.md"
+    },
+    {
+      "date": "2026-10-01",
       "title": "川普簽SI行政命令全面棄用AI術語、健保CAR-T給付與健康幣上路、Micron FY26營收$1332億年增256%、俄Tu-95轟炸機墜毀6死、中國對巴西牛肉加徵55%關稅",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-01-SI-Order-CAR-T-Micron-Record.md"
