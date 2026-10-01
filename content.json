@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-02",
+      "title": "F-16V BLK70首批抵台鳳翔專案、金馬63入圍《狂忘警探》11項領跑、FlyDubai副機師刺傷機長企圖墜機174人獲救、川普宣布韓國$2000億能源投資含8座核電廠、Google Suncatcher衛星搭TPU測試太空AI數據中心",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-02-F16V-Arrives-FlyDubai-Hijack-Korea-200B.md"
+    },
+    {
       "date": "2026-10-01",
       "title": "政府版正式GA部署FedRAMP High、v2.1.286權限堆疊計數與秘密遮罩、PixelLeak揭AI代理洩漏300+組織13K截圖、Holo4電腦操作代理27B發布、ProvenanceGuard MCP來源驗證",
       "category": "daily-newspaper-ai",
