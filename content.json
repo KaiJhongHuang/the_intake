@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-03",
+      "title": "G7釋1億桶戰略儲備壓油價、衣索比亞厄立特里亞斷交提格雷恐再戰、台股48476創收盤新高、亞運柔道中國選手咬人遭取消資格、Gemini 4 Argon限量發布DeepSWE 77.9%奪冠",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-03-G7-Oil-Release-Ethiopia-Breaks-Taiex-High.md"
+    },
+    {
       "date": "2026-10-02",
       "title": "v2.1.287 Mods插件架構上線、Bloomberg報IPO瞄準感恩節前$2T估值、FTC正式調查代理安全、Barclays全行擴大部署50%開發者目標、GLM-5.3紅隊揭網攻近Mythos",
       "category": "daily-newspaper-ai",
