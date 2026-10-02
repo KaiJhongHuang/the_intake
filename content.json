@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-03",
+      "title": "Broadcom籌$60B為Anthropic供晶片、Frontier Academy $100M培訓萬名工程師、Pi 1.0擁抱MCP登HN第一、TA419冒充Anthropic員工釣魚AI政策圈、Clef開源決策模型13倍速Jev",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-03-Broadcom-60B-Frontier-Academy-Pi10-TA419.md"
+    },
+    {
+      "date": "2026-10-03",
       "title": "G7釋1億桶戰略儲備壓油價、衣索比亞厄立特里亞斷交提格雷恐再戰、台股48476創收盤新高、亞運柔道中國選手咬人遭取消資格、Gemini 4 Argon限量發布DeepSWE 77.9%奪冠",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-03-G7-Oil-Release-Ethiopia-Breaks-Taiex-High.md"
