@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-04",
+      "title": "俄軍連炸基輔北橋南橋五座關閉首都癱瘓、北韓發射中程飛彈稱搭載AI可變軌、巴西1.5億人投票魯拉尋求第四任期、加州男走私$3億Nvidia晶片被捕、OpenAI安全員工辭職批文化崩壞",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-04-Kyiv-Bridges-Hit-NK-Missile-Brazil-Votes.md"
+    },
+    {
       "date": "2026-10-03",
       "title": "Broadcom籌$60B為Anthropic供晶片、Frontier Academy $100M培訓萬名工程師、Pi 1.0擁抱MCP登HN第一、TA419冒充Anthropic員工釣魚AI政策圈、Clef開源決策模型13倍速Jev",
       "category": "daily-newspaper-ai",
