@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-04",
+      "title": "v2.1.288釋出89項修正5.3倍均值、IPO延至11月可籌$1000億NVIDIA擬$100億、Context-mode MCP減98%上下文、Projects beta平行thread共享記憶、Agent-Reach免API搜13+平台",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-04-V288-Ships-IPO-Nov-100B-Context-Mode.md"
+    },
+    {
+      "date": "2026-10-04",
       "title": "俄軍連炸基輔北橋南橋五座關閉首都癱瘓、北韓發射中程飛彈稱搭載AI可變軌、巴西1.5億人投票魯拉尋求第四任期、加州男走私$3億Nvidia晶片被捕、OpenAI安全員工辭職批文化崩壞",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-04-Kyiv-Bridges-Hit-NK-Missile-Brazil-Votes.md"
