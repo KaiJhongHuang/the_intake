@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-05",
+      "title": "名古屋亞運閉幕中華隊5金36年最差、蔣萬安臉書40萬留言灌爆宣稱破金氏紀錄、梅爾茨閃訪基輔€14.6億軍援、駐沖繩美軍涉殺日女日本強烈抗議、馬斯克證實洽談台積電Terafab合作",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-05-Asiad-Closes-Merz-Kyiv-Aid-Okinawa-Murder.md"
+    },
+    {
       "date": "2026-10-04",
       "title": "v2.1.288釋出89項修正5.3倍均值、IPO延至11月可籌$1000億NVIDIA擬$100億、Context-mode MCP減98%上下文、Projects beta平行thread共享記憶、Agent-Reach免API搜13+平台",
       "category": "daily-newspaper-ai",
