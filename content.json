@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-05",
+      "title": "v2.1.289釋出agent.spawn隊友共生代理與權限繞過修復、Robinson離職OpenAI批文化崩壞、Willison呼籲硬性預算上限、IPO投資人日定10/14、Pop!_OS禁AI碼、FLUX 3 Image多步驟編輯、Ataraxos 16GPU破Stratego世界冠軍",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-05-V289-Agent-Spawn-Robinson-Quits-Budget-Caps.md"
+    },
+    {
+      "date": "2026-10-05",
       "title": "名古屋亞運閉幕中華隊5金36年最差、蔣萬安臉書40萬留言灌爆宣稱破金氏紀錄、梅爾茨閃訪基輔€14.6億軍援、駐沖繩美軍涉殺日女日本強烈抗議、馬斯克證實洽談台積電Terafab合作",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-05-Asiad-Closes-Merz-Kyiv-Aid-Okinawa-Murder.md"
