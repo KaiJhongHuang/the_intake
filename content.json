@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-06",
+      "title": "五角大廈正式停用Claude完成淘汰、Anthropic語音資料訓練opt-in上線、Bloomberg指AI代理成網站安全風險、佛州Claude日記報警案第三起、ReviewBench審查代理僅抓30%問題、Homa協議取代TCP用於AI叢集、Apple要求代理明確授權磁碟存取",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-06-Pentagon-Ends-Claude-Voice-Opt-In-Agent-Risk.md"
+    },
+    {
+      "date": "2026-10-06",
       "title": "台股飆漲1236點收49712距5萬僅差288點、葉門黎明行動沙烏地百架戰機攻胡塞奪曼德海峽、FBI逮中國代理人監控賴清德之子、林佳龍鳳凰城辦事處揭牌、諾貝爾醫學獎光遺傳學三先驅",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-06-Taiex-Near-50K-Yemen-Dawn-Nobel-Medicine.md"
