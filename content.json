@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-07",
+      "title": "v2.1.291雲端session修復、Mistral Large 4 Le Chonk 1.05T參數API預覽、Startups計畫送免費Claude Team年與$1K credits、Willison llm-mistral 0.16推理支援、Agent-Reach單日+1155星零API搜13+平台、HN熱議Claude日記報警案495則",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-07-V291-Ships-Mistral-Le-Chonk-Startups-Expand.md"
+    },
+    {
+      "date": "2026-10-07",
       "title": "諾貝爾物理獎Halzen微中子觀測站、Paramount完成$1110億WBD併購好萊塢最大、S&P再創新高收7818道瓊51521、法國25萬人教育抗議2000被捕、台股收49822距5萬僅差178點",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-07-Nobel-Halzen-Paramount-Closes-France-Protests.md"
