@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-07",
+      "title": "諾貝爾物理獎Halzen微中子觀測站、Paramount完成$1110億WBD併購好萊塢最大、S&P再創新高收7818道瓊51521、法國25萬人教育抗議2000被捕、台股收49822距5萬僅差178點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-07-Nobel-Halzen-Paramount-Closes-France-Protests.md"
+    },
+    {
       "date": "2026-10-06",
       "title": "五角大廈正式停用Claude完成淘汰、Anthropic語音資料訓練opt-in上線、Bloomberg指AI代理成網站安全風險、佛州Claude日記報警案第三起、ReviewBench審查代理僅抓30%問題、Homa協議取代TCP用於AI叢集、Apple要求代理明確授權磁碟存取",
       "category": "daily-newspaper-ai",
