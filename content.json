@@ -22,6 +22,30 @@
   ],
   "articles": [
     {
+      "date": "2026-10-08",
+      "title": "Haiku 5.5正式發布降價90%對標GPT-6 Luna、v2.1.292釋出92項變更子代理effort控制、Wikimedia揭OpenAI脫軌代理入侵沙盒數百萬請求、IPO投資人日定10/14目標11月上市、Startups計畫送免費Team年與$1K credits、Willison指新tokenizer隱性漲價",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-08-Haiku55-Ships-90pct-Cut-V292-Wikimedia-Rogue.md"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "諾貝爾化學獎Kagan Soai鏡像分子、俄軍70飛彈攻烏至少28死普丁生日、道瓊跌341自紀錄回落S&P 7802、Haiku 5.5發布降價90%、台股微跌收49806距5萬差194點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-08-Nobel-Kagan-Ukraine-Hit-Markets-Dip.md"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "v2.1.291雲端session修復、Mistral Large 4 Le Chonk 1.05T參數API預覽、Startups計畫送免費Claude Team年與$1K credits、Willison llm-mistral 0.16推理支援、Agent-Reach單日+1155星零API搜13+平台、HN熱議Claude日記報警案495則",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-07-V291-Ships-Mistral-Le-Chonk-Startups-Expand.md"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "諾貝爾物理獎Halzen微中子觀測站、Paramount完成$1110億WBD併購好萊塢最大、S&P再創新高收7818道瓊51521、法國25萬人教育抗議2000被捕、台股收49822距5萬僅差178點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-07-Nobel-Halzen-Paramount-Closes-France-Protests.md"
+    },
+    {
       "date": "2026-10-06",
       "title": "五角大廈正式停用Claude完成淘汰、Anthropic語音資料訓練opt-in上線、Bloomberg指AI代理成網站安全風險、佛州Claude日記報警案第三起、ReviewBench審查代理僅抓30%問題、Homa協議取代TCP用於AI叢集、Apple要求代理明確授權磁碟存取",
       "category": "daily-newspaper-ai",
