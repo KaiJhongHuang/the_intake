@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-08",
+      "title": "諾貝爾化學獎Kagan Soai鏡像分子、俄軍70飛彈攻烏至少28死普丁生日、道瓊跌341自紀錄回落S&P 7802、Haiku 5.5發布降價90%、台股微跌收49806距5萬差194點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-08-Nobel-Kagan-Ukraine-Hit-Markets-Dip.md"
+    },
+    {
       "date": "2026-10-07",
       "title": "v2.1.291雲端session修復、Mistral Large 4 Le Chonk 1.05T參數API預覽、Startups計畫送免費Claude Team年與$1K credits、Willison llm-mistral 0.16推理支援、Agent-Reach單日+1155星零API搜13+平台、HN熱議Claude日記報警案495則",
       "category": "daily-newspaper-ai",
