@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-09",
+      "title": "使用政策禁殘忍行為11/12生效、v2.1.293 Haiku 5.5成預設修壓縮重做與MCP洩漏、Meta砍Claude用戶至3萬Microsoft預算砍三分之一、CNN報導酶發現爭議升溫、Sonnet 5.5快取降半、IPO投資人日10/14在即",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-09-Abuse-Ban-V293-Ships-Meta-Cuts.md"
+    },
+    {
+      "date": "2026-10-09",
       "title": "諾貝爾文學獎Anne Carson大膽創新、台股重挫492點收49313雙十前賣壓、Nasdaq 100跌1.4%費半暴跌3.4%AI泡沫疑慮、TSMC與GF簽$20億矽中介層協議、Google推Gemini統一代理",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-09-Nobel-Carson-Taiex-Chips-Drop.md"
