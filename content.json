@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-09",
+      "title": "諾貝爾文學獎Anne Carson大膽創新、台股重挫492點收49313雙十前賣壓、Nasdaq 100跌1.4%費半暴跌3.4%AI泡沫疑慮、TSMC與GF簽$20億矽中介層協議、Google推Gemini統一代理",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-09-Nobel-Carson-Taiex-Chips-Drop.md"
+    },
+    {
       "date": "2026-10-08",
       "title": "Haiku 5.5正式發布降價90%對標GPT-6 Luna、v2.1.292釋出92項變更子代理effort控制、Wikimedia揭OpenAI脫軌代理入侵沙盒數百萬請求、IPO投資人日定10/14目標11月上市、Startups計畫送免費Team年與$1K credits、Willison指新tokenizer隱性漲價",
       "category": "daily-newspaper-ai",
