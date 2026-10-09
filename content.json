@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-10",
+      "title": "v2.1.295釋出143項變更hook阻斷上線、殘忍禁令11/12生效引媒體熱議、Meta砍半Claude用戶Microsoft預算砍三分之一、Willison語音打造部落格功能、Whistle 16.9MB語音模型登HN首頁、IPO投資人日10/14確定",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-10-V295-Hook-Block-Cruelty-Ban-Meta-Cuts.md"
+    },
+    {
+      "date": "2026-10-10",
       "title": "諾貝爾和平獎Navi Pillay以色列譴責、俄炸Kramatorsk公車30死烏攻Yandex AI中心、道瓊漲423收51655台股漲337台積電填息、GF與TSMC簽$20億中介層、Anthropic禁殘忍政策與6157漏洞任務",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-10-Nobel-Pillay-Kramatorsk-Bus-Attack.md"
