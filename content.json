@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-10",
+      "title": "諾貝爾和平獎Navi Pillay以色列譴責、俄炸Kramatorsk公車30死烏攻Yandex AI中心、道瓊漲423收51655台股漲337台積電填息、GF與TSMC簽$20億中介層、Anthropic禁殘忍政策與6157漏洞任務",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-10-Nobel-Pillay-Kramatorsk-Bus-Attack.md"
+    },
+    {
       "date": "2026-10-09",
       "title": "使用政策禁殘忍行為11/12生效、v2.1.293 Haiku 5.5成預設修壓縮重做與MCP洩漏、Meta砍Claude用戶至3萬Microsoft預算砍三分之一、CNN報導酶發現爭議升溫、Sonnet 5.5快取降半、IPO投資人日10/14在即",
       "category": "daily-newspaper-ai",
