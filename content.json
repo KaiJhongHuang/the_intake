@@ -28,6 +28,12 @@
       "file": "Journal/01_Daily_Newspaper/2026-10-11-Lai-Speech-Zaporizhzhia-Diesel-Deal.md"
     },
     {
+      "date": "2026-10-11",
+      "title": "Anthropic全面斷網內部評估白宮收簡報、Haiku 4.5假兇殺線索費城警方攔下、Atlassian MCP正式GA 220+工具、Recorded Future與Confluent MCP同日GA、Apple單代理勝多代理62.5%、IPO投資人日10/14倒數三天",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-11-Evals-Offline-White-House-MCP-Triple-GA.md"
+    },
+    {
       "date": "2026-10-10",
       "title": "v2.1.295釋出143項變更hook阻斷上線、殘忍禁令11/12生效引媒體熱議、Meta砍半Claude用戶Microsoft預算砍三分之一、Willison語音打造部落格功能、Whistle 16.9MB語音模型登HN首頁、IPO投資人日10/14確定",
       "category": "daily-newspaper-ai",
