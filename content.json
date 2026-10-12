@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-13",
+      "title": "Torvalds用Claude Code寫核心patch吞吐提升3倍、Dashboards與Motion beta上線、v2.1.296釋出79項變更、QGIS禁AI貢獻QEP428通過、白宮續追Haiku費城事件、IPO投資人日10/14明日登場",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-13-Torvalds-Kernel-Claude-Dashboards-QGIS-Ban.md"
+    },
+    {
+      "date": "2026-10-13",
       "title": "澤倫斯基稱俄違反能源停火克宮未確認、台股微跌11點收49301法說倒數、北檢搜索中國資安洗產地案約談4人、Meta發布Muse Wonder挑戰ChatGPT、三星Q3營業利益創全球科技最高、核子鐘Nature發表",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-13-Energy-Truce-Broken-Muse-Wonder.md"
