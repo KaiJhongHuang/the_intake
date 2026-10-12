@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-13",
+      "title": "澤倫斯基稱俄違反能源停火克宮未確認、台股微跌11點收49301法說倒數、北檢搜索中國資安洗產地案約談4人、Meta發布Muse Wonder挑戰ChatGPT、三星Q3營業利益創全球科技最高、核子鐘Nature發表",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-13-Energy-Truce-Broken-Muse-Wonder.md"
+    },
+    {
       "date": "2026-10-12",
       "title": "Nadella主張AI緊急煞車模型與編排分離、白宮強制AI事故通報前線公司即時揭露、Cloudflare收購Deno Workers自架部署、REA逆向MCP伺服器登GitHub第一、TypeSafe $870M估值$7.5B、Nvidia洽收購Reflection AI",
       "category": "daily-newspaper-ai",
