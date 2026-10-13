@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-14",
+      "title": "Gemini 4 Argon全面開放$2/$10自報DeepSWE 77.9%獨立測落後、Meta Muse Wonder首款前沿模型$4/$20登場、IPO投資人日今日舊金山登場估值$2T、Willison更新llm-meta-ai支援Wonder、Workday代理平台GA無頭模式開放、Codex CLI預設daemon引信任爭議",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-14-Argon-GA-Muse-Wonder-Ships-IPO-Day.md"
+    },
+    {
+      "date": "2026-10-14",
       "title": "台股重挫960點收48341外資賣超1653億、川普堅稱俄烏能源停火俄續攻基輔1死、美Q3財報季開跑道瓊跌180、Google Gemini 4 Argon全面開放$2/$10、Anthropic IPO投資人日今日登場估值$2T、台積電2奈米傳提前達標法說明日",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-14-Taiex-Drops-960-Ceasefire-Dispute-Argon-GA.md"
