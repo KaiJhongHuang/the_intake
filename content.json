@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-14",
+      "title": "台股重挫960點收48341外資賣超1653億、川普堅稱俄烏能源停火俄續攻基輔1死、美Q3財報季開跑道瓊跌180、Google Gemini 4 Argon全面開放$2/$10、Anthropic IPO投資人日今日登場估值$2T、台積電2奈米傳提前達標法說明日",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-14-Taiex-Drops-960-Ceasefire-Dispute-Argon-GA.md"
+    },
+    {
       "date": "2026-10-13",
       "title": "Torvalds用Claude Code寫核心patch吞吐提升3倍、Dashboards與Motion beta上線、v2.1.296釋出79項變更、QGIS禁AI貢獻QEP428通過、白宮續追Haiku費城事件、IPO投資人日10/14明日登場",
       "category": "daily-newspaper-ai",
