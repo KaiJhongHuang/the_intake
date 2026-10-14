@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-15",
+      "title": "v2.1.299釋出190項變更修補閘道金鑰外洩、Scion版控取代Git日合併三萬次、IPO投資人日Q3營收$16.8B季增45%調整獲利、威脅報告揭葉門武裝用Claude開發飛彈GNC、Codex CLI daemon爭議持續、morluto/rea登Trending第一",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-15-V299-Gateway-Fix-Scion-Ships-IPO-Q3-168B.md"
+    },
+    {
+      "date": "2026-10-15",
       "title": "台股反彈284點收48625台積電法說明日、美CPI 3.7%超預期Nasdaq跌1.9%、ASML Q3營收€117億超財測、教宗良十四世入院肺部手術、俄襲烏60萬人斷電、Anthropic IPO投資人日登場估值$2T",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-15-Hot-CPI-Nasdaq-Falls-Pope-Surgery.md"
