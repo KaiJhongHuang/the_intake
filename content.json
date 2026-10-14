@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-15",
+      "title": "台股反彈284點收48625台積電法說明日、美CPI 3.7%超預期Nasdaq跌1.9%、ASML Q3營收€117億超財測、教宗良十四世入院肺部手術、俄襲烏60萬人斷電、Anthropic IPO投資人日登場估值$2T",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-15-Hot-CPI-Nasdaq-Falls-Pope-Surgery.md"
+    },
+    {
       "date": "2026-10-14",
       "title": "Gemini 4 Argon全面開放$2/$10自報DeepSWE 77.9%獨立測落後、Meta Muse Wonder首款前沿模型$4/$20登場、IPO投資人日今日舊金山登場估值$2T、Willison更新llm-meta-ai支援Wonder、Workday代理平台GA無頭模式開放、Codex CLI預設daemon引信任爭議",
       "category": "daily-newspaper-ai",
