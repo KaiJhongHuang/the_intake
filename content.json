@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-16",
+      "title": "台股崩跌1656點收46970外資賣超3026億破紀錄、台積電Q3法說EPS 29.43元創新高全年上修44%、美股反彈道瓊漲556、教宗良十四世術後良好、俄續攻烏能源基輔停電、美銀千人修Mythos漏洞",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-16-Taiex-Plunges-1656-TSMC-Q3-Record.md"
+    },
+    {
       "date": "2026-10-15",
       "title": "v2.1.299釋出190項變更修補閘道金鑰外洩、Scion版控取代Git日合併三萬次、IPO投資人日Q3營收$16.8B季增45%調整獲利、威脅報告揭葉門武裝用Claude開發飛彈GNC、Codex CLI daemon爭議持續、morluto/rea登Trending第一",
       "category": "daily-newspaper-ai",
