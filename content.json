@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-17",
+      "title": "中經院GDP上修12.16%創38年新高CPI破2%、台股漲141外資連8日賣超週跌4.4%、Nasdaq跌2.14%AI泡沫疑慮加劇、教宗致電普丁籲奧列什基停火、布蘭特維持$105",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-17-GDP-38yr-High-Nasdaq-AI-Rout.md"
+    },
+    {
       "date": "2026-10-16",
       "title": "Code Review正式GA審查降至6分鐘$50K credits、v2.1.300釋出88項變更virtualText上線、Bloomberg Enterprise MCP涵蓋1億證券、Scytale MCP合規唯讀存取、NinjaOne Katana AI受治理代理、新加坡辦公室開幕第五APAC、IPO續報Q3毛利率85%",
       "category": "daily-newspaper-ai",
