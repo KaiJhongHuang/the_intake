@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-17",
+      "title": "Claude半小時破解ECDSA曲線種子26年之謎賞金捐ISRG、v2.1.301釋出Vim括號跳轉Mod多行輸入、企業用量上限潮Uber月$1500 JPMorgan $2000、Agent SDK改內含額度、Aoki竊密程式鎖定AI編碼助手、ServiceNow代理驗證上線",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-17-ECDSA-Seeds-Solved-V301-Enterprise-Caps.md"
+    },
+    {
+      "date": "2026-10-17",
       "title": "中經院GDP上修12.16%創38年新高CPI破2%、台股漲141外資連8日賣超週跌4.4%、Nasdaq跌2.14%AI泡沫疑慮加劇、教宗致電普丁籲奧列什基停火、布蘭特維持$105",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-17-GDP-38yr-High-Nasdaq-AI-Rout.md"
