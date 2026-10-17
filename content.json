@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-18",
+      "title": "v2.1.302釋出fork子代理預設開啟閒置壓縮可控、METR六研究員獲Anthropic員工級存取權獨立發布、IPO估值傳從$2T下修至$1.5T、Claude Design獨立版12/14關閉遷Artifacts、Nemotron三模型開源本地代理、Gartner預測40%代理專案將取消",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-18-V302-Fork-Default-METR-Access-IPO-15T.md"
+    },
+    {
+      "date": "2026-10-18",
       "title": "薔琵颱風增強逼近台灣路徑分歧、國民黨核能公投彰化萬人造勢、俄襲烏九州8死百萬人斷電波蘭戰機升空、布蘭特飆$110五月新高IEA釋2000萬桶儲備、台積電熊本3nm獲批$41億補助、中國持美債降至18年低點$5907億",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-18-Champi-Nears-Brent-110-Nuclear-Rally.md"
