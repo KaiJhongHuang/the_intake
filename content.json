@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-19",
+      "title": "薔琵19日達巔峰估強颱撲台、離岸風電聯貸九公股全踩雷逾200億、烏克蘭千架無人機攻俄聖彼得堡油庫1死2萬人斷電、S&P週跌1.9%費半連八黑創2008來最長、台積電鎖定2027漲價3-6%、IMF警告AI泡沫恐衝擊全球經濟",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-19-Champi-Peaks-Drones-Chip-Rout.md"
+    },
+    {
       "date": "2026-10-18",
       "title": "v2.1.302釋出fork子代理預設開啟閒置壓縮可控、METR六研究員獲Anthropic員工級存取權獨立發布、IPO估值傳從$2T下修至$1.5T、Claude Design獨立版12/14關閉遷Artifacts、Nemotron三模型開源本地代理、Gartner預測40%代理專案將取消",
       "category": "daily-newspaper-ai",
