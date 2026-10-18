@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-19",
+      "title": "Replit預設切換OpenAI棄Claude引爭議改口、OpenCode Console遭入侵1.4%用戶API金鑰外洩、Beam 501B權重Apache開放NVIDIA傳洽收購、Claude Code團隊公開AI先行審查revert率降40%、Anthropic整合Democracy Works選舉資料備戰中期",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-19-Replit-Switches-OpenAI-OpenCode-Breach-Beam-Ships.md"
+    },
+    {
+      "date": "2026-10-19",
       "title": "薔琵19日達巔峰估強颱撲台、離岸風電聯貸九公股全踩雷逾200億、烏克蘭千架無人機攻俄聖彼得堡油庫1死2萬人斷電、S&P週跌1.9%費半連八黑創2008來最長、台積電鎖定2027漲價3-6%、IMF警告AI泡沫恐衝擊全球經濟",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-19-Champi-Peaks-Drones-Chip-Rout.md"
