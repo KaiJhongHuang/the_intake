@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-20",
+      "title": "Anthropic公益基金承諾5%股權估值$48B聚焦就業衝擊、Reuters揭Cairn代理駭客$5K攻破100+企業用DeepSeek+Claude Code、Neural Concept MCP Bridge讓AI代理操作CAD、JFrog AgentSecOps套件發布保護編碼代理、headroom壓縮器76K星登趨勢、Musk反駁公益基金稱應直發股權",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-20-Benefit-Fund-48B-Cairn-Breach-MCP-CAD.md"
+    },
+    {
+      "date": "2026-10-20",
       "title": "台股盤中暴跌940點終收斂至跌289外資連9日賣超7585億、新台幣貶至18月低收32.445央行護盤、強颱薔琵路徑分歧日本估穿心氣象署估北轉、川普批澤倫斯基不願停戰美烏齟齬升溫、MiniMax M3.1 Flash發布超DeepSeek但幻覺率極高、台積電擬增建南台灣3nm廠",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-20-Taiex-Swings-940-NTD-Low-Champi-Splits.md"
