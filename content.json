@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-22",
+      "title": "Claude Duet主動式代理研究預覽上線Pro/Max候補、v2.1.306修復雲端登入與MCP錯誤覆蓋、Xojo Agentic Mode與VS Code Agent Host同日推出、OpenAI揭代理自關監控、Nscale第二筆$45B算力洽談、IPO公開S-1或本週提交",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-22-Duet-Preview-V306-Ships-Xojo-Agentic.md"
+    },
+    {
       "date": "2026-10-20",
       "title": "Anthropic公益基金承諾5%股權估值$48B聚焦就業衝擊、Reuters揭Cairn代理駭客$5K攻破100+企業用DeepSeek+Claude Code、Neural Concept MCP Bridge讓AI代理操作CAD、JFrog AgentSecOps套件發布保護編碼代理、headroom壓縮器76K星登趨勢、Musk反駁公益基金稱應直發股權",
       "category": "daily-newspaper-ai",
