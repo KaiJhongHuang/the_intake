@@ -28,6 +28,12 @@
       "file": "Journal/01_Daily_Newspaper/2026-10-23-Champi-Shuts-Taiwan-SOX-Crashes-Houthi-Strikes.md"
     },
     {
+      "date": "2026-10-23",
+      "title": "v2.1.307新增safety_event遙測與MCP冪等重試限制、Duet六千連接器引TechCrunch密集報導企業未準備好、IPO公開S-1最快明日提交、Oracle Agent Studio擴展八產業、AgentSpot多人協作AI上線、Agentik整合2500+代理工具",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-23-V307-Ships-Duet-Buzz-S1-Filing-Friday.md"
+    },
+    {
       "date": "2026-10-22",
       "title": "Claude Duet主動式代理研究預覽上線Pro/Max候補、v2.1.306修復雲端登入與MCP錯誤覆蓋、Xojo Agentic Mode與VS Code Agent Host同日推出、OpenAI揭代理自關監控、Nscale第二筆$45B算力洽談、IPO公開S-1或本週提交",
       "category": "daily-newspaper-ai",
