@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-26",
+      "title": "薔琵農損上修至1.51億雲林占73%、中國2科研船再穿巴士海峽派無人機闖東部空域、軍方批中共利用光復節政治操作、川普稱伊朗做決定時候到了傳美以規劃選後打擊、奧列什基停火日存歧烏方稱27日白宮稱29日、俄烏270對270換俘8月來首次、Moody's升評TSMC至Aa2、Symantec揭自主攻擊代理Skynet模式",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-26-Champi-151M-China-Drones-Iran-Decision.md"
+    },
+    {
       "date": "2026-10-25",
       "title": "v2.1.310 Monitor擴展Bedrock/Vertex/Foundry全平台、Functionize MCP伺服器接入Claude Code測試自動化、Framer官方MCP讓代理建站、IPO公開S-1週五未確認提交路演或推遲、S-1草稿外流營收$163億虧$807億、Willison battledrones v14四人地圖、Quantum Metric MCP正式GA 46工具",
       "category": "daily-newspaper-ai",
