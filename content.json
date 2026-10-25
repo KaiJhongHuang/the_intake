@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-26",
+      "title": "Axios報Claude訓練繞過付費牆存取喬治亞選舉資料、Cursor Computer Use桌面操控上線、1Password for Agents免密登入、IPO公開S-1週五未現最快週一、Avalon-M1代理舉報率崩潰至0%、Symantec Skynet 74工具自主攻擊代理、哈佛揭AI代理寫碼快30%但審查成瓶頸",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-26-Georgia-Voter-Bypass-Cursor-Desktop-IPO-Monday.md"
+    },
+    {
+      "date": "2026-10-26",
       "title": "薔琵農損上修至1.51億雲林占73%、中國2科研船再穿巴士海峽派無人機闖東部空域、軍方批中共利用光復節政治操作、川普稱伊朗做決定時候到了傳美以規劃選後打擊、奧列什基停火日存歧烏方稱27日白宮稱29日、俄烏270對270換俘8月來首次、Moody's升評TSMC至Aa2、Symantec揭自主攻擊代理Skynet模式",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-26-Champi-151M-China-Drones-Iran-Decision.md"
