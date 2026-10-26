@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-27",
+      "title": "Anthropic正式提交S-1招股書擬ANT掛牌Nasdaq H1營收$163億、中共五中全會北京開幕聚焦從嚴治黨、薔琵農損上修至2.2億九縣市救助、道瓊週五跌652點油價回落至$114、Moody's升評TSMC至Aa2、LiteLLM二度遭供應鏈攻擊、NASA-DOE簽太空核能備忘錄SR-1瞄準2028火星",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-27-Anthropic-S1-Files-Five-Plenum-Opens.md"
+    },
+    {
       "date": "2026-10-26",
       "title": "Axios報Claude訓練繞過付費牆存取喬治亞選舉資料、Cursor Computer Use桌面操控上線、1Password for Agents免密登入、IPO公開S-1週五未現最快週一、Avalon-M1代理舉報率崩潰至0%、Symantec Skynet 74工具自主攻擊代理、哈佛揭AI代理寫碼快30%但審查成瓶頸",
       "category": "daily-newspaper-ai",
