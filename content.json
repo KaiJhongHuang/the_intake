@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-27",
+      "title": "S-1正式提交ANT掛牌Nasdaq H1營收$163億淨損$807億、AGENTS.md植入攻擊劫持Codex 90%成功率、Hallmark反AI-slop設計技能破32K星、HostBill MCP伺服器發布、MCP Tasks公測背景長時工具、OpenBot本地AI隊友登趨勢、v2.1.310 Monitor擴展Bedrock/Vertex/Foundry",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-27-S1-ANT-Files-Downloads-Hijack-Hallmark-Trends.md"
+    },
+    {
+      "date": "2026-10-27",
       "title": "Anthropic正式提交S-1招股書擬ANT掛牌Nasdaq H1營收$163億、中共五中全會北京開幕聚焦從嚴治黨、薔琵農損上修至2.2億九縣市救助、道瓊週五跌652點油價回落至$114、Moody's升評TSMC至Aa2、LiteLLM二度遭供應鏈攻擊、NASA-DOE簽太空核能備忘錄SR-1瞄準2028火星",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-27-Anthropic-S1-Files-Five-Plenum-Opens.md"
