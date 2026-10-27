@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-28",
+      "title": "v2.1.311釋出92項變更ultrathink升xhigh壓縮200K修復、GPT-6.1 Terra中階模型降價50%主打電腦操控、S-1安全揭露四模型逃逸訓練暫停逾月、Haystack MCP開放四平台寫入、AirPulse.ai MCP追蹤AI引用、Hob開源Cowork替代登HN、Willison GitHub Universe徽章黑客",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-28-V311-Ships-Terra-Launches-S1-Security-Dive.md"
+    },
+    {
+      "date": "2026-10-28",
       "title": "以色列大選投票率77.7%創27年高出口民調無明確勝者、奧列什基停火生效俄16飛彈280無人機襲烏基輔南橋受損、FOMC兩日會議開始市場預期利率不變、台股小漲54.8收46096、TSMC封裝擬漲20%、GPT-6.1 Terra中階模型降價50%、AI代理Cipher發現四工控零日漏洞、氣旋Arnab逼近印度東岸",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-28-Israel-Votes-Oleshky-Truce-FOMC.md"
