@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-28",
+      "title": "以色列大選投票率77.7%創27年高出口民調無明確勝者、奧列什基停火生效俄16飛彈280無人機襲烏基輔南橋受損、FOMC兩日會議開始市場預期利率不變、台股小漲54.8收46096、TSMC封裝擬漲20%、GPT-6.1 Terra中階模型降價50%、AI代理Cipher發現四工控零日漏洞、氣旋Arnab逼近印度東岸",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-28-Israel-Votes-Oleshky-Truce-FOMC.md"
+    },
+    {
       "date": "2026-10-27",
       "title": "S-1正式提交ANT掛牌Nasdaq H1營收$163億淨損$807億、AGENTS.md植入攻擊劫持Codex 90%成功率、Hallmark反AI-slop設計技能破32K星、HostBill MCP伺服器發布、MCP Tasks公測背景長時工具、OpenBot本地AI隊友登趨勢、v2.1.310 Monitor擴展Bedrock/Vertex/Foundry",
       "category": "daily-newspaper-ai",
