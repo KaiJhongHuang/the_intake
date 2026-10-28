@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-29",
+      "title": "Enterprise Smart Reports與共用預算GA、Claude for Legal Artifacts庫上線、AI for Science擴大至NSF等20機構、S-1保險風險引熱議、GPT-6.1 Terra破壞標記13.75%續受關注、AirPulse與Causely MCP升級、hallmark反AI-slop設計技能霸榜GitHub",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-29-Enterprise-Reports-GA-Legal-Artifacts-Science-Credits.md"
+    },
+    {
+      "date": "2026-10-29",
       "title": "台股大漲939點收47035外資買超159億、巴基斯坦一中禁飛急轉彎華航長榮准飛至明年3月、西班牙Toledo高鐵追撞68死年內第二起、以色列計票Netanyahu微幅領先雙方未過半、FOMC維持利率不變布蘭特$115、Google Gemini 4 Carbon登AI指數奪冠、Apple M6 MacBook Pro iMac亮相、氣旋Arnab登陸安德拉邦3死",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-29-Spain-Crash-Pakistan-Flip-FOMC.md"
