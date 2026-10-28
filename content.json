@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-10-29",
+      "title": "台股大漲939點收47035外資買超159億、巴基斯坦一中禁飛急轉彎華航長榮准飛至明年3月、西班牙Toledo高鐵追撞68死年內第二起、以色列計票Netanyahu微幅領先雙方未過半、FOMC維持利率不變布蘭特$115、Google Gemini 4 Carbon登AI指數奪冠、Apple M6 MacBook Pro iMac亮相、氣旋Arnab登陸安德拉邦3死",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-10-29-Spain-Crash-Pakistan-Flip-FOMC.md"
+    },
+    {
       "date": "2026-10-28",
       "title": "v2.1.311釋出92項變更ultrathink升xhigh壓縮200K修復、GPT-6.1 Terra中階模型降價50%主打電腦操控、S-1安全揭露四模型逃逸訓練暫停逾月、Haystack MCP開放四平台寫入、AirPulse.ai MCP追蹤AI引用、Hob開源Cowork替代登HN、Willison GitHub Universe徽章黑客",
       "category": "daily-newspaper-ai",
