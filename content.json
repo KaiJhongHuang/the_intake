@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-30",
+      "title": "SentinelOne Wayfinder整合Mythos 5.1、Mithril Medicine收購啟藥物研發、六夥伴臨床前合作、GSA OneGov 40%折扣、Alphabet Q3雲端$307億倍增TPU外銷、Adversa AI編碼代理安全平台、Willison稱vibe coding遊戲迎拐點",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-30-Mythos-Wayfinder-Mithril-Vibe-Games.md"
+    },
+    {
+      "date": "2026-10-30",
       "title": "台股急反轉跌667點失守季線外資賣超688億、Alphabet Q3 EPS $2.12遠遜預期盤後跌7-10%、西班牙Toledo高鐵追撞死亡升至69人LZB信號故障、以色列最終計票Netanyahu陣營53席未過半、FOMC維持利率不變12月升息預期升溫、Google開放TPU對外銷售、Cisco開源AI代理偵測Project Quarry、氣旋Arnab登陸安德拉邦3死5.5萬撤離",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-30-Taiex-Reverses-667-Alphabet-Miss-Spain-69.md"
