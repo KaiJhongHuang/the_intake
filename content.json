@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-10-31",
+      "title": "Claude遊戲重製限制上線、Octoverse代理PR佔四成合併PR三倍至2.2億/月、NESformer將CPU模擬器烘焙進模型權重、Mistral Large 4權重月底待釋出、Zendesk AI Agents 600萬次執行、OpenAI AgentKit取代Agent Builder、Gemini 4 Carbon登AI指數冠軍",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-10-31-Game-Nerf-Octoverse-220M-NESformer.md"
+    },
+    {
+      "date": "2026-10-31",
       "title": "台股再崩1156點收45211失守半年線外資單日賣超1124億、Intel暴跌29%創50年最大跌幅Q4指引遠低預期PC市場萎縮、Amazon Q3 EPS $1.89低預期盤後跌6%、Nasdaq跌2.84%十月最差月、以色列組閣膠著Likud指控選舉被竊、俄飛彈襲Dnipro火車站22死、半導體板塊蒸發$1兆市值",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-10-31-Taiex-Crashes-1156-Intel-Worst-Day.md"
