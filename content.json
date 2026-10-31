@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-01",
+      "title": "台北市長辯論蔣萬安沈伯洋首度交鋒、中國海警虎獅艦台灣東部常態化巡查海巡批假執法、金門海警遭驅離、幣安$63億史上最大加密貨幣竊盜疑北韓、教宗良十四世創史投美期中選舉、FCC禁中國實驗室測試電子產品2028生效、布蘭特$113",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-01-Taipei-Debate-Binance-Heist.md"
+    },
+    {
       "date": "2026-10-31",
       "title": "Claude遊戲重製限制上線、Octoverse代理PR佔四成合併PR三倍至2.2億/月、NESformer將CPU模擬器烘焙進模型權重、Mistral Large 4權重月底待釋出、Zendesk AI Agents 600萬次執行、OpenAI AgentKit取代Agent Builder、Gemini 4 Carbon登AI指數冠軍",
       "category": "daily-newspaper-ai",
