@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-01",
+      "title": "v2.1.314寫入目錄限制與閒置壓縮上線、Cursor Marketplace Claude Code擴充遭植入SSH後門5000用戶受影響、Mistral Large 4權重正式釋出1.05T參數、遊戲重製限制誤封合法開發者、DoorDash Q3代理訂單僅數百筆、美大型銀行封鎖未授權AI代理、HN後門事件655分SRE去技能化624分",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-01-V314-Write-Guard-Cursor-Backdoor-Mistral-Ships.md"
+    },
+    {
+      "date": "2026-11-01",
       "title": "台北市長辯論蔣萬安沈伯洋首度交鋒、中國海警虎獅艦台灣東部常態化巡查海巡批假執法、金門海警遭驅離、幣安$63億史上最大加密貨幣竊盜疑北韓、教宗良十四世創史投美期中選舉、FCC禁中國實驗室測試電子產品2028生效、布蘭特$113",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-01-Taipei-Debate-Binance-Heist.md"
