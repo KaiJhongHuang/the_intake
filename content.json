@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-03",
+      "title": "人口普查局AI改稱SI數據恐斷裂、Message Threads API beta降延遲35%、NBER論文寫碼增240%交付僅增30%、Island代理企業瀏覽器發布、遊戲禁令誤擋除錯開發者反彈、McKinsey 30%企業代理後生產力反降",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-03-Census-SI-Threads-Beta-Productivity-Paradox.md"
+    },
+    {
+      "date": "2026-11-03",
       "title": "油價暴跌7%川普傾向伊朗外交、俄轟烏援助中心26死奧列什基停火結束、美期中選舉明投票民主黨全面領先、台股再跌292收44920、台積電擬建德州$450億新廠、MIT用GPT-6 Astra編輯開源模型權重",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-03-Oil-Plunges-Iran-Talks-Midterms-Eve.md"
