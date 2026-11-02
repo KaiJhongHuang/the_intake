@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-03",
+      "title": "油價暴跌7%川普傾向伊朗外交、俄轟烏援助中心26死奧列什基停火結束、美期中選舉明投票民主黨全面領先、台股再跌292收44920、台積電擬建德州$450億新廠、MIT用GPT-6 Astra編輯開源模型權重",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-03-Oil-Plunges-Iran-Talks-Midterms-Eve.md"
+    },
+    {
       "date": "2026-11-02",
       "title": "v2.1.316 effort封頂Opus4.8棄用倒數、CNN殘忍禁令11/12生效帳號可永封、後門HN飆967分547則、NetSuite AI Workspaces代理排程、Simantic韌體模擬器YC F26、遊戲限制Tom's Hardware PCGamer接力",
       "category": "daily-newspaper-ai",
