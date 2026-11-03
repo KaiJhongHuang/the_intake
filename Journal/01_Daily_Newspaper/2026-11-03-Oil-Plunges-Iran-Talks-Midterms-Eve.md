@@ -1,63 +1,69 @@
 # 每日新聞 — 2026-11-03
 > 涵蓋範圍：2026-11-02 06:00 ~ 2026-11-03 06:00 (TST)
 
-> 📌 Claude 摘要：川普傾向伊朗外交途徑觸發油價單日暴跌7%為三個月最大跌幅，布蘭特跌至$104.77；俄軍轟炸烏南援助中心至少26死，奧列什基停火到期後俄即恢復攻擊赫爾松。美期中選舉明日投票，紐時最終民調民主黨七搖擺州參院全領先。台股續跌292點收44920盤中急殺812點。台積電考慮德州Sherman建$450億新廠。
+> 📌 Claude 摘要（今天最該知道的 3 件事）：
+> 1. **美伊釋出外交訊號、油價重挫**：戰爭風險溢價消退可望減輕通膨壓力，但以方主張選後動武，訊號仍可能反轉。
+> 2. **美期中選舉明日投票**：國會控制權將左右川普未來兩年的施政空間，伊朗與貿易政策都可能受影響。
+> 3. **海警船闖金門、陸委會示警**：五中全會後灰色地帶施壓恐更頻繁，金門海域摩擦可能常態化。
 
 ## 🇹🇼 台灣要聞
-[1] **天龍操演正式登場**：空軍11/2起連五天跨軍種驗證空對空空對面實彈戰技。([自由時報](https://def.ltn.com.tw/article/breakingnews/5626301))
 
-[2] **台股續跌292點收44920**：盤中急殺812點後收斂台積電跌1.68%收2330元法人賣超527億。([經濟日報](https://money.udn.com/money/story/12509/9851872))
+[1] **海警船闖金門**：中國4艘海警船2日下午分兩組進入金門限制水域，海巡派4艇一對一併航驅離，約兩小時後全數駛離。([中央社](https://www.cna.com.tw/news/acn/202611020242.aspx))
 
-[3] **九合一倒數26天**：蔣萬安大安森林公園拜票爭取晨運民眾支持選戰最後衝刺。([中央社](https://www.cna.com.tw/news/aipl/202611020093.aspx))
+[2] **陸委會示警灰色地帶**：副主委沈有忠預期五中全會後，中共將更常動用海警、科研與民兵船，對台加大灰色地帶施壓。([中央社](https://www.cna.com.tw/news/acn/202611020253.aspx))
 
-[4] **蘇巧慧週末兩場大型晚會**：蕭副總統卓揆接力站台力挺新北選情。([中央社](https://www.cna.com.tw/news/aipl/202611020240.aspx))
+[3] **天龍操演登場**：空軍年度操演11/2至11/6舉行，以空對空、空對面實彈競賽為主，並結合陸海軍與網電單位驗證聯合作戰。([自由時報](https://def.ltn.com.tw/article/breakingnews/5626301))
 
-[5] **國民黨新竹基層鬆動**：接獲多起違紀檢舉查證屬實將祭黨紀處分。([自由時報](https://news.ltn.com.tw/news/politics/breakingnews/5626300))
+[4] **蔣萬安晨間拜票**：尋求連任的台北市長蔣萬安到大安森林公園向晨運民眾拜票，隨後視察北市聯醫婦幼院區。([中央社](https://www.cna.com.tw/news/aipl/202611020093.aspx))
+
+[5] **蘇巧慧週末兩場晚會**：11/7板橋、11/8蘆洲舉辦「慧聚繁星」造勢晚會，分別邀卓榮泰、蕭美琴站台。([中央社](https://www.cna.com.tw/news/aipl/202611020240.aspx))
 
 ## 📰 中美要聞
-[6] **川普稱對伊朗「不急」**：傾向讓外交談判延續盧比歐稱尚未決定是否再動武。([Fox News](https://www.foxnews.com/live-news/iran-war-news-trump-midterms-peace-deal-israel-november-2))
 
-[7] **紐時最終民調民主黨全面領先**：七搖擺州參院均領先德州Talarico 50%對Paxton 43%。([Forbes](https://www.forbes.com/sites/saradorn/2026/11/02/final-2026-midterm-polls-democrats-lead-key-senate-races-in-last-new-york-times-poll/))
+[6] **川普傾向續談伊朗**：Axios報導川普與尼坦雅胡通話，稱談判進展順利、不急動武；以方則促期中選舉後立即攻擊。([中央社](https://www.cna.com.tw/news/aopl/202611020019.aspx))
 
-[8] **逾4300萬人已提前投票**：創中期選舉紀錄兩黨進入最後衝刺全力動員。([Al Jazeera](https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges))
+[7] **紐時最終民調民主黨領先**：德州Talarico 50%對Paxton 43%，密西根El-Sayed 53%對42%，堪薩斯領先5點。([Forbes](https://www.forbes.com/sites/saradorn/2026/11/02/final-2026-midterm-polls-democrats-lead-key-senate-races-in-last-new-york-times-poll/))
 
-[9] **伊朗領導層批准啟動談判**：Axios報導德黑蘭授權政府追求外交途徑油價應聲暴跌。([Bloomberg](https://www.bloomberg.com/news/newsletters/2026-11-02/oil-slides-after-report-says-trump-favors-iran-diplomacy))
+[8] **五中全會從嚴治黨全文**：中共公布決定，要求「一把手」不搞一言堂，下級紀委每半年須向上級報告一把手用權情況。([中央社](https://www.cna.com.tw/news/acn/202611020129.aspx))
 
 ## 🌏 世界要聞
-[10] **俄轟烏南援助中心至少26死**：擊中援助發放站與避難所澤倫斯基譴責為戰爭罪。([Al Jazeera](https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy))
 
-[11] **奧列什基停火到期俄即恢復攻擊**：赫爾松地區再遭砲擊俄拒絕烏方延長停火請求。([Euronews](https://www.euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says))
+[9] **俄轟烏援助站24死**：札波羅熱州一所作為援助點的學校遭空襲，另有27人失蹤；澤倫斯基指俄軍在首波轟炸後再度投彈。([Al Jazeera](https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy))
 
-[12] **俄烏警報App同日遭駭**：烏現偽核輻射警告俄33區收到假緊急訊息雙方互指。([ABC/AP](https://www.abc27.com/international/ap-ukraine-and-russia-both-report-cyberattacks-on-emergency-apps/amp/))
+[10] **赫爾松停火結束**：梅蘭妮亞斡旋的局部停火週日到期，俄方拒絕延長；週一無人機襲擊赫爾松一輛車，2人受傷。([Euronews](https://www.euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says))
 
-[13] **澤倫斯基警告大規模攻擊**：稱俄可能趁美期中選舉發動攻擊基輔響起防空警報。([The Hill](https://thehill.com/policy/international/6190154-zelensky-warns-russian-midterm-attack/))
+[11] **俄烏警報App同遭駭**：烏克蘭出現假輻射、核威脅警報，俄國89區中33區收到假緊急訊息，兩國政府均未指名肇事者。([AP](https://www.abc27.com/international/ap-ukraine-and-russia-both-report-cyberattacks-on-emergency-apps/amp/))
 
-[14] **保加利亞總統第二輪揭曉**：11/1投票Iotova勝出對手Gyurov承認落敗。([Ground News](https://ground.news/article/bulgarians-vote-to-elect-new-president))
+[12] **幣安恢復上線**：遭北韓駭客竊走約63億美元後重新開放，客戶提領36.4億美元，幣安稱已補足95%遭竊資產。([中央社](https://www.cna.com.tw/news/aopl/202611020021.aspx))
 
 ## 💹 財經 & 市場
-[15] **布蘭特暴跌7.6%收$104.77**：WTI跌7.4%至$96.46伊朗外交信號觸發三月最大拋售。([CNBC](https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html))
 
-[16] **美股分歧道瓊漲214收51984**：S&P跌0.51%收7541 Nasdaq跌1.07%晶片股拖累科技板塊。([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates))
+[13] **油價單日重挫逾7%**：美伊釋出外交訊號、戰爭溢價消退，布蘭特跌至每桶約104美元，WTI約96美元，創四週低點。([Bloomberg](https://www.bloomberg.com/news/newsletters/2026-11-02/oil-slides-after-report-says-trump-favors-iran-diplomacy))
 
-[17] **台股三大法人賣超527億**：外資續出11月開門不利盤中一度急殺逾800點後收斂。([中央社](https://www.cna.com.tw/news/afe/202611020116.aspx))
+[14] **美股漲跌互見**：道瓊漲214點收51,984，標普500跌0.5%收7,541，那斯達克跌1.1%收25,164，科技股承壓。([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates))
+
+[15] **台股失守4萬5**：加權指數跌292點收44,920，盤中一度重挫逾800點；台積電跌1.68%收2,330元，半導體類股走弱。([經濟日報](https://money.udn.com/money/story/12509/9851872))
+
+[16] **中國出手救股市**：人行11/3啟動證券基金保險互換便利，31家機構申請逾人民幣1000億元；上證2日收漲1.08%。([中央社](https://www.cna.com.tw/news/acn/202611020267.aspx))
 
 ## 💻 科技業 & 半導體
-[18] **台積電擬建德州Sherman新廠**：TrendForce報導投資估$450億與三星正面競爭。([TrendForce](https://www.trendforce.com/news/2026/11/02/news-tsmc-reportedly-eyes-potential-us45b-fab-expansion-in-sherman-texas-raising-stakes-for-samsung/))
 
-[19] **Musk重新考慮台積電Terafab角色**：原計畫合作存變數台積電ADR微升0.03%收$406。([Benzinga](https://www.benzinga.com/markets/tech/26/11/62790600/whats-going-on-with-taiwan-semiconductor-stock-on-monday-4))
+[17] **台積電傳擬落腳德州Sherman**：德州文件顯示有晶片商擬投資450億美元建兩座廠，台積電被視為熱門人選，與三星搶人才資源。([TrendForce](https://www.trendforce.com/news/2026/11/02/news-tsmc-reportedly-eyes-potential-us45b-fab-expansion-in-sherman-texas-raising-stakes-for-samsung/))
 
-[20] **台積電海外擴張勢不可擋**：台北時報分析地緣政治與客戶需求雙驅動非自願選擇。([Taipei Times](https://taipeitimes.com/News/feat/archives/2026/11/03/2003867046))
+[18] **台積電股價下半年回檔**：上半年大漲約57%，下半年因AI交易疑慮回落約15%，今年至今仍漲約33%，外媒看好長期成長。([自由時報](https://ec.ltn.com.tw/article/breakingnews/5627114))
 
 ## 🤖 AI 產業趨勢
-[21] **MIT用GPT-6 Astra編輯Qwen權重**：僅改0.016%參數MATH-500從7.9%升至48.1%如基因編輯。([VentureBeat](https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance))
 
-[22] **AI恐破壞法律體系**：Stanford法律研究員警告AI可發現隱藏漏洞迫使立法品質提升。([The Register](https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066))
+[19] **MIT用AI直接改權重**：以GPT-6 Astra編輯Qwen3.5-0.8B，只動0.016%參數，MATH-500從7.9%升至48.1%。([VentureBeat](https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance))
 
-[23] **代理式AI進入日常任務**：MIT Tech Review報導AI代理涉收件匣分類購物等生活場景。([MIT Technology Review](https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/amp/))
+[20] **AI恐找出法律漏洞**：史丹佛法學院訪問學者Felix Ringe警告，LLM能大規模挖掘法條矛盾，立法者或需用AI強化法案。([The Register](https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066))
+
+[21] **代理式網路來臨**：MIT Tech Review指AI代理已能分類郵件、採購雜貨、操作銀行帳戶，質疑人類使用的網路能否延續。([MIT Technology Review](https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/amp/))
 
 ## 🔬 科學 & 能源
-[24] **油價暴跌重塑能源格局**：伊朗外交轉向單日跌7%分析師稱市場風險溢價快速消退。([OilPrice](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-7-as-US-and-Iran-Signal-Room-for-Diplomacy.html))
 
-[25] **Goldman Sachs上調油價預測**：12月布蘭特目標$105 WTI $94反映中東地緣風險。([CNBC](https://www.cnbc.com/2026/11/02/crude-prices-crater-investors-brace-for-big-week.html))
+[22] **冰凍圈警告超標1.5°C**：聯合國兩份報告指，升溫超標將對冰川、冰層造成難逆損害，冰的安全線約1°C以下，現已升1.37°C。([AFP](https://www.yahoo.com/news/science/articles/un-reports-warn-large-scale-161328455.html))
 
-[26] **歐洲油氣碳價11月初走低**：OPEC決策與高供給壓制價格天然氣同步承壓。([Serbia Energy](https://serbia-energy.eu/europe-oil-gas-and-co2-prices-decline-in-early-november-amid-opec-decisions-and-high-supply/))
+[23] **核反應爐興建創新高**：AI用電需求帶動下，全球興建中的核反應爐數量創車諾比核災以來新高。([中央社](https://netzero.cna.com.tw/news/202611020228/))
+
+[24] **NASA模擬火星任務結束**：CHAPEA計畫4名組員在模擬艙隔離378天後首度走出，為未來火星探索任務做準備。([中央社](https://www.cna.com.tw/news/ait/202611020047.aspx))
