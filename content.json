@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-04",
+      "title": "台股暴跌1612點創第7大跌點、美襲伊朗格什姆島、期中選舉投票、俄最大能源攻擊",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-04-Taiex-Crashes-1612-Midterms-Qeshm-Strikes.md"
+    },
+    {
       "date": "2026-11-03",
       "title": "代理花費上限、AI審查要驗證、Threads API",
       "category": "daily-newspaper-ai",
