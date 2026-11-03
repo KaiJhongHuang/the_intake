@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-04",
+      "title": "v2.1.317排程警告磁碟修復、分析師盲從Claude隨機意見86%、IPO路演最快11/9啟動Q3營收$16.8B、Loova AI MCP創意工作流、晶片設計團隊15人曝光",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-04-V317-Ships-Analyst-Sway-86-IPO-Roadshow.md"
+    },
+    {
+      "date": "2026-11-04",
       "title": "台股暴跌1612點創第7大跌點、美襲伊朗格什姆島、期中選舉投票、俄最大能源攻擊",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-04-Taiex-Crashes-1612-Midterms-Qeshm-Strikes.md"
