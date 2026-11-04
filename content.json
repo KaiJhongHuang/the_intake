@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-05",
+      "title": "民主黨橫掃期中選舉奪回國會、道瓊暴漲1570點創44年紀錄、布蘭特暴跌8.5%跌破$95、台股V型震盪1885點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-05-Dems-Sweep-Congress-Dow-Surges-Oil-Crashes.md"
+    },
+    {
       "date": "2026-11-04",
       "title": "v2.1.317排程警告磁碟修復、分析師盲從Claude隨機意見86%、IPO路演最快11/9啟動Q3營收$16.8B、Loova AI MCP創意工作流、晶片設計團隊15人曝光",
       "category": "daily-newspaper-ai",
