@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-05",
+      "title": "FlashProve可驗證推論開源zkSNARK 110tok/s、v2.1.318登入到期修復、B2TRADER首整合MCP交易代理、Copilot Connectors 26服務預覽、期中選舉日國會無AI立法、IPO路演最快11/10",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-05-FlashProve-Ships-V318-B2Trader-MCP.md"
+    },
+    {
+      "date": "2026-11-05",
       "title": "民主黨橫掃期中選舉奪回國會、道瓊暴漲1570點創44年紀錄、布蘭特暴跌8.5%跌破$95、台股V型震盪1885點",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-05-Dems-Sweep-Congress-Dow-Surges-Oil-Crashes.md"
