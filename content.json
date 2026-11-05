@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-06",
+      "title": "Personal Finance串接銀行帳戶上線、高盛限縮Claude Code僅供工程師、選舉護欄600題測試100%達標、v2.1.318登入到期可見、NVIDIA Auto Ontology開源語義層、IPO估值傳下修至$1.5T",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-06-Personal-Finance-Ships-Goldman-Pulls-Election-Guard.md"
+    },
+    {
+      "date": "2026-11-06",
       "title": "台股崩1374點失守42K外資連6日賣超6144億、Nasdaq跌5.52%進入修正AI拋售蒸發$2.9兆、民主黨橫掃國會擬推資料中心稅、俄襲扎波羅熱人道中心24死、台積電ADR跌近10%高盛估45%資料中心恐暫停",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-06-Midterm-Sweep-Nasdaq-Correction-Taiex-Crashes.md"
