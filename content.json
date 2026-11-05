@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-06",
+      "title": "台股崩1374點失守42K外資連6日賣超6144億、Nasdaq跌5.52%進入修正AI拋售蒸發$2.9兆、民主黨橫掃國會擬推資料中心稅、俄襲扎波羅熱人道中心24死、台積電ADR跌近10%高盛估45%資料中心恐暫停",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-06-Midterm-Sweep-Nasdaq-Correction-Taiex-Crashes.md"
+    },
+    {
       "date": "2026-11-05",
       "title": "FlashProve可驗證推論開源zkSNARK 110tok/s、v2.1.318登入到期修復、B2TRADER首整合MCP交易代理、Copilot Connectors 26服務預覽、期中選舉日國會無AI立法、IPO路演最快11/10",
       "category": "daily-newspaper-ai",
