@@ -22,6 +22,84 @@
   ],
   "articles": [
     {
+      "date": "2026-11-07",
+      "title": "台股再崩1873點跌破4萬收39701國安基金第10次護盤5000億限空令11/9實施、Nasdaq反彈1.09%道瓊微跌週線6月來最差、川普會見普丁特使稱俄烏協議非常接近、TSMC傳考慮跨足3D DRAM應NVIDIA要求、GPT-6 Cyber發布發現Firefox 81零日漏洞、布蘭特反彈至$98.77",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-07-Taiex-Below-40K-NSF-Rescue-Nasdaq-Rebounds.md"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Personal Finance串接銀行帳戶上線、高盛限縮Claude Code僅供工程師、選舉護欄600題測試100%達標、v2.1.318登入到期可見、NVIDIA Auto Ontology開源語義層、IPO估值傳下修至$1.5T",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-06-Personal-Finance-Ships-Goldman-Pulls-Election-Guard.md"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "台股崩1374點失守42K外資連6日賣超6144億、Nasdaq跌5.52%進入修正AI拋售蒸發$2.9兆、民主黨橫掃國會擬推資料中心稅、俄襲扎波羅熱人道中心24死、台積電ADR跌近10%高盛估45%資料中心恐暫停",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-06-Midterm-Sweep-Nasdaq-Correction-Taiex-Crashes.md"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "FlashProve可驗證推論開源zkSNARK 110tok/s、v2.1.318登入到期修復、B2TRADER首整合MCP交易代理、Copilot Connectors 26服務預覽、期中選舉日國會無AI立法、IPO路演最快11/10",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-05-FlashProve-Ships-V318-B2Trader-MCP.md"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "民主黨橫掃期中選舉奪回國會、道瓊暴漲1570點創44年紀錄、布蘭特暴跌8.5%跌破$95、台股V型震盪1885點",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-05-Dems-Sweep-Congress-Dow-Surges-Oil-Crashes.md"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "v2.1.317排程警告磁碟修復、分析師盲從Claude隨機意見86%、IPO路演最快11/9啟動Q3營收$16.8B、Loova AI MCP創意工作流、晶片設計團隊15人曝光",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-04-V317-Ships-Analyst-Sway-86-IPO-Roadshow.md"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "台股暴跌1612點創第7大跌點、美襲伊朗格什姆島、期中選舉投票、俄最大能源攻擊",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-04-Taiex-Crashes-1612-Midterms-Qeshm-Strikes.md"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "代理花費上限、AI審查要驗證、Threads API",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-03-Spend-Caps-Verify-Agent-Claims.md"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "油價重挫逾7%、美期中選舉前夕、海警船闖金門",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-03-Oil-Plunges-Iran-Talks-Midterms-Eve.md"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "v2.1.316 effort封頂Opus4.8棄用倒數、CNN殘忍禁令11/12生效帳號可永封、後門HN飆967分547則、NetSuite AI Workspaces代理排程、Simantic韌體模擬器YC F26、遊戲限制Tom's Hardware PCGamer接力",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-02-V316-Ships-Cruelty-Ban-Detail-NetSuite-Agents.md"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "天龍操演登場跨軍種聯合作戰、謝龍介台南競總成立藍白合體湧2萬人、辯論後民調蔣萬安46%沈伯洋42%辯論表現沈勝、高雄賴瑞隆柯志恩僅差0.1%、32架次共機擾台26架越線、美期中選舉11/3投票NBC民調民主黨領先、美批准$21億愛國者飛彈售烏、俄軍10月損失49040人創紀錄、FBI確認幣安竊案北韓所為",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-02-Tianlong-Drill-Elections-Heat-Up.md"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "v2.1.314寫入目錄限制與閒置壓縮上線、Cursor Marketplace Claude Code擴充遭植入SSH後門5000用戶受影響、Mistral Large 4權重正式釋出1.05T參數、遊戲重製限制誤封合法開發者、DoorDash Q3代理訂單僅數百筆、美大型銀行封鎖未授權AI代理、HN後門事件655分SRE去技能化624分",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-01-V314-Write-Guard-Cursor-Backdoor-Mistral-Ships.md"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "台北市長辯論蔣萬安沈伯洋首度交鋒、中國海警虎獅艦台灣東部常態化巡查海巡批假執法、金門海警遭驅離、幣安$63億史上最大加密貨幣竊盜疑北韓、教宗良十四世創史投美期中選舉、FCC禁中國實驗室測試電子產品2028生效、布蘭特$113",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-01-Taipei-Debate-Binance-Heist.md"
+    },
+    {
       "date": "2026-10-31",
       "title": "Claude遊戲重製限制上線、Octoverse代理PR佔四成合併PR三倍至2.2億/月、NESformer將CPU模擬器烘焙進模型權重、Mistral Large 4權重月底待釋出、Zendesk AI Agents 600萬次執行、OpenAI AgentKit取代Agent Builder、Gemini 4 Carbon登AI指數冠軍",
       "category": "daily-newspaper-ai",
