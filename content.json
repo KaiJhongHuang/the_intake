@@ -28,6 +28,12 @@
       "file": "Journal/01_Daily_Newspaper/2026-11-07-Taiex-Below-40K-NSF-Rescue-Nasdaq-Rebounds.md"
     },
     {
+      "date": "2026-11-07",
+      "title": "v2.1.319背景MCP任務不阻塞與延遲優化指令、Anthropic發表代理記憶四層架構Dreaming離線整理CL-Bench升至0.838、Enterprise成本標記beta、Perplexity Teammates代理桌面上線、IPO估值下修至$1.2–1.3T、HN首頁六成AI內容",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-07-V319-Ships-Agent-Memory-Dreaming-IPO-Slides.md"
+    },
+    {
       "date": "2026-11-06",
       "title": "Personal Finance串接銀行帳戶上線、高盛限縮Claude Code僅供工程師、選舉護欄600題測試100%達標、v2.1.318登入到期可見、NVIDIA Auto Ontology開源語義層、IPO估值傳下修至$1.5T",
       "category": "daily-newspaper-ai",
