@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-08",
+      "title": "Duet新增Code session手機支援、GPT-6 Cyber發現81個Firefox零日Critical等級、Anthropic首度付費授權AP選舉資料、NVIDIA Auto Ontology開源9 MCP工具、IPO估值再跌至$1.1T區間、agterm嵌入libghostty代理終端",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-08-Duet-Code-Sessions-GPT6-Cyber-IPO-Dips.md"
+    },
+    {
+      "date": "2026-11-08",
       "title": "川普再襲格什姆島稱小規模打擊、國安基金5000億護盤+限空令11/9上路台股休市收39701、民主黨橫掃國會川普伊朗無好選項、TSMC傳跨足3D DRAM反彈6.26%、AI代理受壓易洩密BoE稱AI生產力提升有限、全球暖化加速至0.35°C/十年",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-08-Qeshm-Strikes-NSF-Short-Curb-Midterm-Fallout.md"
