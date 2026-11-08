@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-09",
+      "title": "Apiiro揭Don't Ask Again洩密1122 repo曝2539金鑰、ThisBash攻擊濫用Dispatch半年未修、Cat Wu離職赴OpenAI第四核心成員離隊、Vercel agent-browser登GitHub趨勢第一、LiveNerf第45天Opus 5.5無退化、MCP-Universe RL開源框架",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-09-Apiiro-Leak-Dispatch-Flaw-Exodus.md"
+    },
+    {
+      "date": "2026-11-09",
       "title": "F-16V第二批3架抵台志航基地累計5架、Jeffries力挺彈劾Hegseth Massie提八罪狀Trump考慮換人、限空令生效台指期收復4萬、極地渦旋史上最早崩解、Anthropic簽$34億天然氣合約警告RSI門檻在即IPO降至$1.2T、布蘭特$98.32週跌16%",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-09-F16V-Arrives-Hegseth-Impeach-Vortex-Record.md"
