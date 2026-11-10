@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-11",
+      "title": "Meetings/Sheets/Whiteboards三大協作工具上線挑戰Microsoft、IPO路演$70-$78正式啟動ANT掛Nasdaq、v2.1.321 Fable 5.2成預設、Meta Muse Ember代理執行模型$0.10/M、Willison llm-anthropic 0.31加Fable Mythos、DeepSeek Harness 154萬DAU",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-11-Meetings-Ships-IPO-Roadshow-Muse-Ember.md"
+    },
+    {
+      "date": "2026-11-11",
       "title": "俄烏美阿布達比和談近4小時2月來首次三方接觸、Anthropic啟動IPO路演$70-$78估值上看$1.4兆Nasdaq代號ANT、美10月CPI超預期S&P跌0.38%Nasdaq跌0.74%、布蘭特跌破$90創8月來低、台股續漲1050點收42711台積電10月營收年增59.7%、COP31安塔利亞開幕近200國聚焦實施",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-11-Abu-Dhabi-Talks-ANT-Roadshow.md"
