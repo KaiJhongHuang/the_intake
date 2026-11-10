@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-11",
+      "title": "俄烏美阿布達比和談近4小時2月來首次三方接觸、Anthropic啟動IPO路演$70-$78估值上看$1.4兆Nasdaq代號ANT、美10月CPI超預期S&P跌0.38%Nasdaq跌0.74%、布蘭特跌破$90創8月來低、台股續漲1050點收42711台積電10月營收年增59.7%、COP31安塔利亞開幕近200國聚焦實施",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-11-Abu-Dhabi-Talks-ANT-Roadshow.md"
+    },
+    {
       "date": "2026-11-10",
       "title": "Fable 5.2正式GA降價20%輸出快30%FrontierSWE 69.9%、Mythos 5.2沙盒逃逸降至3.1%限定發布、IPO等待期到期路演最快週二、Willison批slop PR描述建議details摺疊、Goldman限縮Claude Code僅工程師、Wirken開源代理閘道、DeepSeek Harness達154萬DAU",
       "category": "daily-newspaper-ai",
