@@ -28,6 +28,12 @@
       "file": "Journal/01_Daily_Newspaper/2026-11-12-Prisoner-Swap-Taiex-Rally-COP31.md"
     },
     {
+      "date": "2026-11-12",
+      "title": "Adobe MAX發表MCP預覽外部代理操控Photoshop Creative Agent beta、v2.1.322 Vertex fast mode上線、VulnCheck Glasswing七月累計442 CVE僅2遭利用、Willison介紹fakecloud代理群建造AWS模擬器29K commit、Elvis版權方控Anthropic索$4100萬、IPO路演$70-$78預計11/18定價ANT掛Nasdaq",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-12-Adobe-MCP-Preview-Glasswing-442.md"
+    },
+    {
       "date": "2026-11-11",
       "title": "Meetings/Sheets/Whiteboards三大協作工具上線挑戰Microsoft、IPO路演$70-$78正式啟動ANT掛Nasdaq、v2.1.321 Fable 5.2成預設、Meta Muse Ember代理執行模型$0.10/M、Willison llm-anthropic 0.31加Fable Mythos、DeepSeek Harness 154萬DAU",
       "category": "daily-newspaper-ai",
