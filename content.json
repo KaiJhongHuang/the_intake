@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-14",
+      "title": "台股反彈583點收43675黃仁勳利空出盡、烏克蘭近1200架無人機攻俄創紀錄俄稱攔截1198架、阿布達比會後俄同意歐洲加入和談、美股週五Nasdaq100跌1.7%AMD暴跌10.5%晶片股拋售、TSMC設$5億創投基金、Anthropic IPO $260億私募NVIDIA Alphabet各$100億、Nature稱須加速清潔能源",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-14-Taiex-Rebounds-Ukraine-Drone-Blitz-AMD-Crashes.md"
+    },
+    {
       "date": "2026-11-13",
       "title": "Claude for Manufacturing 17技能插件上線四大連接器、使用政策反假站條款正式生效、v2.1.323背景session憑證變數、自託管Managed Agents私測開放、Adobe MCP成本疑慮浮現、IPO確認11/18定價11/19掛牌ANT零售配額20%、Manufacturing為S-1第八垂直產業",
       "category": "daily-newspaper-ai",
