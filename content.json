@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-15",
+      "title": "v2.1.325修補zstd解碼安全漏洞防CLAUDE.md覆寫、登入中斷修復部署API全程不受影響、Claude Meetings進入Google Meet beta、M365連接器持續受影響、AppsFlyer MCP擴展四項代理能力、IPO六倍超額認購散戶配額最高20%含Schwab Fidelity Robinhood、Artificial Analysis修正reward hacking",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-15-V325-Ships-IPO-6x-Meet-Enters-Google.md"
+    },
+    {
+      "date": "2026-11-15",
       "title": "澤倫斯基稱美方首度提議割讓頓巴斯換北約會籍烏方拒絕、川習普三方會談11/19深圳APEC確認史上首次、蔣萬安安心大遊行登場沈伯洋政見會、選戰倒數14天藍綠白全面動員、新加坡批美方不配合Megaspeed調查、Anthropic IPO倒數11/18定價、Nature研究數據中心延遲煤電廠退役增排1.96Gt",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-15-Donbas-For-NATO-APEC-Trilateral-Election-Sprint.md"
