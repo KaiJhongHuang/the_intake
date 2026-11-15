@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-16",
+      "title": "庫許納淡化頓巴斯換北約僅探索性想法、伊朗稱荷姆茲三油輪觸水雷美軍否認、UPS貨機Copa客機邁阿密機場碰撞2傷、愛沙尼亞12月關閉俄國邊境指克宮縱火、APEC深圳本週登場議程聚焦核武管控、九合一倒數12天民調18日封關、臭氧層破洞十年最大NASA稱復原軌道未變",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-16-Hormuz-Mines-Miami-Crash-APEC-Week.md"
+    },
+    {
       "date": "2026-11-15",
       "title": "v2.1.325修補zstd解碼安全漏洞防CLAUDE.md覆寫、登入中斷修復部署API全程不受影響、Claude Meetings進入Google Meet beta、M365連接器持續受影響、AppsFlyer MCP擴展四項代理能力、IPO六倍超額認購散戶配額最高20%含Schwab Fidelity Robinhood、Artificial Analysis修正reward hacking",
       "category": "daily-newspaper-ai",
