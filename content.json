@@ -28,6 +28,12 @@
       "file": "Journal/01_Daily_Newspaper/2026-11-17-Taiex-Plunges-2635-Nvidia-Rout-APEC-Looms.md"
     },
     {
+      "date": "2026-11-17",
+      "title": "Google GTIG揭首例全自動AI攻擊exploit_agent框架Level 5無人介入、CSA剖析Fireworks→Cursor供應鏈攻擊路徑、IPO明日定價帳面多倍超額承銷商考慮區間上方、v2.1.326傳Code Mode支援代理團隊、Willison Datasette六套件連續釋出、Google AdMob代理技能開放編碼代理、六大券商散戶認購倒數",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-17-GTIG-Exploit-Agent-CSA-Chain-IPO-Eve.md"
+    },
+    {
       "date": "2026-11-16",
       "title": "Cursor確認Fireworks密鑰為Claude Code擴充後門根因5000用戶受影響、IPO承銷商權衡$78以上定價估值上看$1.5T、Google Modern Web Guidance 1.0穩定版上線、Ludo開源32項CLI遊戲素材工具、Claude Dispatch退役延遲RCE仍可利用、Fireworks二度遭駭波及Notion不足1%工作區、六大券商搶IPO散戶配額Robinhood稱搶食大戰",
       "category": "daily-newspaper-ai",
