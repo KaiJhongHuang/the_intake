@@ -22,6 +22,60 @@
   ],
   "articles": [
     {
+      "date": "2026-11-17",
+      "title": "台股暴跌2635點收41040創史上第二大跌點、三大法人賣超1140億、台積電跌5.74%市值蒸發2.4兆、楊金龍稱短期亂流、馬斯克領銜連署要求黃仁勳復職、APEC深圳峰會明日開幕、美股Nasdaq跌2.5%連三黑、Anthropic IPO 11/18定價認購逾六倍、Google揭AI代理自動生成攻擊代碼",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-17-Taiex-Plunges-2635-Nvidia-Rout-APEC-Looms.md"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Cursor確認Fireworks密鑰為Claude Code擴充後門根因5000用戶受影響、IPO承銷商權衡$78以上定價估值上看$1.5T、Google Modern Web Guidance 1.0穩定版上線、Ludo開源32項CLI遊戲素材工具、Claude Dispatch退役延遲RCE仍可利用、Fireworks二度遭駭波及Notion不足1%工作區、六大券商搶IPO散戶配額Robinhood稱搶食大戰",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-16-Fireworks-Traced-IPO-Pricing-Nears.md"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "庫許納淡化頓巴斯換北約僅探索性想法、伊朗稱荷姆茲三油輪觸水雷美軍否認、UPS貨機Copa客機邁阿密機場碰撞2傷、愛沙尼亞12月關閉俄國邊境指克宮縱火、APEC深圳本週登場議程聚焦核武管控、九合一倒數12天民調18日封關、臭氧層破洞十年最大NASA稱復原軌道未變",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-16-Hormuz-Mines-Miami-Crash-APEC-Week.md"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "v2.1.325修補zstd解碼安全漏洞防CLAUDE.md覆寫、登入中斷修復部署API全程不受影響、Claude Meetings進入Google Meet beta、M365連接器持續受影響、AppsFlyer MCP擴展四項代理能力、IPO六倍超額認購散戶配額最高20%含Schwab Fidelity Robinhood、Artificial Analysis修正reward hacking",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-15-V325-Ships-IPO-6x-Meet-Enters-Google.md"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "澤倫斯基稱美方首度提議割讓頓巴斯換北約會籍烏方拒絕、川習普三方會談11/19深圳APEC確認史上首次、蔣萬安安心大遊行登場沈伯洋政見會、選戰倒數14天藍綠白全面動員、新加坡批美方不配合Megaspeed調查、Anthropic IPO倒數11/18定價、Nature研究數據中心延遲煤電廠退役增排1.96Gt",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-15-Donbas-For-NATO-APEC-Trilateral-Election-Sprint.md"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Claude全服務登入中斷約4.5小時API維持運作、v2.1.323 Code Mode實驗上線JS批量調用工具、Webflow與SalesHood MCP連接器發布、無人值守心跳與降級強化CI穩定、M365中斷連帶影響Outlook連接器、IPO帳面數倍超額認購NVIDIA Alphabet各$100億私募",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-14-Outage-Hits-Code-Mode-Ships.md"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "台股反彈583點收43675黃仁勳利空出盡、烏克蘭近1200架無人機攻俄創紀錄俄稱攔截1198架、阿布達比會後俄同意歐洲加入和談、美股週五Nasdaq100跌1.7%AMD暴跌10.5%晶片股拋售、TSMC設$5億創投基金、Anthropic IPO $260億私募NVIDIA Alphabet各$100億、Nature稱須加速清潔能源",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-14-Taiex-Rebounds-Ukraine-Drone-Blitz-AMD-Crashes.md"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Claude for Manufacturing 17技能插件上線四大連接器、使用政策反假站條款正式生效、v2.1.323背景session憑證變數、自託管Managed Agents私測開放、Adobe MCP成本疑慮浮現、IPO確認11/18定價11/19掛牌ANT零售配額20%、Manufacturing為S-1第八垂直產業",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-13-Manufacturing-Plugin-Ships-AUP-Effective.md"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "黃仁勳辭去Nvidia全部職務即刻生效Kress暫代、台股暴跌1165點收43091震盪逾1500點、胡塞攻擊沙烏地多處油設施布蘭特漲3.3%至$95.82、Google發布Gemini 4 Hydrogen取代Flash、260學者發起兩岸和平倡議成立大會、S&P跌0.4%道瓊-189黃金跌3%",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-13-Huang-Resigns-Taiex-Plunges-Houthi-Strikes.md"
+    },
+    {
       "date": "2026-11-12",
       "title": "阿布達比和談第二日換俘協議但領土未解、台股大漲1545點收44257史上第6大漲點台積電漲110元、台積電傳投資Anthropic與OpenAI各$5億、Anthropic IPO路演$70-$78啟動估值$1.4兆、美10月CPI月增0.4%超預期S&P漲1.3%Nasdaq漲1.6%、COP31世界領袖峰會安塔利亞登場",
       "category": "daily-newspaper",
