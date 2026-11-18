@@ -22,6 +22,18 @@
   ],
   "articles": [
     {
+      "date": "2026-11-19",
+      "title": "APEC深圳開幕習近平破格機場迎川普三方會談定明日、台股震盪1677點漲102收40195九合一民調封關、Anthropic IPO定價$83高於區間明日ANT掛Nasdaq估值$1.5T、Nvidia收跌2.89%繼任與中國風險壓制、法國被揭秘密派軍駐烏、ICJ明裁定緬甸種族滅絕、Microsoft Ignite發表Copilot Home與Perception",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-19-APEC-Opens-ANT-Prices-83.md"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "IPO定價$83高於區間擴增至9.8億股募$813億ANT今日掛牌Nasdaq、v2.1.327釋出173項變更stateful workflow代理與mcp add-json、Astra Security MCP滲透測試伺服器接入Claude Code、Willison引Stenberg感嘆AI轉譯18.5萬行curl而人工同期合併300+ commit、微軟agent-framework PyPI遭植入憑證竊取、參議員跨黨派要求NIST代理安全標準、GPT-6.2 HN續燒1194分Fable勝Astra",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-19-ANT-Prices-83-V327-Ships-Astra-MCP.md"
+    },
+    {
       "date": "2026-11-18",
       "title": "GPT-6.2 Astra/Sol發布遭負評多人稱不如Opus 5.5、v2.1.326確認Code Mode支援代理團隊、Darktrace實證Claude Code記憶檔可當C2通道竊取1GB、OfficeSpace AI Canvas代理接入Claude MCP、Cato AgentSense即時阻斷惡意代理、Cypris R&D代理艦隊上線、obra/superpowers單日+1905星、IPO今晚定價認購近七倍承銷商傳$80以上、HN民調55%懷疑GPT-6.2",
       "category": "daily-newspaper-ai",
