@@ -22,6 +22,30 @@
   ],
   "articles": [
     {
+      "date": "2026-11-21",
+      "title": "Alpöge宣稱Claude助攻證明黎曼猜想Lean驗證中250K頁、v2.1.329釋出130項變更tasks可見性分支級審查hook信任警告、ANT次日跌8.5%收$89科技股全面拋售、ChatPRD遭token轉售詐欺Stripe升級Radar偵測、Gemini 4 Neon正式發布1M上下文$3-4入$15-20出、Willison指token詐欺已成跨平台產業、PSF年終募款啟動",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-21-Riemann-Claim-V329-Ships-ANT-Drops.md"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "台股崩跌2393點收36033創史上第三大限空令首日仍難擋、美股三大指數入修正道瓊跌950 S&P跌3.7% Nasdaq跌5.28%抹去全年漲幅、俄飛彈無人機首次落入波蘭領空NATO聲援、ANT次日跌8.5%收$89、TSMC遵守美新規關中國代工漏洞、AI伺服器PCB交期30個月",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-21-Taiex-Crashes-2393-Nasdaq-Correction-Poland-Missiles.md"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "川習普深圳三方峰會簽四點和平宣言、ANT掛牌Nasdaq首日收$97.17漲17%募$813億估值$1.76T、台股崩跌1768點收38426摜破年線史上第7大、ICJ史上首裁緬甸種族滅絕罪9比6、美股道瓊跌918失守5萬S&P跌2%、Google發布Gemini 4 Neon中階模型、限空令2.0今起實施",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-20-Trilateral-Peace-Deal-ANT-Debuts-97.md"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "ANT掛牌Nasdaq首日收$97.17漲17%估值$1.76T、v2.1.328釋出144項變更auto mode擴至Bedrock Foundry Vertex全雲端、Copilot Autopilot自主代理Frontier上線、Cognition Devin Bots多代理管理器beta增4.5倍PR、Wells Fargo Citi限制AI代理帳戶存取、Gemini 4 Neon現身程式碼未確認、Willison代理沙盒原型減安全疲勞",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-20-ANT-Closes-97-V328-Auto-Devin-Bots.md"
+    },
+    {
       "date": "2026-11-19",
       "title": "APEC深圳開幕習近平破格機場迎川普三方會談定明日、台股震盪1677點漲102收40195九合一民調封關、Anthropic IPO定價$83高於區間明日ANT掛Nasdaq估值$1.5T、Nvidia收跌2.89%繼任與中國風險壓制、法國被揭秘密派軍駐烏、ICJ明裁定緬甸種族滅絕、Microsoft Ignite發表Copilot Home與Perception",
       "category": "daily-newspaper",
