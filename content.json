@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-22",
+      "title": "Lean FRO與Mathlib聯合認證Claude輔助黎曼猜想證明17.5萬模組零錯誤、v2.1.330釋出142項變更easel圖表loop延長30天Enterprise登入、Together AI編碼代理洩漏HF憑證致推論prompt外流、Clerk MCP Tools 1.0端對端授權、Reva.AI Coding Agent Security上線、Bitdefender揭22惡意GitHub連結鎖定AI代理、Roblox Studio MCP三工具更新",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-22-Riemann-Certified-V330-Ships-Together-Leak.md"
+    },
+    {
+      "date": "2026-11-22",
       "title": "金管會第三波全面禁空令23日上路融券保證金升至150%、民眾黨全國大集結台北市府前登場選前倒數7天、波蘭啟動東方哨兵行動NATO承諾防衛、川普稱中國核武hot and heavy五角大廈估逾千枚、APEC深圳展望通過越南接棒、費半週跌逾10%創2001來最差、TSMC CoWoS擬漲20%設備交期8個月",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-22-Total-Short-Ban-NATO-Poland-Pledge.md"
