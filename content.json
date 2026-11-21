@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-22",
+      "title": "金管會第三波全面禁空令23日上路融券保證金升至150%、民眾黨全國大集結台北市府前登場選前倒數7天、波蘭啟動東方哨兵行動NATO承諾防衛、川普稱中國核武hot and heavy五角大廈估逾千枚、APEC深圳展望通過越南接棒、費半週跌逾10%創2001來最差、TSMC CoWoS擬漲20%設備交期8個月",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-22-Total-Short-Ban-NATO-Poland-Pledge.md"
+    },
+    {
       "date": "2026-11-21",
       "title": "Alpöge宣稱Claude助攻證明黎曼猜想Lean驗證中250K頁、v2.1.329釋出130項變更tasks可見性分支級審查hook信任警告、ANT次日跌8.5%收$89科技股全面拋售、ChatPRD遭token轉售詐欺Stripe升級Radar偵測、Gemini 4 Neon正式發布1M上下文$3-4入$15-20出、Willison指token詐欺已成跨平台產業、PSF年終募款啟動",
       "category": "daily-newspaper-ai",
