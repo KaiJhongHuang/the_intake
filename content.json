@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-23",
+      "title": "OpenRouter移除三家供應商撤銷125端點ZDR、Dragos金絲雀200萬prompt揭三供應商外洩、Computer Use beta擴展Team Enterprise預設關閉、Meta Muse混合對話洩漏銀行餘額暫停分享、Apple傳建自主AI代理2027推出、Amazon傳洽購Decart $70億、Willison llm-gemini 0.38加Neon、ANT黎曼認證效應進華爾街定價",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-23-OpenRouter-Drops-Three-Dragos-Canary-Muse-Leak.md"
+    },
+    {
+      "date": "2026-11-23",
       "title": "COP31安塔利亞破裂2009來首次無共識、NATO 23日緊急理事會回應俄飛彈闖波蘭、全面禁空令週一上路融券保證金150%、九合一倒數5天藍綠決戰雙北、美晶片新規TSMC三星暫停中國出貨、川普稱中國核武hot and heavy、Amazon傳洽購Decart $70億",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-23-COP31-Collapses-NATO-Poland-Meeting.md"
