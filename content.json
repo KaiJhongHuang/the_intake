@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-24",
+      "title": "Claude Ship三合一PR代理上線含Code Review GA與PR Steward Approvals beta、OX Security掃描15465個MCP伺服器22%存在注入風險、LangSmith Tool Gateway公測支援Claude Code、agent-mcts蒙地卡羅樹搜索上架PyPI、ANT選擇權首日交易活躍盤前回升4.5%盤後跌逾3%、AISI統計MCP工具暴增至177K",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-24-Ship-Launches-OX-MCP-Audit-ANT-Options.md"
+    },
+    {
+      "date": "2026-11-24",
       "title": "黃仁勳閃電復職Nvidia CEO帶動美股創2025/4來最佳日Nasdaq漲6.51%、台股由黑翻紅收漲778點至36812成交破兆、金馬63劉冠廷袁澧林封帝后善男信女奪最佳影片、COP31後逾90國簽電氣化承諾、TSMC ADR漲15%Amazon收購Decart技術",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-24-Huang-Returns-Nasdaq-Best-Day-Golden-Horse.md"
