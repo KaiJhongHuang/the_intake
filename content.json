@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-24",
+      "title": "黃仁勳閃電復職Nvidia CEO帶動美股創2025/4來最佳日Nasdaq漲6.51%、台股由黑翻紅收漲778點至36812成交破兆、金馬63劉冠廷袁澧林封帝后善男信女奪最佳影片、COP31後逾90國簽電氣化承諾、TSMC ADR漲15%Amazon收購Decart技術",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-24-Huang-Returns-Nasdaq-Best-Day-Golden-Horse.md"
+    },
+    {
       "date": "2026-11-23",
       "title": "OpenRouter移除三家供應商撤銷125端點ZDR、Dragos金絲雀200萬prompt揭三供應商外洩、Computer Use beta擴展Team Enterprise預設關閉、Meta Muse混合對話洩漏銀行餘額暫停分享、Apple傳建自主AI代理2027推出、Amazon傳洽購Decart $70億、Willison llm-gemini 0.38加Neon、ANT黎曼認證效應進華爾街定價",
       "category": "daily-newspaper-ai",
