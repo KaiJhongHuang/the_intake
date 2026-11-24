@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-25",
+      "title": "台股史上最大漲點3310點收40122重返4萬、美將Megaspeed列實體清單封堵對中轉運、Nasdaq回吐Huang行情跌2.47%費半重挫、AMD跌10%因337M股轉售、NATO部署AWACS至波蘭、COP31崩潰後EU推氣候談判改革、美擬對中歐加徵301關稅",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-25-Taiex-Record-Rally-Megaspeed-Blacklisted.md"
+    },
+    {
       "date": "2026-11-24",
       "title": "Claude Ship三合一PR代理上線含Code Review GA與PR Steward Approvals beta、OX Security掃描15465個MCP伺服器22%存在注入風險、LangSmith Tool Gateway公測支援Claude Code、agent-mcts蒙地卡羅樹搜索上架PyPI、ANT選擇權首日交易活躍盤前回升4.5%盤後跌逾3%、AISI統計MCP工具暴增至177K",
       "category": "daily-newspaper-ai",
