@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-25",
+      "title": "Skills over MCP公測Tasks與Elicitation正式GA、MCP SDK月下載破七億連接器破萬、Canva MCP全面開放設計工具接入AI代理、ANT第四日跌破$83 IPO價Amodei兄妹各售$2.8億、Opus 4.5淘汰日到期建議遷移Opus 5+、LeanData MCP上線排程編排",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-25-MCP-Skills-Beta-ANT-Below-IPO.md"
+    },
+    {
+      "date": "2026-11-25",
       "title": "台股史上最大漲點3310點收40122重返4萬、美將Megaspeed列實體清單封堵對中轉運、Nasdaq回吐Huang行情跌2.47%費半重挫、AMD跌10%因337M股轉售、NATO部署AWACS至波蘭、COP31崩潰後EU推氣候談判改革、美擬對中歐加徵301關稅",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-25-Taiex-Record-Rally-Megaspeed-Blacklisted.md"
