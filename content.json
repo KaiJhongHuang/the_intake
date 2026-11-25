@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-26",
+      "title": "台股回吐前日漲幅重挫1927點收38195史上第6大、美提301關稅對中歐日韓等14經濟體加徵最高20%、波蘭要求NATO研究攔截俄飛彈布魯塞爾初步討論、Nvidia黃仁勳效應退潮續跌7%ANT破發、九合一倒數3天北市民調拉鋸、NASA警告El Niño恐超1997最強",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-26-Taiex-Drops-1927-Section-301-Poland-NATO.md"
+    },
+    {
       "date": "2026-11-25",
       "title": "Skills over MCP公測Tasks與Elicitation正式GA、MCP SDK月下載破七億連接器破萬、Canva MCP全面開放設計工具接入AI代理、ANT第四日跌破$83 IPO價Amodei兄妹各售$2.8億、Opus 4.5淘汰日到期建議遷移Opus 5+、LeanData MCP上線排程編排",
       "category": "daily-newspaper-ai",
