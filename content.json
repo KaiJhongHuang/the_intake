@@ -23,6 +23,12 @@
   "articles": [
     {
       "date": "2026-11-26",
+      "title": "ANT盤中跌8%後V型反轉收$82.79收復IPO價、Willison長文標誌Opus4.5一週年回顧LLM三大轉折點、Magister行銷MCP連接85工具上線、DataGroomr MCP接入Salesforce品質管理、Artifacts Install as App beta上線桌面、datasette-agent 0.7a1釋出、The Register揭AI代理6分鐘取得金融機構密鑰、Frontier Academy FDE認證路徑開放",
+      "category": "daily-newspaper-ai",
+      "file": "Journal/02_Daily_Newspaper_AI/2026-11-26-ANT-Rebound-LLM-Inflections.md"
+    },
+    {
+      "date": "2026-11-26",
       "title": "台股回吐前日漲幅重挫1927點收38195史上第6大、美提301關稅對中歐日韓等14經濟體加徵最高20%、波蘭要求NATO研究攔截俄飛彈布魯塞爾初步討論、Nvidia黃仁勳效應退潮續跌7%ANT破發、九合一倒數3天北市民調拉鋸、NASA警告El Niño恐超1997最強",
       "category": "daily-newspaper",
       "file": "Journal/01_Daily_Newspaper/2026-11-26-Taiex-Drops-1927-Section-301-Poland-NATO.md"
