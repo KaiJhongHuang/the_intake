@@ -22,6 +22,12 @@
   ],
   "articles": [
     {
+      "date": "2026-11-27",
+      "title": "選前倒數2天藍綠催票台股反彈956點收39151、美301調查台灣15%不疊加與日韓歐同級、Nvidia暫停東南亞四國AI伺服器出貨因應BIS新規、波蘭東部禁飛區推進NATO秘書長會川普、開羅油罐車爆炸31死、TSMC德州$226億廠申請、ARTEX攻擊逾2250組織、韓國央行升息至3.25%",
+      "category": "daily-newspaper",
+      "file": "Journal/01_Daily_Newspaper/2026-11-27-Election-Eve-Taiex-Rebounds-Nvidia-Freeze.md"
+    },
+    {
       "date": "2026-11-26",
       "title": "ANT盤中跌8%後V型反轉收$82.79收復IPO價、Willison長文標誌Opus4.5一週年回顧LLM三大轉折點、Magister行銷MCP連接85工具上線、DataGroomr MCP接入Salesforce品質管理、Artifacts Install as App beta上線桌面、datasette-agent 0.7a1釋出、The Register揭AI代理6分鐘取得金融機構密鑰、Frontier Academy FDE認證路徑開放",
       "category": "daily-newspaper-ai",
